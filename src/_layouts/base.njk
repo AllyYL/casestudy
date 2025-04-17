@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/tailwind.output.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body class="{% if title == 'Info' %}info-page{% endif %}">
+    <header>
+        <div class="logo">
+            {% if isHomePage %}
+                <p class="home-description">Ally Yanxiu Luo is a product designer building innovative tools and experiences from 0 to 1 in New York.</p>
+                <p class="home-description-phone"><a href="/">Ally Yanxiu Luo</a></p>
+            {% else %}
+                <a href="/">Ally Yanxiu Luo</a>
+            {% endif %}
+        </div>
+        <nav>
+            <a href="/" class="{% if isHomePage %}active{% endif %}">Work</a>
+            <a href="/Info" class="{% if title == 'Info' %}active{% endif %}">Info</a>
+        </nav>
+    </header>
+    <main class="{% if title == 'Info' %}info-content{% endif %}">
+        {{ content | safe }}
+    </main>
+    <footer>
+       © Yanxiu Luo {{ '' | getYear }}
+    </footer>
+    <div class="back-to-top" id="backToTop"></div>
+    <script src="/assets/js/main.js"></script>
+    <script>
+        // Back to top functionality
+        const backToTop = document.getElementById('backToTop');
+        
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backToTop.classList.add('visible');
+            } else {
+                backToTop.classList.remove('visible');
+            }
+        });
+
+        backToTop.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    </script>
+</body>
+</html> 

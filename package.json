@@ -1,0 +1,21 @@
+{
+  "name": "allyluo",
+  "version": "1.0.0",
+  "description": "An Eleventy website",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "debug": "DEBUG=* eleventy",
+    "build:css": "tailwindcss -i ./src/assets/css/tailwind.css -o ./src/assets/css/tailwind.output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
