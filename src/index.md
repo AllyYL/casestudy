@@ -13,7 +13,7 @@ isHomePage: true
     </div>
     <div class="div3">
         <a href="/projects/weave/">
-            <img src="/assets/images/weave.webp" alt="Weave - A marketplace for NFT-paired phygital fashion">
+            <img src="src/assets/images/weave.webp" alt="Weave - A marketplace for NFT-paired phygital fashion">
         </a>
     </div>
     <div class="div4">
