@@ -3,7 +3,7 @@ title: Digital Temple
 category: Case Studies
 description: Design for education. An interactive archive for cultural heritage site.
 platform: web, mobile
-image: assets/images/digitaltemple.webp
+image: /assets/images/digitaltemple.webp
 tags: [projects]
 layout: project.njk
 ---
@@ -13,7 +13,7 @@ layout: project.njk
 An interactive web archive designed for immersive learning
 
 <div class="fullwidth-image-container">
-  <img src="assets/images/DTCover.webp" alt="Digital Temple cover image">
+  <img src="/assets/images/DTCover.webp" alt="Digital Temple cover image">
 </div>
 
 ## Context
@@ -49,7 +49,7 @@ As lead **UI/UX designer** and **project manager**, I collaborated with a cross-
 
 <div class="layout-gallery">
     <div style="position: relative; padding: 56.25% 0 0 0;">
-        <iframe src="https://player.vimeo.com/video/908942230?h=3c6c0a1f63" poster="assets/images/DTbanner.webp" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/908942230?h=3c6c0a1f63" poster="/assets/images/DTbanner.webp" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -76,19 +76,19 @@ A key design achievement was translating Kaihua Monastery's complex visual progr
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 90%">
-    <img src="assets/images/ChineseTheaterMenu.gif" alt="2D to 3D transition in the menu page">
+    <img src="/assets/images/ChineseTheaterMenu.gif" alt="2D to 3D transition in the menu page">
     <br>2D to 3D transition in the menu page.
     </div>
 </div>
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 100%">
-    <img src="assets/images/temporalstructure.gif" alt="Temporal structure visualization">
+    <img src="/assets/images/temporalstructure.gif" alt="Temporal structure visualization">
     </div>
 </div> 
 
 <video autoplay loop muted playsinline style="margin: auto; width: 90%; height: auto; display: block;">
-    <source src="assets/images/landscape.mp4" type="video/mp4">
+    <source src="/assets/images/landscape.mp4" type="video/mp4">
 </video>
 
 <div class="highlight-text">
@@ -113,28 +113,28 @@ Working closely with scholars in East Asian Studies, Architecture, Art History, 
    How might we preserve the depth of scholarship without overwhelming the user?
 </div>
 
-<img src="assets/images/templeinsert.webp" alt="A flowchart showing research to design process">
+<img src="/assets/images/templeinsert.webp" alt="A flowchart showing research to design process">
 
 We navigated this tension by building an interface that doesn't oversimplify but invites **layered exploration**, embedding research organically into spatial cues and interactive storytelling.
 <br><br><br>
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 80%">
-    <img src="assets/images/academictimeline.webp" alt="A flowchart showing research to design process">
+    <img src="/assets/images/academictimeline.webp" alt="A flowchart showing research to design process">
     </div>
 <br><br>
 
 ### Solution: Simplification
 
-<img src="assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
+<img src="/assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
 
 ### Solution: Visualization
 
-<img src="assets/images/Academic2.png" alt="A before and after image showing how architectures are visualized">
+<img src="/assets/images/Academic2.png" alt="A before and after image showing how architectures are visualized">
 
 ### Solution: Reinterpretation
 
-<img src="assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
+<img src="/assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
 
 <br>
 
@@ -151,7 +151,7 @@ We ultimately made a **key trade-off**: **simplifying certain mural details** an
 
 We conducted **domain research**, **affinity mapping**, and **user interviews** to explore the intersection of digital archives and web-based interaction.
 
-<img src="assets/images/domain.webp" alt="A domain research map">
+<img src="/assets/images/domain.webp" alt="A domain research map">
 
 We found that most archives either lack interactivity or oversimplify content—revealing a gap between engagement and depth.
 
@@ -177,7 +177,7 @@ We conducted two rounds of interviews. In the first round of user research, we i
 
 We tested best ways to showcase information that considers both readability and displaying as much original information as possible.
 
-<img src="assets/images/layout.png" alt="Vertical and horizontal layout">
+<img src="/assets/images/layout.png" alt="Vertical and horizontal layout">
 
 <br>
 
@@ -185,7 +185,7 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 
 <div class="fullwidth-image-container">
-  <img src="assets/images/User Test Image.png" alt="Horizontal and vertical layout options for the webpage.">
+  <img src="/assets/images/User Test Image.png" alt="Horizontal and vertical layout options for the webpage.">
 </div>
 
 <br>
@@ -196,11 +196,11 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 ## Iteration and Decisions
 
-<img src="assets/images/2.png" alt="An infograph showing branding guidelines">
+<img src="/assets/images/2.png" alt="An infograph showing branding guidelines">
 
-<img src="assets/images/13.png" alt="An infograph showing branding guidelines">
+<img src="/assets/images/13.png" alt="An infograph showing branding guidelines">
 
-<img src="assets/images/17.png" alt="An infograph showing branding guidelines">
+<img src="/assets/images/17.png" alt="An infograph showing branding guidelines">
 
 <br>
 
@@ -210,9 +210,9 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 ## Visual Identity
 
-<img src="assets/images/DTVI.webp" alt="An infograph showing branding guidelines">
+<img src="/assets/images/DTVI.webp" alt="An infograph showing branding guidelines">
 
-<img src="assets/images/gridlayout.webp" alt="An infograph showing grid layout guidelines">
+<img src="/assets/images/gridlayout.webp" alt="An infograph showing grid layout guidelines">
 
 <br>
 
@@ -225,7 +225,7 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 <a href="https://www.digitaltemple.art">www.digitaltemple.art</a>
 
 <a href="https://www.digitaltemple.art">
-  <img src="assets/images/website.webp" alt="A mockup of a MacBook displaying a webpage">
+  <img src="/assets/images/website.webp" alt="A mockup of a MacBook displaying a webpage">
 </a>
 
 ---
@@ -235,12 +235,12 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 ### Installation
 
 <div class="layout-gallery">
-    <img src="assets/images/Installation1.webp" alt="Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024">
+    <img src="/assets/images/Installation1.webp" alt="Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024">
     <br>Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024.
 </div>
 
 <div class="layout-gallery">
-    <img src="assets/images/Installation2.webp" alt="Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023">
+    <img src="/assets/images/Installation2.webp" alt="Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023">
     Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023
 </div>
 <br>
