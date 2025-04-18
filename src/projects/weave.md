@@ -44,7 +44,7 @@ For the product demo, we prioritized **mission-critical features that could driv
 <br>
 
 <div class="fullwidth-image-container">
-  <img src="/assets/images/weave2.webp" alt="Weave app from physical scanning to storytelling process illustration">
+  <img src="../assets/images/weave2.webp" alt="Weave app from physical scanning to storytelling process illustration">
 </div>
 
 ## Result
