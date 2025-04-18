@@ -9,7 +9,7 @@ layout: project.njk
 Web3 marketplace for NFT-backed phygital fashion
 
 <div class="fullwidth-image-container">
-  <img src="../assets/images/weavecover.png" alt="Weave app interface showing NFT fashion marketplace">
+  <img src="../assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
 ## Context
@@ -155,10 +155,10 @@ We interviewed potential users from three target areas and narrowed down our ide
 
 ## Persona
 
-![A persona featuring Emily's goals and frustrations.](../assets/images/weavepersona.png)
+![A persona featuring Emily's goals and frustrations.](../assets/images/WeavePersona.png)
 
 
-![A persona featuring Michael's goals and frustrations.](../assets/images/weavepersona2.png)
+![A persona featuring Michael's goals and frustrations.](../assets/images/WeavePersona2.png)
 
 
 <div class="dark-blue-section">
@@ -204,7 +204,7 @@ We interviewed potential users from three target areas and narrowed down our ide
 
 The most important action new users can take is to **register, access the marketplace, and make their purchase**. This is the app's primary flow. I charted a basic version, taking into consideration choices users might want to make, and specifying a clear happy path, which would allow me to start structuring the content within the app.
 
-![WEAVE's primary user flow](../assets/images/weaveprimaryflow.webp)
+![WEAVE's primary user flow](../assets/images/Weave Primary Flow.webp)
 
 A secondary flow exists **when a user already owns a physical garment** and wants to access its NFT twin through the app. This can be done by tapping at an NFC tag that comes along with garment purchase.
 
@@ -273,7 +273,7 @@ I started shaping WEAVE's visual design by gathering references, research, and i
 Each step in the garment history and each stakeholder in the supplychain is brokendown into digestable, sharable pieces. Meeting the needs of social-native users.
 
 <div class="fullwidth-image-container">
-  <img src="../assets/images/cardsocial.png" alt="Prototype of WEAVE highlighting the ease of sharing garment history on socials">
+  <img src="../assets/images/CardSocial.png" alt="Prototype of WEAVE highlighting the ease of sharing garment history on socials">
 </div>
 
 <div class="highlight-text">
@@ -281,7 +281,7 @@ Each step in the garment history and each stakeholder in the supplychain is brok
 </div>
 
 <div style="text-align: center; width: 60%; margin-left: auto; margin-right: auto;">
-  <img src="../assets/images/onestopshop.png" alt="3D View + integrated checkout system (more on this later)." style="max-width: 100%; height: auto;">
+  <img src="../assets/images/OneStopShop.png" alt="3D View + integrated checkout system (more on this later)." style="max-width: 100%; height: auto;">
 </div>
 
 <div class="highlight-text">
