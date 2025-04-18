@@ -76,16 +76,14 @@ A key design achievement was translating Kaihua Monastery's complex visual progr
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 90%">
-
-    ![A mockup image of a MacBook displaying a page from the website.](../assets/images/ChineseTheaterMenu.gif)
+    <img src="../assets/images/ChineseTheaterMenu.gif" alt="2D to 3D transition in the menu page">
     <br>2D to 3D transition in the menu page.
     </div>
 </div>
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 100%">
-
-    ![A mockup image of a MacBook displaying a page from the website.](../assets/images/temporalstructure.gif)
+    <img src="../assets/images/temporalstructure.gif" alt="Temporal structure visualization">
     </div>
 </div> 
 
@@ -115,29 +113,28 @@ Working closely with scholars in East Asian Studies, Architecture, Art History, 
    How might we preserve the depth of scholarship without overwhelming the user?
 </div>
 
-![A flowchart showing research to design process.](../assets/images/templeinsert.webp)
+<img src="../assets/images/templeinsert.webp" alt="A flowchart showing research to design process">
 
 We navigated this tension by building an interface that doesn't oversimplify but invites **layered exploration**, embedding research organically into spatial cues and interactive storytelling.
 <br><br><br>
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 80%">
-
-![A flowchart showing research to design process.](../assets/images/academictimeline.webp)
-</div>
+    <img src="../assets/images/academictimeline.webp" alt="A flowchart showing research to design process">
+    </div>
 <br><br>
 
 ### Solution: Simplification
 
-![A before and after image showcasing how murals are visualized in pointcloud model.](../assets/images/Academic1.png)
+<img src="../assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
 
 ### Solution: Visualization
 
-![A before and after image showing how architectures are visualized.](../assets/images/Academic2.png)
+<img src="../assets/images/Academic2.png" alt="A before and after image showing how architectures are visualized">
 
 ### Solution: Reinterpretation
 
-![A before and after image showing how light beams drawn on the murals are brought to life by 3D.](../assets/images/Academic3.png)
+<img src="../assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
 
 <br>
 
@@ -154,7 +151,7 @@ We ultimately made a **key trade-off**: **simplifying certain mural details** an
 
 We conducted **domain research**, **affinity mapping**, and **user interviews** to explore the intersection of digital archives and web-based interaction.
 
-![A domain research map.](../assets/images/domain.webp)
+<img src="../assets/images/domain.webp" alt="A domain research map">
 
 We found that most archives either lack interactivity or oversimplify content—revealing a gap between engagement and depth.
 
@@ -180,7 +177,7 @@ We conducted two rounds of interviews. In the first round of user research, we i
 
 We tested best ways to showcase information that considers both readability and displaying as much original information as possible.
 
-![Vertical and horizontal layout.](../assets/images/layout.png)
+<img src="../assets/images/layout.png" alt="Vertical and horizontal layout">
 
 <br>
 
@@ -199,11 +196,11 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 ## Iteration and Decisions
 
-![An infograph showing branding guidelines](../assets/images/2.png)
+<img src="../assets/images/2.png" alt="An infograph showing branding guidelines">
 
-![An infograph showing branding guidelines](../assets/images/13.png)
+<img src="../assets/images/13.png" alt="An infograph showing branding guidelines">
 
-![An infograph showing branding guidelines](../assets/images/17.png)
+<img src="../assets/images/17.png" alt="An infograph showing branding guidelines">
 
 <br>
 
@@ -213,9 +210,9 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 ## Visual Identity
 
-![An infograph showing branding guidelines](../assets/images/DTVI.webp)
+<img src="../assets/images/DTVI.webp" alt="An infograph showing branding guidelines">
 
-![An infograph showing grid layout guidelines](../assets/images/gridlayout.webp)
+<img src="../assets/images/gridlayout.webp" alt="An infograph showing grid layout guidelines">
 
 <br>
 
@@ -227,7 +224,9 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 <a href="https://www.digitaltemple.art">www.digitaltemple.art</a>
 
-[![A mockup of a MacBook displaying a webpage](../assets/images/website.webp)](https://www.digitaltemple.art)
+<a href="https://www.digitaltemple.art">
+  <img src="../assets/images/website.webp" alt="A mockup of a MacBook displaying a webpage">
+</a>
 
 ---
 
@@ -236,16 +235,13 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 ### Installation
 
 <div class="layout-gallery">
-
-    ![A mockup of a MacBook displaying a webpage](../assets/images/Installation1.webp)
+    <img src="../assets/images/Installation1.webp" alt="Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024">
     <br>Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024.
-
 </div>
 
 <div class="layout-gallery">
-
-    ![A mockup of a MacBook displaying a webpage](../assets/images/Installation2.webp)Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023
-
+    <img src="../assets/images/Installation2.webp" alt="Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023">
+    Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023
 </div>
 <br>
 
