@@ -34,7 +34,7 @@ isHomePage: true
         <p>UI/UX design for web and mobile app to shop local merchants.</p>
     </div>
     <div class="div8">
-        <a href="https://www.stevefagin.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/stevefagin.png" alt="Cover image for Steve Fagin's personal website" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));height: 220px "></a>
+        <a href="https://www.stevefagin.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/SteveFagin.png" alt="Cover image for Steve Fagin's personal website" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));height: 220px "></a>
         <h2><a href="https://www.stevefagin.com/" style="text-decoration: none">Artist Website</a></h2>
         <p>Design and development for Steve Fagin's personal website.</p>
     </div>
