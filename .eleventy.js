@@ -10,7 +10,6 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "src",
       output: "_site",
-      includes: "_layouts" // this is the only one needed for layouts
     }
   };
 };
