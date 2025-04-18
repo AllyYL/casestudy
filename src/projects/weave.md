@@ -9,7 +9,7 @@ layout: project.njk
 Web3 marketplace for NFT-backed phygital fashion
 
 <div class="fullwidth-image-container">
-  <img src="../../assets/images/weavecover.png" alt="Weave app interface showing NFT fashion marketplace">
+  <img src="../assets/images/weavecover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
 ## Context
@@ -98,7 +98,7 @@ For the product demo, we prioritized **mission-critical features that could driv
 
 <div class="layout-twocolumn">
     <div class="column-left">
-        <img src="../../assets/images/competitive.webp" alt="logos from competing companies in the crypto and e-commerce industries" style="max-height: 40%, width: auto;">
+        <img src="../assets/images/competitive.webp" alt="logos from competing companies in the crypto and e-commerce industries" style="max-height: 40%, width: auto;">
     </div>
     <div class="column-right">
         <p>I conducted a competitive audit across two key spaces: <strong>Blockchain-backed</strong> supply chain platforms, including IBM Food Trust, Provenance, Trace Network, and Slavery Footprint; <strong>E-commerce platforms</strong>, such as GOAT, SSENSE, Depop, and Etsy — all leading in user experience, community, and commerce design.</p>
@@ -118,7 +118,7 @@ What does sustainable fashion mean to online shoppers — and what would convinc
 
 <br>
 
-![A graph showing 3 kinds of users for WEAVE](../../assets/images/audience.webp)
+![A graph showing 3 kinds of users for WEAVE](../assets/images/audience.webp)
 
 <br>
 
@@ -155,10 +155,10 @@ We interviewed potential users from three target areas and narrowed down our ide
 
 ## Persona
 
-![A persona featuring Emily's goals and frustrations.](../../assets/images/weavepersona.png)
+![A persona featuring Emily's goals and frustrations.](../assets/images/weavepersona.png)
 
 
-![A persona featuring Michael's goals and frustrations.](../../assets/images/weavepersona2.png)
+![A persona featuring Michael's goals and frustrations.](../assets/images/weavepersona2.png)
 
 
 <div class="dark-blue-section">
@@ -169,7 +169,7 @@ We interviewed potential users from three target areas and narrowed down our ide
     <div class="layout-twocolumn">
         <div class="column-left">
             <h2>Integration</h2>
-            <img src="../../assets/images/integration.webp">
+            <img src="../assets/images/integration.webp">
         </div>
         <div class="column-right">
             <p><strong>Integrate shopping for physical garments and NFTs into one coherent experience</strong>, helping users access information without having to jump around pages.</p>
@@ -179,7 +179,7 @@ We interviewed potential users from three target areas and narrowed down our ide
     <div class="layout-twocolumn">
         <div class="column-left">
             <h2>Simplification</h2>
-            <img src="../../assets/images/simplification.webp">
+            <img src="../assets/images/simplification.webp">
         </div>
         <div class="column-right">
             <p><strong>Streamline the shopping process</strong> for users unfamiliar with NFTs/web 3, so they can order fashion items quickly and conveniently.</p>
@@ -189,7 +189,7 @@ We interviewed potential users from three target areas and narrowed down our ide
     <div class="layout-twocolumn">
         <div class="column-left">
             <h2>Participation</h2>
-            <img src="../../assets/images/participation.webp">
+            <img src="../assets/images/participation.webp">
         </div>
         <div class="column-right">
             <p>Create <strong>interactive UI to visualize supply chain in a narrative-driven manner</strong>, make sure users are part of the story.</p>
@@ -204,11 +204,11 @@ We interviewed potential users from three target areas and narrowed down our ide
 
 The most important action new users can take is to **register, access the marketplace, and make their purchase**. This is the app's primary flow. I charted a basic version, taking into consideration choices users might want to make, and specifying a clear happy path, which would allow me to start structuring the content within the app.
 
-![WEAVE's primary user flow](../../assets/images/weaveprimaryflow.webp)
+![WEAVE's primary user flow](../assets/images/weaveprimaryflow.webp)
 
 A secondary flow exists **when a user already owns a physical garment** and wants to access its NFT twin through the app. This can be done by tapping at an NFC tag that comes along with garment purchase.
 
-![WEAVE's physical garment led user flow](../../assets/images/weavephysicalflow.webp)
+![WEAVE's physical garment led user flow](../assets/images/weavephysicalflow.webp)
 
 <br>
 
@@ -234,7 +234,7 @@ With a solid foundation in place, I created a minimal prototype and gathered fee
 </div>
 
 <div class="fullwidth-image-container">
-  <img src="../../assets/images/usertest1.png" alt="Before and after userflow for guest checkout">
+  <img src="../assets/images/usertest1.png" alt="Before and after userflow for guest checkout">
 </div>
 
 ## ②
@@ -250,7 +250,7 @@ With a solid foundation in place, I created a minimal prototype and gathered fee
     </div>
 </div>
 
-![Before and after userflow for guest checkout](../../assets/images/usertest2.png)
+![Before and after userflow for guest checkout](../assets/images/usertest2.png)
 
 <br>
 
@@ -263,7 +263,7 @@ With a solid foundation in place, I created a minimal prototype and gathered fee
 I started shaping WEAVE's visual design by gathering references, research, and inspiration to define its brand identity. Since transparency and traceability are at the heart of WEAVE, I wanted the visual language to feel trustworthy, tactile, and elegantly functional, bridging the digital and physical seamlessly.
 
 <div class="fullwidth-image-container">
-  <img src="../../assets/images/hifidelity.png" alt="Weave app interface showing NFT fashion marketplace">
+  <img src="../assets/images/hifidelity.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
 <div class="highlight-text">
@@ -273,7 +273,7 @@ I started shaping WEAVE's visual design by gathering references, research, and i
 Each step in the garment history and each stakeholder in the supplychain is brokendown into digestable, sharable pieces. Meeting the needs of social-native users.
 
 <div class="fullwidth-image-container">
-  <img src="../../assets/images/cardsocial.png" alt="Prototype of WEAVE highlighting the ease of sharing garment history on socials">
+  <img src="../assets/images/cardsocial.png" alt="Prototype of WEAVE highlighting the ease of sharing garment history on socials">
 </div>
 
 <div class="highlight-text">
@@ -281,7 +281,7 @@ Each step in the garment history and each stakeholder in the supplychain is brok
 </div>
 
 <div style="text-align: center; width: 60%; margin-left: auto; margin-right: auto;">
-  <img src="../../assets/images/onestopshop.png" alt="3D View + integrated checkout system (more on this later)." style="max-width: 100%; height: auto;">
+  <img src="../assets/images/onestopshop.png" alt="3D View + integrated checkout system (more on this later)." style="max-width: 100%; height: auto;">
 </div>
 
 <div class="highlight-text">
@@ -291,7 +291,7 @@ Each step in the garment history and each stakeholder in the supplychain is brok
 Key details upfront, deeper data on flip—balancing transparency with engagement. Users explore at their own pace.
 
 <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block; clip-path: inset(0 0 5px 0);">
-  <source src="../../assets/images/cardflip.mov" type="video/mp4">
+  <source src="../assets/images/cardflip.mov" type="video/mp4">
 </video>
 
 Dynamic card flip to decluster and store information--Key information upfront, and supporting evidence, certificates, data points in the back.
@@ -300,14 +300,14 @@ Dynamic card flip to decluster and store information--Key information upfront, a
 
 <div style="text-align: center; width: 40%; margin-left: auto; margin-right: auto;">
 
-  ![Card stacking motion).](../../assets/images/stack.gif)
+  ![Card stacking motion).](../assets/images/stack.gif)
 </div>
 
 A concept demo to showcase the physical to digital "stacking" behind the choice of card deck UI.
 
 <div style="text-align: center;">
 
-![NFC tag scan to access product.](../../assets/images/conceptnft.gif)
+![NFC tag scan to access product.](../assets/images/conceptnft.gif)
 
 </div>
 
@@ -321,7 +321,7 @@ A concept demo to showcase the physical to digital "stacking" behind the choice 
 
 Logo, color, typography
 
-![Style guide for WEAVE](../../assets/images/weavebrand.webp)
+![Style guide for WEAVE](../assets/images/weavebrand.webp)
 
 <br>
 
