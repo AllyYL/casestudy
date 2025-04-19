@@ -37,11 +37,25 @@ isHomePage: true
         <p>Design and development for Steve Fagin's personal website.</p>
     </div>
     <div class="div9">
+        <a href="https://retireinequality.com/soccer/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/tiaa.png" alt="Soccer ball design for TIAA's retire inequality campaign" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <h2><a href="https://retireinequality.com/soccer/" style="text-decoration: none">TIAA: Retire Inequality</a></h2>
+        <p>Designed a soccer ball for TIAA.</p>
+    </div>
+    <div class="div10"><h1>Fun</h1></div>
+    <div class="div11">
         <a href="https://allyyl.github.io/Keyboard/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/keyboard.gif" alt="Keyboard is the New Sexy - A series of websites about censorship and female nudity" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="https://allyyl.github.io/Keyboard/" style="text-decoration: none">Keyboard is the New Sexy</a></h2>
         <p>Websites about censorship and female nudity. Hand coded with JS/HTML/CSS</p>
     </div>
-    <!-- <div class="div10"><h1>Editorial</h1></div>
-    <div class="div11"><h2>Meanwhile, my other persona, who writes and makes art-tangent works:<br><a href="www.luoyanxiu.com">www.luoyanxiu.com</a></h2></div> -->
+    <div class="div12">
+        <a href="https://www.youtube.com/watch?v=7n5AXpsue5k" target="_blank" rel="noopener noreferrer"><img src="./assets/images/water.gif" alt="A tutorial on water simulation made with TouchDesigner" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <h2><a href="https://www.youtube.com/watch?v=7n5AXpsue5k/" style="text-decoration: none">Water Simulation</a></h2>
+        <p>An interactive water simulation created with TouchDesigner</p>
+    </div>
+    <div class="div13">
+        <a href="https://vimeo.com/828694743?share=copy" target="_blank" rel="noopener noreferrer"><img src="./assets/images/helix.webp" alt="Keyboard is the New Sexy - A series of websites about censorship and female nudity" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <h2><a href="https://vimeo.com/828694743?share=copy" style="text-decoration: none">Double Helix</a></h2>
+        <p>3D animated film made with Cinema4D. Official Selection at Digerati Emergent Media Festival, Denver 2023 (pw: helix)</p>
+    </div>
 </div>
 <br><br>
