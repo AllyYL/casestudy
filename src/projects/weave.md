@@ -76,12 +76,14 @@ For the product demo, we prioritized **mission-critical features that could driv
 <br>
 
 <div class="dark-blue-section">
+    <br><br><br>
     <div class="plain">
         <h1>Problem Scope</h1><br>
         <p>WEAVE blends emerging technology with familiar shopping habits. The challenge was to design a seamless user experience that:
         <br><br> <strong>1. lowers the barrier to entry, <br>2. communicates value early, <br>3. drives engagement with an unfamiliar but promising product model.</strong><br><br>
         So, how did we do that?
     </div>
+    <br><br><br>
 </div>
 
 <div class="highlight-text">

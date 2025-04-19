@@ -45,12 +45,12 @@ isHomePage: true
     <div class="div11">
         <a href="https://allyyl.github.io/Keyboard/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/keyboard.gif" alt="Keyboard is the New Sexy - A series of websites about censorship and female nudity" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="https://allyyl.github.io/Keyboard/" style="text-decoration: none">Keyboard is the New Sexy</a></h2>
-        <p>Websites about censorship and female nudity. Hand coded with JS/HTML/CSS</p>
+        <p>Websites about censorship and female nudity. Hand coded with JS/HTML/CSS.</p>
     </div>
     <div class="div12">
         <a href="https://www.youtube.com/watch?v=7n5AXpsue5k" target="_blank" rel="noopener noreferrer"><img src="./assets/images/water.gif" alt="A tutorial on water simulation made with TouchDesigner" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="https://www.youtube.com/watch?v=7n5AXpsue5k/" style="text-decoration: none">Water Simulation</a></h2>
-        <p>An interactive water simulation created with TouchDesigner</p>
+        <p>An interactive water simulation created with TouchDesigner.</p>
     </div>
     <div class="div13">
         <a href="/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/eelbook.gif" alt="Zine about eels" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>

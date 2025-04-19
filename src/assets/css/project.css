@@ -85,7 +85,6 @@ strong {
     color: white;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    padding: 3rem;
 }
 
 .dark-blue-section img {
@@ -340,15 +339,19 @@ strong {
     }
 }
 
+.pain {
+    width: 60%;
+    margin: 0 auto;
+}
+
 .plain h1{
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 1rem;
 }
 
 .plain p{
-    width: 80%;
-    margin: 0 auto;
+    width: 100%;
 }
 
 /* Progress bar */
