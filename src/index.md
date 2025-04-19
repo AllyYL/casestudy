@@ -9,7 +9,6 @@ isHomePage: true
     <div class="div2">
         <h2><a href="./projects/weave/" style="text-decoration: none">Web3 Social E-commerce</a></h2>
         <p>WEAVE is a marketplace for NFT-paired phygital fashion.</p>
-        <p>Read the case↗</p>
     </div>
     <div class="div3">
         <a href="./projects/weave/">
@@ -19,8 +18,7 @@ isHomePage: true
     <div class="div4">
         <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Online Learning Tool</a></h2>
         <p>Immersive classroom, made by and for Harvard University.</p>
-        <p>See the live site↗</p>
-        <p>Read the case↗</p>
+        <p><a href="https://www.digitaltemple.art">See the live site↗</a></p>
     </div>
     <div class="div5">
         <a href="./projects/digitaltemple/">
