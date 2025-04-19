@@ -78,13 +78,13 @@ A key design achievement was translating Kaihua Monastery's complex visual progr
     <source src="/assets/images/TheaterMenu.mp4" type="video/mp4">
 </video>
 
-<br><br>
+<br>
 
 <video autoplay loop muted playsinline style="margin: auto; width: 600px; height: auto; display: block;">
     <source src="/assets/images/temporalstructure.mp4" type="video/mp4">
 </video>
 
-<br><br>
+<br>
 
 <video autoplay loop muted playsinline style="margin: auto; width: 600px; height: auto; display: block;">
     <source src="/assets/images/landscape.mp4" type="video/mp4">
