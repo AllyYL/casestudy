@@ -348,9 +348,9 @@ strong {
         width: 100%;
     }
 
-    .dark-blue-section {
+    /* .dark-blue-section {
         width: 80%;
-    }
+    } */
 
     .plain {
         width: 80%;
@@ -366,6 +366,11 @@ strong {
         width: 100%;
     }
     
+    .dark-blue-section .layout-twocolumn {
+        width: 80%;
+        margin: 0 auto;
+        align-items: start;
+    }
 }
 
 /* Progress bar */
