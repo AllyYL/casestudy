@@ -128,23 +128,27 @@ We navigated this tension by building an interface that doesn't oversimplify but
 
 <img src="/assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
 
+<br><br>
+
 ### Solution: Visualization
 
 <img src="/assets/images/Academic2.png" alt="A before and after image showing how architectures are visualized">
+
+<br><br>
 
 ### Solution: Reinterpretation
 
 <img src="/assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
 
-<br>
+<br><br>
 
 We ultimately made a **key trade-off**: **simplifying certain mural details** and scholarly interpretations in favor of a visualization style tailored to modern audiences. By adding a hint of theatricality and narrative rhythm, we aimed to spark curiosity and **draw users into deeper engagement**, rather than overwhelm them at the start.
 
-<br><br>
+<br>
 
 ---
 
-<br><br>
+<br>
 
 
 ## Research & Insights
@@ -165,10 +169,12 @@ We conducted two rounds of interviews. In the first round of user research, we i
 <br>
 
 <div class="dark-blue-section">
+    <br><br>
     <div class="plain">
         <h1>Mission Statement</h1><br>
         <p>Create an engaging virtual space that allows users to explore cultural heritage sites interactively AND foster deeper learning.</p>
     </div>
+    <br><br>
 </div>
 
 <br>
@@ -202,7 +208,7 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 <img src="/assets/images/17.png" alt="An infograph showing branding guidelines">
 
-<br>
+<br><br>
 
 ---
 
@@ -214,10 +220,11 @@ After establishing usability testing metrics, we interviewed 10 participants fro
 
 <img src="/assets/images/gridlayout.webp" alt="An infograph showing grid layout guidelines">
 
-<br>
+<br><br>
 
 ---
 
+<br><br>
 
 ## Deliverables
 ### Website
