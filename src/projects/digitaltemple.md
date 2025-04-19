@@ -81,13 +81,11 @@ A key design achievement was translating Kaihua Monastery's complex visual progr
     </div>
 </div>
 
-<div class="layout-gallery">
-    <div style="text-align: center; margin: auto; width: 100%">
-    <img src="/assets/images/temporalstructure.gif" alt="Temporal structure visualization">
-    </div>
-</div> 
+<video autoplay loop muted playsinline style="width: 400px; height: auto; display: block;">
+    <source src="/assets/images/temporalstructure.mov" type="video/mov">
+</video>
 
-<video autoplay loop muted playsinline style="margin: auto; width: 90%; height: auto; display: block;">
+<video autoplay loop muted playsinline style="margin: auto; width: 400px; height: auto; display: block;">
     <source src="/assets/images/landscape.mp4" type="video/mp4">
 </video>
 
