@@ -284,6 +284,20 @@ strong {
     line-height: 1.8;
 }
 
+.plain {
+    width: 60%;
+    margin: auto;
+}
+
+.plain h1{
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+
+.plain p{
+    width: 100%;
+}
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
@@ -348,21 +362,6 @@ strong {
         width: 100%;
     }
     
-}
-
-.plain {
-    width: 60%;
-    margin: auto;
-}
-
-.plain h1{
-    width: 100%;
-    margin: 0 auto;
-    margin-bottom: 1rem;
-}
-
-.plain p{
-    width: 100%;
 }
 
 /* Progress bar */
