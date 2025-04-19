@@ -330,12 +330,12 @@ strong {
         margin: 4rem auto;
     }
     
-    .dark-blue-section .layout-twocolumn {
+    .layout-twocolumn {
         width: 75%;
     }
 
     .plain {
-        width: 90%;
+        width: 80%;
     }
 
     .plain h1{
