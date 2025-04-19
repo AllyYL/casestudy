@@ -330,13 +330,24 @@ strong {
         margin: 4rem auto;
     }
     
-    .dark-blue-section {
-        padding: 3rem 0;
-    }
-    
     .dark-blue-section .layout-twocolumn {
         width: 75%;
     }
+
+    .plain {
+        width: 90%;
+    }
+
+    .plain h1{
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 1rem;
+    }
+
+    .plain p{
+        width: 100%;
+    }
+    
 }
 
 .plain {

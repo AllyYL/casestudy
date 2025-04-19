@@ -83,7 +83,7 @@ For the product demo, we prioritized **mission-critical features that could driv
         <br><br> <strong>1. lowers the barrier to entry, <br>2. communicates value early, <br>3. drives engagement with an unfamiliar but promising product model.</strong><br><br>
         So, how did we do that?
     </div>
-    <br><br><br>
+    <br><br>
 </div>
 
 <div class="highlight-text">
@@ -164,6 +164,7 @@ We interviewed potential users from three target areas and narrowed down our ide
 
 
 <div class="dark-blue-section">
+    <br><br><br>
     <div class="plain">
         <h1>Objectives</h1>
     </div>
@@ -197,7 +198,7 @@ We interviewed potential users from three target areas and narrowed down our ide
             <p>Create <strong>interactive UI to visualize supply chain in a narrative-driven manner</strong>, make sure users are part of the story.</p>
         </div>
     </div>
-    <br>
+    <br><br>
 </div>
 
 <br>
@@ -300,7 +301,7 @@ Dynamic card flip to decluster and store information--Key information upfront, a
 
 <br>
 
-<div style="text-align: center; width: 40%; margin-left: auto; margin-right: auto;">
+<div style="text-align: center; width: 60%; margin-left: auto; margin-right: auto;">
 
   ![Card stacking motion).](/assets/images/stack.gif)
 </div>
