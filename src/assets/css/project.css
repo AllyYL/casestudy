@@ -326,7 +326,7 @@ strong {
     }
     
     .quote-container {
-        width: 90%;
+        width: 100%;
         padding: 1.5rem;
     }
     
@@ -345,7 +345,11 @@ strong {
     }
     
     .layout-twocolumn {
-        width: 75%;
+        width: 100%;
+    }
+
+    .dark-blue-section {
+        width: 80%;
     }
 
     .plain {
