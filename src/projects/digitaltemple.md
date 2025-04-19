@@ -74,15 +74,12 @@ As lead **UI/UX designer** and **project manager**, I collaborated with a cross-
 A key design achievement was translating Kaihua Monastery's complex visual program into an **interactive 3D web experience** that **doesn't fragment the user journey**. Instead of separating research, images, and data across disconnected pages (as many heritage platforms do), we **embedded historical content directly within the reconstructed space**.
 
 
-<div class="layout-gallery">
-    <div style="text-align: center; margin: auto; width: 90%">
-    <img src="/assets/images/ChineseTheaterMenu.gif" alt="2D to 3D transition in the menu page">
-    <br>2D to 3D transition in the menu page.
-    </div>
-</div>
+<video autoplay loop muted playsinline style="margin: auto; width: 400px; height: auto; display: block;">
+    <source src="/assets/images/TheaterMenu.mp4" type="video/mp4">
+</video>
 
-<video autoplay loop muted playsinline style="width: 400px; height: auto; display: block;">
-    <source src="/assets/images/temporalstructure.mov" type="video/mov">
+<video autoplay loop muted playsinline style="margin: auto; width: 400px; height: auto; display: block;">
+    <source src="/assets/images/temporalstructure.mp4" type="video/mp4">
 </video>
 
 <video autoplay loop muted playsinline style="margin: auto; width: 400px; height: auto; display: block;">
