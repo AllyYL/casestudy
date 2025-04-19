@@ -55,7 +55,7 @@ isHomePage: true
     <div class="div13">
         <a href="/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/eelbook.gif" alt="Zine about eels" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="/" style="text-decoration: none">Eel Book</a></h2>
-        <p>A zine about eels, comprised of footnotes.</p>
+        <p>A zine about eels, comprised of a chain of footnotes.</p>
     </div>
 </div>
 <br><br>
