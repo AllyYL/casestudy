@@ -1,6 +1,10 @@
 ---
 title: Weave
+category: Case Studies
 description: Web3 marketplace for NFT-backed phygital fashion
+platform: iOS
+image: /assets/images/WeaveCover.png
+tags: [projects]
 layout: project.njk
 ---
 
