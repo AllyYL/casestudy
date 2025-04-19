@@ -53,9 +53,9 @@ isHomePage: true
         <p>An interactive water simulation created with TouchDesigner</p>
     </div>
     <div class="div13">
-        <a href="https://vimeo.com/828694743?share=copy" target="_blank" rel="noopener noreferrer"><img src="./assets/images/helix.webp" alt="Keyboard is the New Sexy - A series of websites about censorship and female nudity" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
-        <h2><a href="https://vimeo.com/828694743?share=copy" style="text-decoration: none">Double Helix</a></h2>
-        <p>3D animated film made with Cinema4D. Official Selection at Digerati Emergent Media Festival, Denver 2023 (pw: helix)</p>
+        <a href="/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/eelbook.gif" alt="Zine about eels" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <h2><a href="/" style="text-decoration: none">Eel Book</a></h2>
+        <p>A zine about eels, comprised of footnotes.</p>
     </div>
 </div>
 <br><br>
