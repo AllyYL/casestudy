@@ -16,9 +16,6 @@ An interactive web archive designed for immersive learning
   <img src="/assets/images/DTCover.webp" alt="Digital Temple cover image">
 </div>
 
-
-<div class="hightlight-text">Reimagining cultural heritage through immersive web design</div>
-
 ## Context
 
 I led UX and interaction design for a 360° virtual experience of the Kaihua Monastery. Collaborating with CAMLab, I translated complex historical research into an intuitive interface that allows users to explore spatial narratives, interact with 3D objects, and experience religious art in context.

@@ -16,8 +16,6 @@ Web3 marketplace for NFT-backed phygital fashion
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
-<div class="hightlight-text">Bringing sustainability to life through transparent UI</div>
-
 ## Context
 
 WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product’s journey—from seed to store.
