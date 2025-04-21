@@ -16,13 +16,14 @@ An interactive web archive designed for immersive learning
   <img src="/assets/images/DTCover.webp" alt="Digital Temple cover image">
 </div>
 
+
+<div class="hightlight-text">Reimagining cultural heritage through immersive web design</div>
+
 ## Context
 
-Digital Temple is a series of **interactive web archives** that use **3D visualization** to preserve and revitalize remote cultural heritage sites. The platform reimagines how digital tools can support education, access, and long-term preservation of fragile architectural spaces.
+I led UX and interaction design for a 360° virtual experience of the Kaihua Monastery. Collaborating with CAMLab, I translated complex historical research into an intuitive interface that allows users to explore spatial narratives, interact with 3D objects, and experience religious art in context.
 
-One of the featured sites, **Kaihua Monastery**, has been adopted as a **classroom tool at Harvard University**, where it supports undergraduate and graduate courses in spatial storytelling, architectural analysis, and digital heritage studies.
-
-As lead **UI/UX designer** and **project manager**, I collaborated with a cross-disciplinary team of scholars, architects, visual artists, and musicians to translate complex research into an immersive, accessible user experience.
+As lead **UI/UX designer** and **project manager**, I led end-to-end UX for a virtual educational platform with interactive 3D environments, working across research, wireframes, and prototype testing..
 
 <div class="layout-twocolumn">
     <div class="column-left">

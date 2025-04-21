@@ -16,11 +16,11 @@ Web3 marketplace for NFT-backed phygital fashion
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
+<div class="hightlight-text">Bringing sustainability to life through transparent UI</div>
+
 ## Context
 
-WEAVE is a social e-commerce marketplace that redefines sustainable fashion by offering physical and digital garments, each paired with an on-chain NFT for provenance tracking and authentication on Tezos.
-
-As the founding product designer, I helped **bring WEAVE from 0 to 1**, collaborating closely with a team of fashion designers, blockchain engineers, and brand strategists  to shape the product vision, user experience, and design system.
+WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product’s journey—from seed to store.
 
 For the product demo, we prioritized **mission-critical features that could drive conversion and resonate with trend-aware early adopters**, while balancing the complexity of an experimental web3 concept.
 
