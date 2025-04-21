@@ -18,7 +18,7 @@ Web3 marketplace for NFT-backed phygital fashion
 
 ## Context
 
-WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product’s journey—from seed to store.
+WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product's journey—from seed to store.
 
 For the product demo, we prioritized **mission-critical features that could drive conversion and resonate with trend-aware early adopters**, while balancing the complexity of an experimental web3 concept.
 
