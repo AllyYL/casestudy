@@ -81,14 +81,14 @@ For the product demo, we prioritized mission-critical features that could drive 
     <br><br><br>
     <div class="plain">
         <h1>Challenge</h1><br>
-        <p>Fashion sustainability data is complex and often opaque. The challenge was to visualize this in a way that felt intuitive, transparent, and elegant—without overwhelming users.
-        <br><br> <strong>1. lowers entry barrier, <br>2. communicates value early, <br>3. drives engagement with an unfamiliar but promising product model.</strong>
+        <p>Fashion sustainability data is complex and often opaque. <strong>The challenge was to visualize this in a way that felt intuitive, transparent, and elegant—without overwhelming users.</strong>
+        <br><br>1. lowers entry barrier, <br>2. communicates value early, <br>3. drives engagement with an unfamiliar but promising product model.
     </div>
     <br><br>
 </div>
 
 <div class="highlight-text">
-    How can design convert curiosity into sustained usage?
+    How can design convert complexity into smart simplicity?
 </div>
 
 <br>
@@ -141,7 +141,7 @@ We interviewed potential users from three target areas and narrowed down our ide
 </div>
 
 <div class="quote-container">
-  <p>I want to show them what it took to make this pair of shoes.</p>
+  <p>I've yet to find a place where I can shop both physical AND digital fashion at the same time.</p>
   <cite>— Hannah, Fashion designer</cite>
 </div>
 
@@ -208,7 +208,7 @@ We interviewed potential users from three target areas and narrowed down our ide
 
 The most important action new users can take is to **register, access the marketplace, and make their purchase**. This is the app's primary flow. I charted a basic version, taking into consideration choices users might want to make, and specifying a clear happy path, which would allow me to start structuring the content within the app.
 
-![WEAVE's primary user flow](/assets/images/Weave Primary Flow.webp)
+![WEAVE's primary user flow](/assets/images/WeavePrimaryFlow.webp)
 
 A secondary flow exists **when a user already owns a physical garment** and wants to access its NFT twin through the app. This can be done by tapping at an NFC tag that comes along with garment purchase.
 
