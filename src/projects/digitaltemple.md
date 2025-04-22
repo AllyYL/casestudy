@@ -20,7 +20,7 @@ An interactive web archive designed for immersive learning
 
 I led UX and interaction design for a 360° virtual experience of the Kaihua Monastery. Collaborating with CAMLab, I translated complex historical research into an intuitive interface that allows users to explore spatial narratives, interact with 3D objects, and experience religious art in context.
 
-As lead **UI/UX designer** and **project manager**, I led end-to-end UX for a virtual educational platform with interactive 3D environments, working across research, wireframes, and prototype testing..
+As lead **UI/UX designer** and **project manager**, I led end-to-end UX for a virtual educational platform with interactive 3D environments, working across research, wireframes, and prototype testing.
 
 <div class="layout-twocolumn">
     <div class="column-left">

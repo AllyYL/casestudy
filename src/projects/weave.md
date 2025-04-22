@@ -20,7 +20,7 @@ Web3 marketplace for NFT-backed phygital fashion
 
 WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product's journey—from seed to store.
 
-For the product demo, we prioritized **mission-critical features that could drive conversion and resonate with trend-aware early adopters**, while balancing the complexity of an experimental web3 concept.
+For the product demo, we prioritized mission-critical features that could drive conversion and resonate with trend-aware early adopters, while balancing the complexity of an experimental web3 concept.
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -80,10 +80,9 @@ For the product demo, we prioritized **mission-critical features that could driv
 <div class="dark-blue-section">
     <br><br><br>
     <div class="plain">
-        <h1>Problem Scope</h1><br>
-        <p>WEAVE blends emerging technology with familiar shopping habits. The challenge was to design a seamless user experience that:
-        <br><br> <strong>1. lowers the barrier to entry, <br>2. communicates value early, <br>3. drives engagement with an unfamiliar but promising product model.</strong><br><br>
-        So, how did we do that?
+        <h1>Challenge</h1><br>
+        <p>Fashion sustainability data is complex and often opaque. The challenge was to visualize this in a way that felt intuitive, transparent, and elegant—without overwhelming users.
+        <br><br> <strong>1. lowers entry barrier, <br>2. communicates value early, <br>3. drives engagement with an unfamiliar but promising product model.</strong>
     </div>
     <br><br>
 </div>
@@ -105,9 +104,9 @@ For the product demo, we prioritized **mission-critical features that could driv
         <img src="/assets/images/competitive.webp" alt="logos from competing companies in the crypto and e-commerce industries" style="max-height: 40%, width: auto;">
     </div>
     <div class="column-right">
-        <p>I conducted a competitive audit across two key spaces: <strong>Blockchain-backed</strong> supply chain platforms, including IBM Food Trust, Provenance, Trace Network, and Slavery Footprint; <strong>E-commerce platforms</strong>, such as GOAT, SSENSE, Depop, and Etsy — all leading in user experience, community, and commerce design.</p>
+        <p>I conducted a competitive audit across Blockchain-backed supply chain platforms and E-commerce platforms to understand the needs of fashion brands and consumers regarding supply chain transparency.</p>
         <br>
-        <p>WEAVE differentiates itself by <strong>combining NFT-based supply chain tracking with a social-native e-commerce experience</strong>. Where competitors focus on either provenance or community, WEAVE unites both — turning transparency into <strong>shareable storytelling</strong>.</p>
+        <p>I found out that there is opportunity in <strong>combining supply chain tracking with a social-native e-commerce experience</strong>: While our competitors focus on either provenance or community, WEAVE can stand out by combining both — turning transparency into <strong>shareable storytelling</strong>.</p>
     </div>
 </div>
 
@@ -118,7 +117,7 @@ For the product demo, we prioritized **mission-critical features that could driv
 
 ## User Research
 
-What does sustainable fashion mean to online shoppers — and what would convince them to switch? Through surveys and interviews with 14 potential users, we explored how they perceive credibility, trust, and innovation in fashion.
+What does sustainable fashion mean to online shoppers — and what would convince them to switch platforms? Through surveys and interviews with 14 potential users, we explored how they perceive credibility, trust, and innovation in fashion.
 
 <br>
 
@@ -137,17 +136,17 @@ We interviewed potential users from three target areas and narrowed down our ide
 <br>
 
 <div class="quote-container">
-  <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I can care about.</p>
+  <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I should care about.</p>
   <cite>— Anonymous shopper</cite>
 </div>
 
 <div class="quote-container">
-  <p>I've yet to find a place where I can shop both physical AND digital fashion at the same time.</p>
+  <p>I want to show them what it took to make this pair of shoes.</p>
   <cite>— Hannah, Fashion designer</cite>
 </div>
 
 <div class="quote-container">
-  <p>I want to participate, be on-chain, be part of it.</p>
+  <p>It's one thing to own. To participate, be on-chain, and be part of it--that's a whole lot more attractive.</p>
   <cite>— NFT Collector</cite>
 </div>
 
