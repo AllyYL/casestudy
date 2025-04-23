@@ -18,13 +18,13 @@ Web3 marketplace for NFT-backed phygital fashion
 
 # Product Journey as Story: Layering Supply Chain Data into a Social UX
 
+<br>
+
 ## Context
 
 WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product's journey—from seed to store.
 
 For their early MVP, I created a card-based interface that transforms complex supply chain data into visual stories. The application simplifies long product journeys through flip-card mechanics that reveal detail only when needed—and stack into social, shareable threads. 
-
-Designed with both digital and physical integration in mind, the experience bridges in-store tags with digital proof, turning sustainability into something both transparent and emotionally resonant.
 
 
 <div class="layout-twocolumn">
@@ -110,7 +110,7 @@ Designed with both digital and physical integration in mind, the experience brid
     <div class="column-right">
         <p>To better understand the space, I conducted a competitive audit of blockchain-backed supply chain platforms and e-commerce experiences. I analyzed both how they visualize provenance and how they engage consumers emotionally.</p>
         <br>
-        <p>I discovered a key opportunity: while most competitors focus on either traceability or community, few integrate both. This gap inspired WEAVE’s core differentiation—<strong>merging supply chain data with a social-native interface</strong>. By turning transparency into a shareable narrative format, WEAVE could stand out not just as a data tool, but as a cultural one.</p>
+        <p>I discovered a key opportunity: while most competitors focus on either traceability or community, few integrate both. This gap inspired WEAVE's core differentiation—<strong>merging supply chain data with a social-native interface</strong>. By turning transparency into a shareable narrative format, WEAVE could stand out not just as a data tool, but as a cultural one.</p>
     </div>
 </div>
 
@@ -137,14 +137,12 @@ To explore this, we conducted surveys and in-depth interviews with 14 potential 
 
 <br>
 
-We interviewed people across three target groups—style-conscious consumers, slow fashion shoppers, and marketplace explorers—and synthesized their responses into an ideal customer profile. Their insights helped shape both what we built and how we framed it.
-
-<br>
-
 Our research surfaced a few consistent themes:
-	•	Users are skeptical of vague sustainability claims
-	•	Users were drawn to personal, story-driven content over raw data
-	•	Social sharing and brand signaling played a bigger role than expected in conversion
+<ol>
+    <li>Users are skeptical of vague sustainability claims
+	<li>Users were drawn to an integrated platform with physical and digital capacities
+	<li>Social sharing and brand signaling played a bigger role than expected in conversion
+</ol>
 
 <div class="quote-container">
   <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I should care about.</p>
@@ -187,7 +185,7 @@ Our research surfaced a few consistent themes:
             <img src="/assets/images/integration.webp">
         </div>
         <div class="column-right">
-            <p><strong>Integrate shopping for physical garments and NFTs into one coherent experience</strong>, helping users access information without having to jump around pages.</p>
+            <p>Connect physical products and NFTs in one flow—no tab-switching, just tap-and-shop.</p>
         </div>
     </div>
     <br>
@@ -197,7 +195,7 @@ Our research surfaced a few consistent themes:
             <img src="/assets/images/simplification.webp">
         </div>
         <div class="column-right">
-            <p><strong>Streamline the shopping process</strong> for users unfamiliar with NFTs/web 3, so they can order fashion items quickly and conveniently.</p>
+            <p>Use flip-cards to layer info—hide jargons, show what matters.</p>
         </div>
     </div>
     <br>
@@ -207,7 +205,7 @@ Our research surfaced a few consistent themes:
             <img src="/assets/images/participation.webp">
         </div>
         <div class="column-right">
-            <p>Create <strong>interactive UI to visualize supply chain in a narrative-driven manner</strong>, make sure users are part of the story.</p>
+            <p>Let users explore the supply chain as a story—flippable, stackable, shareable.</p>
         </div>
     </div>
     <br><br>
@@ -215,13 +213,13 @@ Our research surfaced a few consistent themes:
 
 <br>
 
-## Wireframe
+## Wireframe: Tackling "Integration"
 
-The most important action new users can take is to **register, access the marketplace, and make their purchase**. This is the app's primary flow. I charted a basic version, taking into consideration choices users might want to make, and specifying a clear happy path, which would allow me to start structuring the content within the app.
+The most important action new users can take is to **register, access the marketplace, and make their purchase**. This is the app's primary flow.
 
 ![WEAVE's primary user flow](/assets/images/WeavePrimaryFlow.webp)
 
-A secondary flow exists **when a user already owns a physical garment** and wants to access its NFT twin through the app. This can be done by tapping at an NFC tag that comes along with garment purchase.
+A secondary flow exists **when a user already owns a physical garment** and wants to access its NFT twin through the app.
 
 ![WEAVE's physical garment led user flow](/assets/images/weavephysicalflow.webp)
 
@@ -233,7 +231,7 @@ A secondary flow exists **when a user already owns a physical garment** and want
 
 ## User Testing
 
-With a solid foundation in place, I created a minimal prototype and gathered feedback from the WEAVE team and other designers. The usability study surfaced key friction points, leading to two major design changes:
+With a solid foundation in place, I created a minimal prototype. The usability study surfaced key friction points, leading to two major design changes:
 
 ## ①
 
@@ -275,7 +273,7 @@ With a solid foundation in place, I created a minimal prototype and gathered fee
 
 ## Prototype: Kicking it up to high fidelity
 
-I started shaping WEAVE's visual design by gathering references, research, and inspiration to define its brand identity. Since transparency and traceability are at the heart of WEAVE, I wanted the visual language to feel trustworthy, tactile, and elegantly functional, bridging the digital and physical seamlessly.
+I started shaping WEAVE's visual design by gathering references, research, and inspiration to define its brand identity.
 
 <div class="fullwidth-image-container">
   <img src="/assets/images/hifidelity.png" alt="Weave app interface showing NFT fashion marketplace">
