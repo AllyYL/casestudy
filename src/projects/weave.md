@@ -9,6 +9,7 @@ layout: project.njk
 ---
 
 # Weave
+## Product Journey as Story: Layering Supply Chain Data into a Social UX
 
 Web3 marketplace for NFT-backed phygital fashion
 
@@ -20,7 +21,10 @@ Web3 marketplace for NFT-backed phygital fashion
 
 WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product's journey—from seed to store.
 
-For the product demo, we prioritized mission-critical features that could drive conversion and resonate with trend-aware early adopters, while balancing the complexity of an experimental web3 concept.
+For their early MVP, I created a card-based interface that transforms complex supply chain data into layered, visual stories. The application simplifies long product journeys through flip-card mechanics that reveal detail only when needed—and stack into social, shareable threads. 
+
+Designed with both digital and physical integration in mind, the experience bridges in-store tags with digital proof, turning sustainability into something both transparent and emotionally resonant.
+
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -335,4 +339,4 @@ Logo, color, typography
 
 ## Future Recommendations
 
-Looking ahead, future releases could explore low-tech accessibility, community engagement, scalability. After all, no digital experience is ever truly finished—it evolves, just like the garments we wear.
+This project taught me the importance of simplifying complex information and the value of user-centered design in building trust and engagement. It reinforced my belief in the power of design to make sustainability more accessible and understandable.

@@ -8,7 +8,7 @@ isHomePage: true
     <div class="div1"><h1>Case Studies</h1></div>
     <div class="div2">
         <h2><a href="./projects/weave/" style="text-decoration: none">Web3 Social E-commerce</a></h2>
-        <p>Bringing sustainability to life through transparent UI</p>
+        <p>Product journey as story: layering supply chain data into a social UX</p>
     </div>
     <div class="div3">
         <a href="./projects/weave/">
