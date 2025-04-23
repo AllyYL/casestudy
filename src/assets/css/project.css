@@ -302,7 +302,7 @@ strong {
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .project-content {
-        width: 95%;
+        width: 100%;
     }
     
     .project-content h1 {
