@@ -16,15 +16,16 @@ Web3 marketplace for NFT-backed phygital fashion
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
-# Product Journey as Story: Layering Supply Chain Data into a Social UX
+## TL;DR Product Journey as Story: Layering Supply Chain Data into a Social UX
+
+I designed a card-based UX for WEAVE that turns complex supply chain data into simple, shareable stories—bridging NFTs, e-commerce, and social apps.
+
 
 <br>
 
 ## Context
 
-WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product's journey—from seed to store.
-
-For their early MVP, I created a card-based interface that transforms complex supply chain data into visual stories. The application simplifies long product journeys through flip-card mechanics that reveal detail only when needed—and stack into social, shareable threads. 
+WEAVE is a web3 social e-commerce app that helps fashion brands turn raw product data into digital proof of sustainability. I was brought in to design the MVP experience—bridging the physical and digital through a unified UI system that connects garments to blockchain-backed stories. I focused on clarity, social shareability, and a low-friction checkout experience.
 
 <br>
 <div class="layout-twocolumn">
@@ -86,22 +87,18 @@ For their early MVP, I created a card-based interface that transforms complex su
     <br><br>
     <div class="plain">
         <h1>Challenge</h1><br>
-        <p>Fashion sustainability data is complex and often opaque. The challenge was to visualize this in a way that felt intuitive, transparent, and elegant—without overwhelming users.
+        <p>Redesign complex sustainability data into a format that’s <strong>easy to read, Web3-friendly, and built for sharing on social media</strong>—no dense tables, no info overload.
     </div>
     <br><br>
 </div>
 <br>
 
 ## Competitive Analysis
+![logos from competing companies in the crypto and e-commerce industries](/assets/images/competitive.png)
 
-<div class="layout-twocolumn">
-    <div class="column-left">
-        <img src="/assets/images/competitive.webp" alt="logos from competing companies in the crypto and e-commerce industries" style="max-height: 40%, width: auto;">
-    </div>
-    <div class="column-right">
-        <p>Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: <strong>turning raw supply chain data into a social, story-driven experience</strong>. This became WEAVE's core differentiator.</p>
-    </div>
-</div>
+<br>
+
+Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: **turning raw supply chain data into a social, story-driven experience**. This became WEAVE's core differentiator.
 
 <br>
 
@@ -236,6 +233,8 @@ Drawing from clothing tags, we mocked up cards to test how much info users could
 ## User Testing
 
 With a solid foundation in place, I created a minimal prototype. The usability study surfaced key friction points, leading to two major design changes:
+
+<br>
 
 ### ① Perfecting Integrated Checkout
 
