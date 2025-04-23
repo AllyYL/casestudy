@@ -26,7 +26,7 @@ WEAVE is a blockchain startup in the fashion space, using NFTs to help brands vi
 
 For their early MVP, I created a card-based interface that transforms complex supply chain data into visual stories. The application simplifies long product journeys through flip-card mechanics that reveal detail only when needed—and stack into social, shareable threads. 
 
-
+<br><br>
 <div class="layout-twocolumn">
     <div class="column-left">
         <h3>Client</h3>
@@ -83,7 +83,7 @@ For their early MVP, I created a card-based interface that transforms complex su
 <br>
 
 <div class="dark-blue-section">
-    <br><br><br>
+    <br><br>
     <div class="plain">
         <h1>Challenge</h1><br>
         <p>Fashion sustainability data is complex and often opaque. The challenge was to visualize this in a way that felt intuitive, transparent, and elegant—without overwhelming users.
@@ -99,7 +99,7 @@ For their early MVP, I created a card-based interface that transforms complex su
         <img src="/assets/images/competitive.webp" alt="logos from competing companies in the crypto and e-commerce industries" style="max-height: 40%, width: auto;">
     </div>
     <div class="column-right">
-        <p>Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: turning raw supply chain data into a social, story-driven experience. This became WEAVE’s core differentiator.</p>
+        <p>Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: <strong>turning raw supply chain data into a social, story-driven experience</strong>. This became WEAVE's core differentiator.</p>
     </div>
 </div>
 
@@ -107,6 +107,7 @@ For their early MVP, I created a card-based interface that transforms complex su
 
 ---
 
+<br>
 
 ## User Research
 
@@ -145,7 +146,7 @@ To explore this, we conducted surveys and in-depth interviews with 14 potential 
 
 Our research surfaced a few consistent themes:
 
-<ol style="list-style-position: decimal inside; padding-left: 1em; margin-bottom: 1rem; font-size: 1.2rem; line-height: 1.6;">
+<ol style="list-style-position: decimal inside; padding-left: 1em; margin-bottom: 1rem; font-size: 1.1rem; line-height: 1.6;">
     <li style="padding-left: 1em;">Users are skeptical of vague sustainability claims
 	<li style="padding-left: 1em;">Users were drawn to an integrated platform with physical and digital capacities
 	<li style="padding-left: 1em;">Social sharing and brand signaling played a bigger role than expected in conversion
@@ -205,9 +206,9 @@ Our research surfaced a few consistent themes:
 
 <br>
 
-## Wireframe: Tackling "Integration"
+## Wireframe: Tackling Phygital Integration
 
-The most important action new users can take is to **register, access the marketplace, and make their purchase**. This is the app's primary flow.
+The core flow guides new users to **register, browse, and buy**—both physical garment and digital NFTs in one seamless experience.
 
 ![WEAVE's primary user flow](/assets/images/WeavePrimaryFlow.webp)
 
