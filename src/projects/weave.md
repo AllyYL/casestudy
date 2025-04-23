@@ -8,20 +8,21 @@ tags: [projects]
 layout: project.njk
 ---
 
-# Weave: Web3 marketplace for NFT-backed phygital fashion
+# Weave
 
-Product Journey as Story: Layering Supply Chain Data into a Social UX
-
+Web3 marketplace for NFT-backed phygital fashion
 
 <div class="fullwidth-image-container">
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
+# Product Journey as Story: Layering Supply Chain Data into a Social UX
+
 ## Context
 
 WEAVE is a blockchain startup in the fashion space, using NFTs to help brands visualize their supply chains through NFTs. I focused on **simplifying complex data into a clean, human-centered interface** that tells the story of a product's journey—from seed to store.
 
-For their early MVP, I created a card-based interface that transforms complex supply chain data into layered, visual stories. The application simplifies long product journeys through flip-card mechanics that reveal detail only when needed—and stack into social, shareable threads. 
+For their early MVP, I created a card-based interface that transforms complex supply chain data into visual stories. The application simplifies long product journeys through flip-card mechanics that reveal detail only when needed—and stack into social, shareable threads. 
 
 Designed with both digital and physical integration in mind, the experience bridges in-store tags with digital proof, turning sustainability into something both transparent and emotionally resonant.
 
@@ -85,8 +86,7 @@ Designed with both digital and physical integration in mind, the experience brid
     <br><br><br>
     <div class="plain">
         <h1>Challenge</h1><br>
-        <p>Fashion sustainability data is complex and often opaque. <strong>The challenge was to visualize this in a way that felt intuitive, transparent, and elegant—without overwhelming users.</strong>
-        <br><br>1. lowers entry barrier, <br>2. communicates value early, <br>3. drives engagement with an unfamiliar but promising product model.
+        <p>Fashion sustainability data is complex and often opaque. The challenge was to visualize this in a way that felt intuitive, transparent, and elegant—without overwhelming users.
     </div>
     <br><br>
 </div>
@@ -108,9 +108,9 @@ Designed with both digital and physical integration in mind, the experience brid
         <img src="/assets/images/competitive.webp" alt="logos from competing companies in the crypto and e-commerce industries" style="max-height: 40%, width: auto;">
     </div>
     <div class="column-right">
-        <p>I conducted a competitive audit across Blockchain-backed supply chain platforms and E-commerce platforms to understand the needs of fashion brands and consumers regarding supply chain transparency.</p>
+        <p>To better understand the space, I conducted a competitive audit of blockchain-backed supply chain platforms and e-commerce experiences. I analyzed both how they visualize provenance and how they engage consumers emotionally.</p>
         <br>
-        <p>I found out that there is opportunity in <strong>combining supply chain tracking with a social-native e-commerce experience</strong>: While our competitors focus on either provenance or community, WEAVE can stand out by combining both — turning transparency into <strong>shareable storytelling</strong>.</p>
+        <p>I discovered a key opportunity: while most competitors focus on either traceability or community, few integrate both. This gap inspired WEAVE’s core differentiation—<strong>merging supply chain data with a social-native interface</strong>. By turning transparency into a shareable narrative format, WEAVE could stand out not just as a data tool, but as a cultural one.</p>
     </div>
 </div>
 
@@ -121,7 +121,9 @@ Designed with both digital and physical integration in mind, the experience brid
 
 ## User Research
 
-What does sustainable fashion mean to online shoppers — and what would convince them to switch platforms? Through surveys and interviews with 14 potential users, we explored how they perceive credibility, trust, and innovation in fashion.
+What does sustainable fashion mean to online shoppers — and what would convince them to switch platforms? 
+
+To explore this, we conducted surveys and in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
 
 <br>
 
@@ -135,9 +137,14 @@ What does sustainable fashion mean to online shoppers — and what would convinc
 
 <br>
 
-We interviewed potential users from three target areas and narrowed down our ideal customer profile. What they said helped us find alignment on who they are, and guided us on what we are making.
+We interviewed people across three target groups—style-conscious consumers, slow fashion shoppers, and marketplace explorers—and synthesized their responses into an ideal customer profile. Their insights helped shape both what we built and how we framed it.
 
 <br>
+
+Our research surfaced a few consistent themes:
+	•	Users are skeptical of vague sustainability claims
+	•	Users were drawn to personal, story-driven content over raw data
+	•	Social sharing and brand signaling played a bigger role than expected in conversion
 
 <div class="quote-container">
   <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I should care about.</p>
