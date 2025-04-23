@@ -90,15 +90,6 @@ For their early MVP, I created a card-based interface that transforms complex su
     </div>
     <br><br>
 </div>
-
-<div class="highlight-text">
-    How can design convert complexity into smart simplicity?
-</div>
-
-<br>
-
----
-
 <br>
 
 ## Competitive Analysis
@@ -108,9 +99,7 @@ For their early MVP, I created a card-based interface that transforms complex su
         <img src="/assets/images/competitive.webp" alt="logos from competing companies in the crypto and e-commerce industries" style="max-height: 40%, width: auto;">
     </div>
     <div class="column-right">
-        <p>To better understand the space, I conducted a competitive audit of blockchain-backed supply chain platforms and e-commerce experiences. I analyzed both how they visualize provenance and how they engage consumers emotionally.</p>
-        <br>
-        <p>I discovered a key opportunity: while most competitors focus on either traceability or community, few integrate both. This gap inspired WEAVE's core differentiation—<strong>merging supply chain data with a social-native interface</strong>. By turning transparency into a shareable narrative format, WEAVE could stand out not just as a data tool, but as a cultural one.</p>
+        <p>Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: turning raw supply chain data into a social, story-driven experience. This became WEAVE’s core differentiator.</p>
     </div>
 </div>
 
@@ -137,13 +126,6 @@ To explore this, we conducted surveys and in-depth interviews with 14 potential 
 
 <br>
 
-Our research surfaced a few consistent themes:
-<ol>
-    <li>Users are skeptical of vague sustainability claims
-	<li>Users were drawn to an integrated platform with physical and digital capacities
-	<li>Social sharing and brand signaling played a bigger role than expected in conversion
-</ol>
-
 <div class="quote-container">
   <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I should care about.</p>
   <cite>— Anonymous shopper</cite>
@@ -158,6 +140,16 @@ Our research surfaced a few consistent themes:
   <p>It's one thing to own. To participate, be on-chain, and be part of it--that's a whole lot more attractive.</p>
   <cite>— NFT Collector</cite>
 </div>
+
+<br>
+
+Our research surfaced a few consistent themes:
+
+<ol style="list-style-position: decimal inside; padding-left: 1em; margin-bottom: 1rem; font-size: 1.2rem; line-height: 1.6;">
+    <li style="padding-left: 1em;">Users are skeptical of vague sustainability claims
+	<li style="padding-left: 1em;">Users were drawn to an integrated platform with physical and digital capacities
+	<li style="padding-left: 1em;">Social sharing and brand signaling played a bigger role than expected in conversion
+</ol>
 
 <br>
 
