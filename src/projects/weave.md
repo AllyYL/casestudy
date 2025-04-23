@@ -86,8 +86,8 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
 <div class="dark-blue-section">
     <br><br>
     <div class="plain">
-        <h2>Challenge</h2><br>
-        <p>Redesign complex sustainability data into a format that's <strong>easy to read, Web3-friendly, and built for sharing on social media</strong>—no dense tables, no info overload.
+        <h2>Problem Scope</h2><br>
+        <p>Turn complex sustainability data into a format that's <strong>easy to read, Web3-friendly, and built for sharing on social media</strong>—no dense tables, no info overload.
     </div>
     <br><br>
 </div>
@@ -95,7 +95,7 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
 
 ## Competitive Analysis
 
-Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: **turning raw supply chain data into a social, story-driven experience**. This became WEAVE's core differentiator.
+Most platforms focus on either provenance tracking or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: turning raw supply chain data into a social, story-driven experience. This became WEAVE's core differentiator.
 
 <br>
 
@@ -121,7 +121,7 @@ What does sustainable fashion mean to online shoppers — and **what would convi
     What actually builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
 </div>
 
-To explore this, we conducted surveys and in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
+To explore this, we conducted online surveys, as well as in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
 
 <br>
 
@@ -164,10 +164,10 @@ Through user interviews, we zeroed in on our Persona.
 <div class="dark-blue-section">
     <br><br>
     <div class="plain">
-        <h1>Design Objectives</h1>
+        <h2>Design Objectives</h2>
     </div>
     <br>
-    <div class="layout-twocolumn">
+    <div class="layout-threecolumn">
         <div class="column-left">
             <h2>Integration</h2>
             <img src="/assets/images/integration.webp">
@@ -177,7 +177,7 @@ Through user interviews, we zeroed in on our Persona.
         </div>
     </div>
     <br>
-    <div class="layout-twocolumn">
+    <div class="layout-threecolumn">
         <div class="column-left">
             <h2>Simplification</h2>
             <img src="/assets/images/simplification.webp">
@@ -187,7 +187,7 @@ Through user interviews, we zeroed in on our Persona.
         </div>
     </div>
     <br>
-    <div class="layout-twocolumn">
+    <div class="layout-threecolumn">
         <div class="column-left">
             <h2>Participation</h2>
             <img src="/assets/images/participation.webp">
@@ -202,6 +202,8 @@ Through user interviews, we zeroed in on our Persona.
 <br>
 
 Now, let's tackled these three objectives one by one.
+
+<br>
 
 
 ## Wireframe: Tackling Phygital Integration
@@ -288,6 +290,8 @@ I started shaping WEAVE's visual design by gathering references, research, and i
 </div>
 
 Each step in the garment history and each stakeholder in the supplychain is brokendown into digestable, sharable pieces. Meeting the needs of social-native users.
+
+<br>
 
 <div class="fullwidth-image-container">
   <img src="/assets/images/CardSocial.png" alt="Prototype of WEAVE highlighting the ease of sharing garment history on socials">
