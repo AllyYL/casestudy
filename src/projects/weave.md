@@ -8,10 +8,10 @@ tags: [projects]
 layout: project.njk
 ---
 
-# Weave
-## Product Journey as Story: Layering Supply Chain Data into a Social UX
+# Weave: Web3 marketplace for NFT-backed phygital fashion
 
-Web3 marketplace for NFT-backed phygital fashion
+Product Journey as Story: Layering Supply Chain Data into a Social UX
+
 
 <div class="fullwidth-image-container">
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
