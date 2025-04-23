@@ -26,7 +26,7 @@ WEAVE is a blockchain startup in the fashion space, using NFTs to help brands vi
 
 For their early MVP, I created a card-based interface that transforms complex supply chain data into visual stories. The application simplifies long product journeys through flip-card mechanics that reveal detail only when needed—and stack into social, shareable threads. 
 
-<br><br>
+<br>
 <div class="layout-twocolumn">
     <div class="column-left">
         <h3>Client</h3>
