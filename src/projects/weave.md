@@ -105,7 +105,7 @@ For their early MVP, I created a card-based interface that transforms complex su
 
 <br>
 
-
+---
 
 <br>
 
@@ -154,7 +154,7 @@ Our research surfaced a few consistent themes:
 
 <br>
 
-
+---
 
 <br>
 
@@ -167,7 +167,7 @@ Our research surfaced a few consistent themes:
 
 
 <div class="dark-blue-section">
-    <br><br><br>
+    <br><br>
     <div class="plain">
         <h1>Objectives</h1>
     </div>
@@ -214,11 +214,11 @@ The core flow guides new users to **register, browse, and buy physical garment A
 
 A secondary flow exists when a user already owns a physical garment and wants to access its NFT twin through the app.
 
-![WEAVE's physical garment led user flow](/assets/images/weavephysicalflow.jpg)
+![WEAVE's physical garment led user flow](/assets/images/weavephysicalflow.jpeg)
 
 <br>
 
-
+---
 
 <br>
 
@@ -227,8 +227,9 @@ A secondary flow exists when a user already owns a physical garment and wants to
 Paper prototyping helped us translate physical gestures into digital interactions.
 Drawing from clothing tags, we mocked up cards to test how much info users could absorb at a glance—and when they’d want to flip.
 
+<br>
 
-
+---
 
 <br>
 
@@ -270,7 +271,7 @@ With a solid foundation in place, I created a minimal prototype. The usability s
 
 <br>
 
-
+---
 
 <br>
 
@@ -329,7 +330,7 @@ A concept demo to showcase the physical to digital "stacking" behind the choice 
 
 <br>
 
-
+---
 
 <br>
 
@@ -341,7 +342,7 @@ Logo, color, typography
 
 <br>
 
-
+---
 
 <br>
 
