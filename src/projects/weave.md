@@ -237,7 +237,7 @@ Drawing from clothing tags, we mocked up cards to test how much info users could
 
 With a solid foundation in place, I created a minimal prototype. The usability study surfaced key friction points, leading to two major design changes:
 
-## ① Perfecting Integrated Checkout
+### ① Perfecting Integrated Checkout
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -254,7 +254,7 @@ With a solid foundation in place, I created a minimal prototype. The usability s
   <img src="/assets/images/usertest1.png" alt="Before and after userflow for guest checkout">
 </div>
 
-## ② Information for Depth, Not Overload
+### ② Information for Depth, Not Overload
 
 <div class="layout-twocolumn">
     <div class="column-left">
