@@ -94,11 +94,10 @@ WEAVE is a web3 social e-commerce app that helps fashion brands turn raw product
 <br>
 
 ## Competitive Analysis
-![logos from competing companies in the crypto and e-commerce industries](/assets/images/competitive.png)
-
-<br>
 
 Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: **turning raw supply chain data into a social, story-driven experience**. This became WEAVE's core differentiator.
+
+![logos from competing companies in the crypto and e-commerce industries](/assets/images/competitive.png)
 
 <br>
 
@@ -108,7 +107,7 @@ Most platforms focus on either traceability or community—not both. Through a q
 
 ## User Research
 
-What does sustainable fashion mean to online shoppers — and what would convince them to switch platforms? 
+What does sustainable fashion mean to online shoppers — and **what would convince them to switch platforms**? 
 
 To explore this, we conducted surveys and in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
 
@@ -122,7 +121,6 @@ To explore this, we conducted surveys and in-depth interviews with 14 potential 
     What actually builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
 </div>
 
-<br>
 
 <div class="quote-container">
   <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I should care about.</p>
@@ -149,13 +147,10 @@ Our research surfaced a few consistent themes:
 	<li style="padding-left: 1em;">Social sharing and brand signaling played a bigger role than expected in conversion
 </ol>
 
-<br>
-
----
+Through user interviews, we narrowed down on our Persona.
 
 <br>
 
-## Persona
 
 ![A persona featuring Emily's goals and frustrations.](/assets/images/WeavePersona.png)
 
@@ -166,7 +161,7 @@ Our research surfaced a few consistent themes:
 <div class="dark-blue-section">
     <br><br>
     <div class="plain">
-        <h1>Objectives</h1>
+        <h1>Design Objectives</h1>
     </div>
     <br>
     <div class="layout-twocolumn">
@@ -185,7 +180,7 @@ Our research surfaced a few consistent themes:
             <img src="/assets/images/simplification.webp">
         </div>
         <div class="column-right">
-            <p>Use flip-cards to layer information—<strong>hide jargons, show what matters</strong>.</p>
+            <p>Synthesize and layer information—<strong>hide jargons, show what matters</strong>.</p>
         </div>
     </div>
     <br>
@@ -219,10 +214,10 @@ A secondary flow exists when a user already owns a physical garment and wants to
 
 <br>
 
-## Paper Prototyping: Card System 
+## Paper Prototyping: Tackling Simplification and Participation
 
 Paper prototyping helped us translate physical gestures into digital interactions.
-Drawing from clothing tags, we mocked up cards to test how much info users could absorb at a glance—and when they’d want to flip.
+Drawing from clothing tags, we mocked up cards to test how much info users could absorb at a glance—and when they'd want to flip.
 
 <br>
 
