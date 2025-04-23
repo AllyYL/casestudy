@@ -16,16 +16,16 @@ Web3 marketplace for NFT-backed phygital fashion
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
-## TL;DR Product Journey as Story: Layering Supply Chain Data into a Social UX
+## TL;DR
 
-I designed a card-based UX for WEAVE that turns complex supply chain data into simple, shareable stories—bridging NFTs, e-commerce, and social apps.
+This case study explores how **complex product data can become a story** through social-native UX. I designed a card-based interface for WEAVE that transforms blockchain-backed supply chain data into clear, shareable experiences—bridging NFTs, e-commerce, and social apps.
 
 
 <br>
 
 ## Context
 
-WEAVE is a web3 social e-commerce app that helps fashion brands turn raw product data into digital proof of sustainability. I was brought in to design the MVP experience—bridging the physical and digital through a unified UI system that connects garments to blockchain-backed stories. I focused on clarity, social shareability, and a low-friction checkout experience.
+WEAVE is a Web3 social commerce app offering a **phygital shopping experience** with NFT-based sustainability verification. I was brought in to design the MVP—building a unified UI system that connects physical garments to their blockchain-backed stories, with a focus on **clarity, shareability, and low-friction checkout**.
 
 <br>
 <div class="layout-twocolumn">
@@ -86,8 +86,8 @@ WEAVE is a web3 social e-commerce app that helps fashion brands turn raw product
 <div class="dark-blue-section">
     <br><br>
     <div class="plain">
-        <h1>Challenge</h1><br>
-        <p>Redesign complex sustainability data into a format that’s <strong>easy to read, Web3-friendly, and built for sharing on social media</strong>—no dense tables, no info overload.
+        <h2>Challenge</h2><br>
+        <p>Redesign complex sustainability data into a format that's <strong>easy to read, Web3-friendly, and built for sharing on social media</strong>—no dense tables, no info overload.
     </div>
     <br><br>
 </div>
@@ -96,6 +96,8 @@ WEAVE is a web3 social e-commerce app that helps fashion brands turn raw product
 ## Competitive Analysis
 
 Most platforms focus on either traceability or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: **turning raw supply chain data into a social, story-driven experience**. This became WEAVE's core differentiator.
+
+<br>
 
 ![logos from competing companies in the crypto and e-commerce industries](/assets/images/competitive.png)
 
@@ -107,9 +109,7 @@ Most platforms focus on either traceability or community—not both. Through a q
 
 ## User Research
 
-What does sustainable fashion mean to online shoppers — and **what would convince them to switch platforms**? 
-
-To explore this, we conducted surveys and in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
+What does sustainable fashion mean to online shoppers — and **what would convince users to switch platforms**? 
 
 <br>
 
@@ -121,6 +121,9 @@ To explore this, we conducted surveys and in-depth interviews with 14 potential 
     What actually builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
 </div>
 
+To explore this, we conducted surveys and in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
+
+<br>
 
 <div class="quote-container">
   <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I should care about.</p>
@@ -147,7 +150,7 @@ Our research surfaced a few consistent themes:
 	<li style="padding-left: 1em;">Social sharing and brand signaling played a bigger role than expected in conversion
 </ol>
 
-Through user interviews, we narrowed down on our Persona.
+Through user interviews, we zeroed in on our Persona.
 
 <br>
 
@@ -197,6 +200,9 @@ Through user interviews, we narrowed down on our Persona.
 </div>
 
 <br>
+
+Now, let's tackled these three objectives one by one.
+
 
 ## Wireframe: Tackling Phygital Integration
 
