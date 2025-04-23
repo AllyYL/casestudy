@@ -346,6 +346,7 @@ strong {
     
     .layout-twocolumn {
         width: 100%;
+        gap: 0rem;
     }
 
     /* .dark-blue-section {
@@ -353,7 +354,7 @@ strong {
     } */
 
     .plain {
-        width: 80%;
+        width: 88%;
     }
 
     .plain h1{
@@ -367,7 +368,7 @@ strong {
     }
     
     .dark-blue-section .layout-twocolumn {
-        width: 80%;
+        width: 88%;
         margin: 0 auto;
         align-items: start;
     }
