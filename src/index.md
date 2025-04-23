@@ -17,7 +17,7 @@ isHomePage: true
     </div>
     <div class="div4">
         <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Online Learning Tool</a></h2>
-        <p>Reimagining cultural heritage through immersive web design, made by and for Harvard University.</p>
+        <p>From sacred space to speculative UX—designing a research-driven experience, made by and for Harvard University.</p>
         <p><a href="https://www.digitaltemple.art" target="_blank" rel="noopener noreferrer">See the live site↗</a></p>
     </div>
     <div class="div5">

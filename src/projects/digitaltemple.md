@@ -16,11 +16,17 @@ An interactive web archive designed for immersive learning
   <img src="/assets/images/DTCover.webp" alt="Digital Temple cover image">
 </div>
 
+## TL;DR
+
+From sacred space to speculative UX—**this project explores how cultural research can drive interface design**. I led the design for a 360° virtual experience of the Kaihua Monastery, transforming historical space into an interactive environment through an immersive web experience.
+
+<br>
+
 ## Context
 
-I led UX and interaction design for a 360° virtual experience of the Kaihua Monastery. Collaborating with CAMLab, I translated complex historical research into an intuitive interface that allows users to explore spatial narratives, interact with 3D objects, and experience religious art in context.
+As lead product designer and project manager, I worked with [Harvard FAS CAMLab](https://camlab.fas.harvard.edu/) to build a virtual platform for exploring the Kaihua Monastery. This 360° experience translates scholarly research into an intuitive, web-based interface—inviting users to navigate spatial narratives, interact with 3D reconstructions, and engage with religious art in context.
 
-As lead **UI/UX designer** and **project manager**, I led end-to-end UX for a virtual educational platform with interactive 3D environments, working across research, wireframes, and prototype testing.
+I led the project from concept to execution, working across user research, interaction design, 3D visuals, and cross-functional collaboration to bring the experience to life.
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -62,8 +68,15 @@ As lead **UI/UX designer** and **project manager**, I led end-to-end UX for a vi
 
 <br>
 
----
 
+<div class="dark-blue-section">
+    <br><br>
+    <div class="plain">
+        <h2>Problem Scope</h2><br>
+        <p>Designing for ambiguity: our challenge was to create a spatial interface that lets users <strong>explore the architectural space without simplifying it</strong>—bridging scholarship, architecture, and interaction.</p>
+    </div>
+    <br><br>
+</div>
 <br>
 
 
