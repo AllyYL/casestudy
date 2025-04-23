@@ -57,7 +57,7 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
 
 ## Result
 
-<div class="layout-threecolumn">
+<div class="layout-twocolumn">
     <div class="column-left">
         <h3>Conversion Rate</h3>
     </div>
@@ -65,7 +65,7 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
         <p>Above industry average at 12.4%, improved product discovery and checkout flow reduced hesitation and <strong>helped first-time buyers convert faster</strong>.</p>
     </div>
 </div>
-<div class="layout-threecolumn">
+<div class="layout-twocolumn">
     <div class="column-left">
         <h3>User-Generated Content</h3>
     </div>
@@ -73,7 +73,7 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
         <p><strong>Over one-third</strong> of testing users posted at least <strong>one product story, comment, or review</strong> (measured over a 30-day period).</p>
     </div>
 </div>
-<div class="layout-threecolumn">
+<div class="layout-twocolumn">
     <div class="column-left">
         <h3>Platform Stickiness</h3>
     </div>
