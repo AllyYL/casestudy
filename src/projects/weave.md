@@ -105,7 +105,7 @@ For their early MVP, I created a card-based interface that transforms complex su
 
 <br>
 
----
+
 
 <br>
 
@@ -154,7 +154,7 @@ Our research surfaced a few consistent themes:
 
 <br>
 
----
+
 
 <br>
 
@@ -178,7 +178,7 @@ Our research surfaced a few consistent themes:
             <img src="/assets/images/integration.webp">
         </div>
         <div class="column-right">
-            <p>Connect physical products and NFTs in one flow—no tab-switching, just tap-and-shop.</p>
+            <p>Connect physical products and NFTs <strong>in one flow</strong>—no tab-switching, just tap-and-shop.</p>
         </div>
     </div>
     <br>
@@ -188,7 +188,7 @@ Our research surfaced a few consistent themes:
             <img src="/assets/images/simplification.webp">
         </div>
         <div class="column-right">
-            <p>Use flip-cards to layer info—hide jargons, show what matters.</p>
+            <p>Use flip-cards to layer information—<strong>hide jargons, show what matters</strong>.</p>
         </div>
     </div>
     <br>
@@ -198,7 +198,7 @@ Our research surfaced a few consistent themes:
             <img src="/assets/images/participation.webp">
         </div>
         <div class="column-right">
-            <p>Let users explore the supply chain as a story—flippable, stackable, shareable.</p>
+            <p>Let users explore the supply chain as a <strong>story</strong>—flippable, stackable, shareable.</p>
         </div>
     </div>
     <br><br>
@@ -208,17 +208,27 @@ Our research surfaced a few consistent themes:
 
 ## Wireframe: Tackling Phygital Integration
 
-The core flow guides new users to **register, browse, and buy**—both physical garment and digital NFTs in one seamless experience.
+The core flow guides new users to **register, browse, and buy physical garment AND digital NFTs** in one seamless experience.
 
 ![WEAVE's primary user flow](/assets/images/WeavePrimaryFlow.webp)
 
-A secondary flow exists **when a user already owns a physical garment** and wants to access its NFT twin through the app.
+A secondary flow exists when a user already owns a physical garment and wants to access its NFT twin through the app.
 
-![WEAVE's physical garment led user flow](/assets/images/weavephysicalflow.webp)
+![WEAVE's physical garment led user flow](/assets/images/weavephysicalflow.jpg)
 
 <br>
 
----
+
+
+<br>
+
+## Paper Prototyping: Card System 
+
+Paper prototyping helped us translate physical gestures into digital interactions.
+Drawing from clothing tags, we mocked up cards to test how much info users could absorb at a glance—and when they’d want to flip.
+
+
+
 
 <br>
 
@@ -226,7 +236,7 @@ A secondary flow exists **when a user already owns a physical garment** and want
 
 With a solid foundation in place, I created a minimal prototype. The usability study surfaced key friction points, leading to two major design changes:
 
-## ①
+## ① Perfecting Integrated Checkout
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -243,16 +253,16 @@ With a solid foundation in place, I created a minimal prototype. The usability s
   <img src="/assets/images/usertest1.png" alt="Before and after userflow for guest checkout">
 </div>
 
-## ②
+## ② Information for Depth, Not Overload
 
 <div class="layout-twocolumn">
     <div class="column-left">
         <h3>Problem</h3>
-        <p>The full supply chain breakdown was shown upfront, overwhelming users who weren't sustainability-conscious.</p>
+        <p>The full supply chain breakdown was shown upfront, overwhelming users who were here to shop.</p>
     </div>
     <div class="column-right">
         <h3>🙂 Solution</h3>
-        <p><strong>Dynamic information synthesis</strong>—high-level summary before checkout and a full supply chain tracking experience post-purchase.</p>
+        <p><strong>A dynamic card stacknig visual that shows</strong>high-level summary before checkout and a full supply chain tracking experience post-purchase.</p>
     </div>
 </div>
 
@@ -260,7 +270,7 @@ With a solid foundation in place, I created a minimal prototype. The usability s
 
 <br>
 
----
+
 
 <br>
 
@@ -319,7 +329,7 @@ A concept demo to showcase the physical to digital "stacking" behind the choice 
 
 <br>
 
----
+
 
 <br>
 
@@ -331,7 +341,7 @@ Logo, color, typography
 
 <br>
 
----
+
 
 <br>
 
