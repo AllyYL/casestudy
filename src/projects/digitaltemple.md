@@ -148,7 +148,7 @@ Here I've selected three design approaches that addresses the above concerns:
 
 ### One Dimension Up: Turning Complexity into Spatial Clarity
 
-The murals in the temple depict mountainous scenery where intersecting perspectives obscure visual clarity. To make them navigable, We lifted the mural into 3D.
+Murals medieval China often feature intersecting perspectives that obscure visual clarity. To make them navigable, We lifted the mural into 3D.
 
 <img src="/assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
 
@@ -181,11 +181,11 @@ By adding a hint of theatricality, we hoped to spark curiosity and **draw users 
 
 We conducted **domain research**, **affinity mapping**, and **user interviews** to explore the intersection of digital archives and web-based interaction.
 
-<img src="/assets/images/domain.webp" alt="A domain research map">
+<img style="width: 80%" src="/assets/images/domain.webp" alt="A domain research map">
+
+<br>
 
 We found that most archives either lack interactivity or oversimplify content—revealing a gap between engagement and depth.
-
-We conducted two rounds of interviews. In the first round of user research, we interviewed 21 researcher-educators and undergraduate students. These insights validated a key pain point: **fragmented navigation breaks the spatial narrative**. We needed a more integrated experience that supports both exploration and context.
 
 <div class="quote-container">
   <p>I wanted to see where the murals are located, but that means exiting the page and opening a new one with an architecture model that has nothing in it.</p>
@@ -194,11 +194,15 @@ We conducted two rounds of interviews. In the first round of user research, we i
 
 <br>
 
+We also conducted two rounds of interviews. In the first round of user research, we interviewed 21 researcher-educators and undergraduate students. These insights validated a key pain point: **fragmented information hinders learning**.
+
+<br>
+
 <div class="dark-blue-section">
     <br><br>
     <div class="plain">
-        <h1>Mission Statement</h1><br>
-        <p>Create an engaging virtual space that allows users to explore cultural heritage sites interactively AND foster deeper learning.</p>
+        <h2>Mission Statement</h2><br>
+        <p>Design an interactive web experience where architectural space shapes the design—both spatially and academically—and vice versa.</p>
     </div>
     <br><br>
 </div>
@@ -207,15 +211,15 @@ We conducted two rounds of interviews. In the first round of user research, we i
 
 ## Prototyping & User Testing
 
-We tested best ways to showcase information that considers both readability and displaying as much original information as possible.
+We experimented with layouts that take into consideration both readability and displaying as much original information as possible.
 
 <img src="/assets/images/layout.png" alt="Vertical and horizontal layout">
 
+<br><br>
+
+In the second design iterations, after establishing usability testing metrics, we interviewed 10 participants from diverse academic and demographic backgrounds. We identified 35 usability issues from the usability tests and devised 18 actionable items.
+
 <br>
-
-After establishing usability testing metrics, we interviewed 10 participants from diverse academic and demographic backgrounds. We identified 35 usability issues from the usability tests and devised 18 actionable items.
-
-
 <div class="fullwidth-image-container">
   <img src="/assets/images/User Test Image.png" alt="Horizontal and vertical layout options for the webpage.">
 </div>
@@ -261,8 +265,6 @@ After establishing usability testing metrics, we interviewed 10 participants fro
   <img src="/assets/images/website.webp" alt="A mockup of a MacBook displaying a webpage">
 </a>
 
----
-
 <br>
 
 ### Installation
@@ -276,9 +278,6 @@ After establishing usability testing metrics, we interviewed 10 participants fro
     <img src="/assets/images/Installation2.webp" alt="Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023">
     Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023
 </div>
-<br>
-
----
 
 <br>
 
