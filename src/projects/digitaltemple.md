@@ -183,7 +183,7 @@ We conducted **domain research**, **affinity mapping**, and **user interviews** 
 
 <br>
 
-<img src="/assets/images/domain.webp" alt="A domain research map">
+<img style="text-align: center" src="/assets/images/domain.webp" alt="A domain research map">
 
 <br><br>
 
@@ -260,7 +260,7 @@ Here I expand on 3 most examplary ones:
 <a href="https://www.digitaltemple.art">www.digitaltemple.art</a>
 
 <a href="https://www.digitaltemple.art">
-  <img src="/assets/images/website.webp" alt="A mockup of a MacBook displaying a webpage">
+  <img src="/assets/images/website.webp" style="text-align: center" alt="A mockup of a MacBook displaying a webpage">
 </a>
 
 <br>
@@ -268,12 +268,12 @@ Here I expand on 3 most examplary ones:
 ### Installation
 
 <div class="layout-gallery">
-    <img src="/assets/images/Installation1.webp" alt="Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024">
+    <img src="/assets/images/Installation1.webp" style="text-align: center" alt="Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024">
     <br>Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024.
 </div>
 
 <div class="layout-gallery">
-    <img src="/assets/images/Installation2.webp" alt="Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023">
+    <img src="/assets/images/Installation2.webp" style="text-align: center" alt="Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023">
     Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023
 </div>
 
