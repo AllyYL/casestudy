@@ -77,7 +77,7 @@ I led the project from concept to execution, working across user research, inter
     <br><br>
     <div class="plain">
         <h2>Problem Scope</h2><br>
-        <p><strong>How do you design an interface for a space that wasn’t built to be “navigated” digitally?</strong></p><br>
+        <p><strong>How do you design an interface for a space that wasn't built to be "navigated" digitally?</strong></p><br>
         <p>This project asked how we might turn a sacred, ambiguous architectural site into a speculative, interactive experience—without flattening its meaning or imposing a fixed narrative.</p>
     </div>
     <br><br>
@@ -168,7 +168,7 @@ We ultimately made a **key trade-off**: **simplifying certain mural details** an
 <br>
 
 
-## Research & Insights
+## Domain Research
 
 We conducted **domain research**, **affinity mapping**, and **user interviews** to explore the intersection of digital archives and web-based interaction.
 
