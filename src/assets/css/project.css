@@ -372,6 +372,10 @@ strong {
         margin: 0 auto;
         align-items: start;
     }
+
+    ul {
+        margin-left: 0.5rem;
+    }
 }
 
 /* Progress bar */

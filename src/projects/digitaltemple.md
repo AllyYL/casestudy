@@ -181,9 +181,11 @@ By adding a hint of theatricality, we hoped to spark curiosity and **draw users 
 
 We conducted **domain research**, **affinity mapping**, and **user interviews** to explore the intersection of digital archives and web-based interaction.
 
-<img style="width: 80%" src="/assets/images/domain.webp" alt="A domain research map">
-
 <br>
+
+<img src="/assets/images/domain.webp" alt="A domain research map">
+
+<br><br>
 
 We found that most archives either lack interactivity or oversimplify content—revealing a gap between engagement and depth.
 
@@ -219,18 +221,14 @@ Moving through rapid animated prototyping under mission-critical guidelines, we 
 
 In the second design iterations, after establishing usability testing metrics, we interviewed 10 participants from diverse academic and demographic backgrounds. We identified 35 usability issues from the usability tests and devised 18 actionable items.
 
-<br>
+<br><br>
 <div class="fullwidth-image-container">
   <img src="/assets/images/User Test Image.png" alt="Horizontal and vertical layout options for the webpage.">
 </div>
 
 <br>
 
----
-
-<br>
-
-## Iteration and Decisions
+Here I expand on 3 most examplary ones:
 
 <img src="/assets/images/2.png" alt="An infograph showing branding guidelines">
 
