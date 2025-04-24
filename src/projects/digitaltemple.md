@@ -204,6 +204,8 @@ Here I expand on 2 most examplary ones:
   <img src="/assets/images/Section2.png" alt="Before and after userflow for annotated mural">
 </div>
 
+<br>
+
 ### ② Overlooked Navigation Issue
 
 <div class="layout-twocolumn">
