@@ -207,7 +207,7 @@ Here I expand on 2 most examplary ones:
 </div>
 
 <div class="fullwidth-image-container">
-  <img src="/assets/images/Section2.png" alt="Before and after userflow for guest checkout">
+  <img src="/assets/images/Section2.png" alt="Before and after userflow for annotated mural">
 </div>
 
 ### ② Overlooked Navigation Issue
@@ -223,7 +223,9 @@ Here I expand on 2 most examplary ones:
     </div>
 </div>
 
-![Before and after userflow for guest checkout](/assets/images/Section1.png)
+<div class="fullwidth-image-container">
+  <img src="/assets/images/Section1.png" alt="Before and after userflow for navigation">
+</div>
 
 <br>
 
