@@ -16,6 +16,8 @@ Web3 marketplace for NFT-backed phygital fashion
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
+<br>
+
 ## TL;DR
 
 This case study explores how **complex product data can become a story** through social-native UX. I designed a card-based interface for WEAVE that transforms blockchain-backed supply chain data into clear, shareable experiences—bridging NFTs, e-commerce, and social apps.

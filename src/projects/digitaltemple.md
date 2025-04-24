@@ -12,6 +12,8 @@ layout: project.njk
 
 An interactive web archive designed for immersive learning
 
+<br>
+
 <div class="fullwidth-image-container">
   <img src="/assets/images/DTCover.webp" alt="Digital Temple cover image">
 </div>
@@ -24,9 +26,11 @@ From sacred space to speculative UX—**this project explores how cultural resea
 
 ## Context
 
-As lead product designer and project manager, I worked with [Harvard FAS CAMLab](https://camlab.fas.harvard.edu/) to build a virtual platform for exploring the Kaihua Monastery. This 360° experience translates scholarly research into an intuitive, web-based interface—inviting users to navigate spatial narratives, interact with 3D reconstructions, and engage with religious art in context.
+As lead product designer and project manager, I worked with [Harvard FAS CAMLab](https://camlab.fas.harvard.edu/) to build a virtual platform for exploring the Kaihua Monastery. This project translates scholarly research into an intuitive, web-based interface—inviting users to navigate spatial narratives, interact with 3D reconstructions, and engage with religious art in context.
 
 I led the project from concept to execution, working across user research, interaction design, 3D visuals, and cross-functional collaboration to bring the experience to life.
+
+<br>
 
 <div class="layout-twocolumn">
     <div class="column-left">
