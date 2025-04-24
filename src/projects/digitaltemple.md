@@ -124,19 +124,22 @@ By layering research, spatial data, and multimedia content into a **single immer
 
 ## From Academic Research to Design
 
-Working closely with scholars in East Asian Studies, Architecture, Art History, and photogrammetry, our task was to translate dense academic research into visually intuitive, interactive experiences. However, **it is not without losses**: academic researches are layered and labyrinthian, yet graphics are usually very upfront.
+Working closely with scholars in East Asian Studies, Architecture, Art History, and photogrammetry, our task was to translate dense academic research into visually intuitive, interactive experiences. 
+
+However, **it is not without losses: academic researches are layered and labyrinthian, yet graphics are usually very upfront**.
 
 <div class="highlight-text">
    How might we preserve the depth of scholarship without overwhelming the user?
 </div>
 
 <img src="/assets/images/templeinsert.webp" alt="A flowchart showing research to design process">
+<br>
 
-We navigated this tension by building an interface that doesn't oversimplify but invites **layered exploration**, embedding research organically into spatial cues and interactive storytelling.
+We navigated this tension by building an interface that doesn't oversimplify but embeds research organically into spatial cues and interactive storytelling.
 <br><br><br>
 
 <div class="layout-gallery">
-    <div style="text-align: center; margin: auto; width: 80%">
+    <div style="text-align: center; margin: auto; width: 100%">
     <img src="/assets/images/academictimeline.webp" alt="A flowchart showing research to design process">
     </div>
 <br><br>
