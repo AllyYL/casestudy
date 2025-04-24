@@ -83,43 +83,6 @@ I led the project from concept to execution, working across user research, inter
     <br><br>
 </div>
 <br>
-
-
-## Highlight: A Unified Spatial Interface
-
-A key design achievement was translating Kaihua Monastery's complex visual program into an **interactive 3D web experience** that **doesn't fragment the user journey**. Instead of separating research, images, and data across disconnected pages (as many heritage platforms do), we **embedded historical content directly within the reconstructed space**.
-
-
-<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
-    <source src="/assets/images/TheaterMenu.mp4" type="video/mp4">
-</video>
-
-<br>
-
-<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
-    <source src="/assets/images/temporalstructure.mp4" type="video/mp4">
-</video>
-
-<br>
-
-<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
-    <source src="/assets/images/landscape.mp4" type="video/mp4">
-</video>
-
-<br>
-
-<div class="highlight-text">
-    An all-in-one interface combining 2D, 3D, and contextual narrative.
-</div>
-
-<br>
-
-By layering research, spatial data, and multimedia content into a **single immersive interface**, users intuitively explore the site—moving fluidly between 2D murals, 3D architecture, and contextual narratives, all within their native environments.
-
-<br>
-
----
-
 <br>
 
 ## From Academic Research to Design
@@ -223,12 +186,12 @@ In the second design iterations, after establishing usability testing metrics, w
 
 <br><br>
 <div class="fullwidth-image-container">
-  <img src="/assets/images/User Test Image.png" alt="Horizontal and vertical layout options for the webpage.">
+  <img src="/assets/images/Frame405.png" alt="Horizontal and vertical layout options for the webpage.">
 </div>
 
 <br>
 
-Here I expand on 3 most examplary ones:
+Here I expand on 2 most examplary ones:
 
 <img src="/assets/images/2.png" alt="An infograph showing branding guidelines">
 
@@ -237,6 +200,44 @@ Here I expand on 3 most examplary ones:
 <img src="/assets/images/17.png" alt="An infograph showing branding guidelines">
 
 <br><br>
+
+---
+
+<br>
+
+
+## Highlight: A Unified Spatial Interface
+
+A key design achievement was translating Kaihua Monastery's complex visual program into an **interactive 3D web experience** that **doesn't fragment the user journey**. Instead of separating research, images, and data across disconnected pages (as many heritage platforms do), we **embedded historical content directly within the reconstructed space**.
+
+
+<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
+    <source src="/assets/images/TheaterMenu.mp4" type="video/mp4">
+</video>
+
+<br>
+
+<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
+    <source src="/assets/images/temporalstructure.mp4" type="video/mp4">
+</video>
+
+<br>
+
+<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
+    <source src="/assets/images/landscape.mp4" type="video/mp4">
+</video>
+
+<br>
+
+<div class="highlight-text">
+    An all-in-one interface combining 2D, 3D, and contextual narrative.
+</div>
+
+<br>
+
+By layering research, spatial data, and multimedia content into a **single immersive interface**, users intuitively explore the site—moving fluidly between 2D murals, 3D architecture, and contextual narratives, all within their native environments.
+
+<br>
 
 ---
 
