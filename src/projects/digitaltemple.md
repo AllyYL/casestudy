@@ -20,15 +20,15 @@ An interactive web archive designed for immersive learning
 
 ## TL;DR
 
-From sacred space to speculative UX—**this project explores how cultural research can drive interface design**. I led the design for a 360° virtual experience of the Kaihua Monastery, transforming historical space into an interactive environment through an immersive web experience.
+From architectural space to speculative UX—**this project explores how cultural research can drive interface design**. I led the design for a 360° virtual experience of the Kaihua Monastery, transforming historical space into an interactive environment through an immersive web experience.
 
 <br>
 
 ## Context
 
-As lead product designer and project manager, I worked with [Harvard FAS CAMLab](https://camlab.fas.harvard.edu/) to build a virtual platform for exploring the Kaihua Monastery. This project translates scholarly research into an intuitive, web-based interface—inviting users to navigate spatial narratives, interact with 3D reconstructions, and engage with religious art in context.
+As lead product designer and project manager, I worked with [Harvard FAS CAMLab](https://camlab.fas.harvard.edu/) to build a website for exploring the Kaihua Monastery. This project translates scholarly research into an intuitive, web-based interface—inviting users to navigate spatial narratives, interact with 3D reconstructions, and engage with religious art in context.
 
-I led the project from concept to execution, working across user research, interaction design, 3D visuals, and cross-functional collaboration to bring the experience to life.
+I led the project from concept to execution, working across user research, interaction design, and cross-functional collaboration to bring the experience to life.
 
 <br>
 
@@ -65,9 +65,9 @@ I led the project from concept to execution, working across user research, inter
 ## Outcome
 
 <ul style="list-style-position: decimal inside; padding-left: 1em; margin-bottom: 1rem; font-size: 1.2rem; line-height: 1.6;">
-  <li style="padding-left: 1em;">7,400+ visitors explored the site within the first 6 months, with <strong>3.4k recurring users</strong> actively engaging with the experience.</li>
-  <li style="padding-left: 1em;">60% of users interacted with 3+ sections per session, suggesting <strong>strong exploratory engagement</strong> and intuitive navigation.</li>
-  <li style="padding-left: 1em;">Sparked <strong>collaboration with 4+ universities</strong> and cultural institutions, expanding its role in research, pedagogy, and digital preservation.</li>
+  <li style="padding-left: 0.5em;">7,400+ visitors explored the site within the first 6 months, with <strong>3.4k recurring users</strong> actively engaging with the experience.</li>
+  <li style="padding-left: 0.5em;">60% of users interacted with 3+ sections per session, suggesting <strong>strong exploratory engagement</strong> and intuitive navigation.</li>
+  <li style="padding-left: 0.5em;">Sparked <strong>collaboration with 4+ universities</strong> and cultural institutions, expanding its role in research, pedagogy, and digital preservation.</li>
 </ul>
 
 <br>
@@ -77,7 +77,8 @@ I led the project from concept to execution, working across user research, inter
     <br><br>
     <div class="plain">
         <h2>Problem Scope</h2><br>
-        <p>Designing for ambiguity: our challenge was to create a spatial interface that lets users <strong>explore the architectural space without simplifying it</strong>—bridging scholarship, architecture, and interaction.</p>
+        <p><strong>How do you design an interface for a space that wasn’t built to be “navigated” digitally?</strong></p><br>
+        <p>This project asked how we might turn a sacred, ambiguous architectural site into a speculative, interactive experience—without flattening its meaning or imposing a fixed narrative.</p>
     </div>
     <br><br>
 </div>
@@ -121,7 +122,7 @@ By layering research, spatial data, and multimedia content into a **single immer
 
 <br>
 
-## Design Challenges
+## From Academic Research to Design
 
 Working closely with scholars in East Asian Studies, Architecture, Art History, and photogrammetry, our task was to translate dense academic research into visually intuitive, interactive experiences. However, **it is not without losses**: academic researches are layered and labyrinthian, yet graphics are usually very upfront.
 
