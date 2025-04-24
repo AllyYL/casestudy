@@ -227,12 +227,6 @@ Here I expand on 2 most examplary ones:
 
 <br>
 
-<img src="/assets/images/2.png" alt="An infograph showing branding guidelines">
-
-<img src="/assets/images/17.png" alt="An infograph showing branding guidelines">
-
-<br><br>
-
 ---
 
 <br>
