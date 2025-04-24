@@ -175,6 +175,7 @@ We also conducted two rounds of interviews. In the first round of user research,
 ## Prototyping & User Testing
 
 Moving through rapid animated prototyping under mission-critical guidelines, after establishing usability testing metrics, we interviewed 10 participants from diverse academic and demographic backgrounds. We identified 35 usability issues from the usability tests and devised 18 actionable items.
+<br>
 
 ![Horizontal and vertical layout options for the webpage](/assets/images/Frame405.png)
 
@@ -182,8 +183,6 @@ Moving through rapid animated prototyping under mission-critical guidelines, aft
 <!-- <div class="fullwidth-image-container">
   <img src="/assets/images/Frame405.png" alt="Horizontal and vertical layout options for the webpage.">
 </div> -->
-
-<br>
 
 Here I expand on 2 most examplary ones:
 
