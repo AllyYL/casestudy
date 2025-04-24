@@ -211,7 +211,7 @@ We also conducted two rounds of interviews. In the first round of user research,
 
 ## Prototyping & User Testing
 
-We experimented with layouts that take into consideration both readability and displaying as much original information as possible.
+Moving through rapid animated prototyping under mission-critical guidelines, we experimented with different layouts, interactions, and user flows.
 
 <img src="/assets/images/layout.png" alt="Vertical and horizontal layout">
 
