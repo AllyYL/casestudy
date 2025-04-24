@@ -174,13 +174,7 @@ We also conducted two rounds of interviews. In the first round of user research,
 
 ## Prototyping & User Testing
 
-Moving through rapid animated prototyping under mission-critical guidelines, we experimented with different layouts, interactions, and user flows.
-
-<img src="/assets/images/layout.png" alt="Vertical and horizontal layout">
-
-<br>
-
-In the second design iterations, after establishing usability testing metrics, we interviewed 10 participants from diverse academic and demographic backgrounds. We identified 35 usability issues from the usability tests and devised 18 actionable items.
+Moving through rapid animated prototyping under mission-critical guidelines, after establishing usability testing metrics, we interviewed 10 participants from diverse academic and demographic backgrounds. We identified 35 usability issues from the usability tests and devised 18 actionable items.
 
 <br>
 <div class="fullwidth-image-container">
