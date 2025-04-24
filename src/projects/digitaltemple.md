@@ -191,6 +191,42 @@ In the second design iterations, after establishing usability testing metrics, w
 
 Here I expand on 2 most examplary ones:
 
+<br>
+
+### ① Assistive "Reading"
+
+<div class="layout-twocolumn">
+    <div class="column-left">
+        <h3>Problem</h3>
+        <p>The annotated murals assumed scholarly familiarity—participants didn’t know where to start or how to follow the narrative flow.</p>
+    </div>
+    <div class="column-right">
+        <h3>🙂 Solution</h3>
+        <p>Introduced clear entry points, visual motifs, and sectional markers to guide reading direction and structure the experience.</p>
+    </div>
+</div>
+
+<div class="fullwidth-image-container">
+  <img src="/assets/images/Section2.png" alt="Before and after userflow for guest checkout">
+</div>
+
+### ② Overlooked Navigation Issue
+
+<div class="layout-twocolumn">
+    <div class="column-left">
+        <h3>Problem</h3>
+        <p>Users couldn’t find their way between modules—navigation was buried or missing, causing confusion and dead ends.</p>
+    </div>
+    <div class="column-right">
+        <h3>🙂 Solution</h3>
+        <p>Restructured the layout and added persistent navigational cues, improving wayfinding and continuity across learning units.</p>
+    </div>
+</div>
+
+![Before and after userflow for guest checkout](/assets/images/Section1.png)
+
+<br>
+
 <img src="/assets/images/2.png" alt="An infograph showing branding guidelines">
 
 <img src="/assets/images/17.png" alt="An infograph showing branding guidelines">
