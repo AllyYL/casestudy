@@ -124,19 +124,17 @@ By layering research, spatial data, and multimedia content into a **single immer
 
 ## From Academic Research to Design
 
-Working closely with scholars in East Asian Studies, Architecture, Art History, and photogrammetry, our task was to translate dense academic research into visually intuitive, interactive experiences. 
+Working closely with scholars, our task was to translate dense academic research into visually intuitive, interactive experiences. However, **it is not without losses: academic researches are layered and labyrinthian, yet graphics are usually very upfront**.
 
-However, **it is not without losses: academic researches are layered and labyrinthian, yet graphics are usually very upfront**.
-
-<div class="highlight-text">
-   How might we preserve the depth of scholarship without overwhelming the user?
-</div>
+<br>
 
 <img src="/assets/images/templeinsert.webp" alt="A flowchart showing research to design process">
 <br>
 
-We navigated this tension by building an interface that doesn't oversimplify but embeds research organically into spatial cues and interactive storytelling.
-<br><br><br>
+<div class="highlight-text">
+   How might we preserve the depth of scholarship without overwhelming the user?
+</div>
+<br>
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 100%">
@@ -144,26 +142,32 @@ We navigated this tension by building an interface that doesn't oversimplify but
     </div>
 <br><br>
 
-### Solution: Simplification
+Here I've selected three design approaches that addresses the above concerns. 
+
+### One Dimension Up: Turning Complexity into Spatial Clarity
+
+The murals end in a layered mountain scene—where intersecting perspectives obscure visual clarity. We translated that complexity into spatial interaction, inviting users to navigate ambiguity instead of resolving it.
 
 <img src="/assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
 
 <br><br>
 
-### Solution: Visualization
+### Embed Information in Its Environment
+
+Rather then seperating content from context, we wanted to see how we can best use the affordances of the web to layer information.
 
 <img src="/assets/images/Academic2.png" alt="A before and after image showing how architectures are visualized">
 
 <br><br>
 
-### Solution: Reinterpretation
+### Theatricality
+
+We recreated lighting from the murals in 3D space—transforming visual cues into ambient effects that evoke the original atmosphere. 
+
+By adding a hint of theatricality and narrative rhythm, we aimed to spark curiosity and **draw users into deeper engagement**, rather than overwhelm them at the start.
+
 
 <img src="/assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
-
-<br><br>
-
-We ultimately made a **key trade-off**: **simplifying certain mural details** and scholarly interpretations in favor of a visualization style tailored to modern audiences. By adding a hint of theatricality and narrative rhythm, we aimed to spark curiosity and **draw users into deeper engagement**, rather than overwhelm them at the start.
-
 <br>
 
 ---
