@@ -83,11 +83,10 @@ I led the project from concept to execution, working across user research, inter
     <br><br>
 </div>
 <br>
-<br>
 
 ## From Academic Research to Design
 
-Working closely with scholars, our task was to translate dense academic research into visually intuitive, interactive experiences. However, **it is not without losses: academic researches are layered and labyrinthian, yet graphics are usually very upfront**.
+Working closely with scholars, our task was to translate dense academic research into visually intuitive, interactive experiences. However, it is not without losses: **academic researches are layered and labyrinthian, yet graphics are usually very upfront**.
 
 <br>
 
@@ -97,12 +96,11 @@ Working closely with scholars, our task was to translate dense academic research
 <div class="highlight-text">
    How might we preserve the depth of scholarship without overwhelming the user?
 </div>
-<br>
 
 <div class="layout-gallery">
     <div style="text-align: center; margin: auto; width: 100%">
     <img src="/assets/images/academictimeline.webp" alt="A flowchart showing research to design process">
-    </div>
+</div>
 <br><br>
 
 Here I've selected three design approaches that addresses the above concerns:
@@ -180,11 +178,11 @@ Moving through rapid animated prototyping under mission-critical guidelines, we 
 
 <img src="/assets/images/layout.png" alt="Vertical and horizontal layout">
 
-<br><br>
+<br>
 
 In the second design iterations, after establishing usability testing metrics, we interviewed 10 participants from diverse academic and demographic backgrounds. We identified 35 usability issues from the usability tests and devised 18 actionable items.
 
-<br><br>
+<br>
 <div class="fullwidth-image-container">
   <img src="/assets/images/Frame405.png" alt="Horizontal and vertical layout options for the webpage.">
 </div>
@@ -194,8 +192,6 @@ In the second design iterations, after establishing usability testing metrics, w
 Here I expand on 2 most examplary ones:
 
 <img src="/assets/images/2.png" alt="An infograph showing branding guidelines">
-
-<img src="/assets/images/13.png" alt="An infograph showing branding guidelines">
 
 <img src="/assets/images/17.png" alt="An infograph showing branding guidelines">
 
@@ -208,8 +204,9 @@ Here I expand on 2 most examplary ones:
 
 ## Highlight: A Unified Spatial Interface
 
-A key design achievement was translating Kaihua Monastery's complex visual program into an **interactive 3D web experience** that **doesn't fragment the user journey**. Instead of separating research, images, and data across disconnected pages (as many heritage platforms do), we **embedded historical content directly within the reconstructed space**.
+A key design achievement was translating Kaihua Monastery's complex visual program into an **interactive 3D web experience that doesn't fragment the user journey**. Instead of separating research, images, and data across disconnected pages (as many heritage platforms do), we **embedded historical content directly within the reconstructed space**.
 
+<br>
 
 <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
     <source src="/assets/images/TheaterMenu.mp4" type="video/mp4">
@@ -253,7 +250,7 @@ By layering research, spatial data, and multimedia content into a **single immer
 
 ---
 
-<br><br>
+<br>
 
 ## Deliverables
 ### Website
