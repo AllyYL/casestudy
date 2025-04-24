@@ -144,6 +144,8 @@ Working closely with scholars, our task was to translate dense academic research
 
 Here I've selected three design approaches that addresses the above concerns. 
 
+<br><br>
+
 ### One Dimension Up: Turning Complexity into Spatial Clarity
 
 The murals end in a layered mountain scene—where intersecting perspectives obscure visual clarity. We translated that complexity into spatial interaction, inviting users to navigate ambiguity instead of resolving it.
@@ -168,7 +170,7 @@ By adding a hint of theatricality and narrative rhythm, we aimed to spark curios
 
 
 <img src="/assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
-<br>
+<br><br><br>
 
 ---
 
