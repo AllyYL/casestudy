@@ -142,13 +142,13 @@ Working closely with scholars, our task was to translate dense academic research
     </div>
 <br><br>
 
-Here I've selected three design approaches that addresses the above concerns. 
+Here I've selected three design approaches that addresses the above concerns:
 
-<br><br>
+<br>
 
 ### One Dimension Up: Turning Complexity into Spatial Clarity
 
-The murals end in a layered mountain scene—where intersecting perspectives obscure visual clarity. We translated that complexity into spatial interaction, inviting users to navigate ambiguity instead of resolving it.
+The murals in the temple depict mountainous scenery where intersecting perspectives obscure visual clarity. To make them navigable, We lifted the mural into 3D.
 
 <img src="/assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
 
@@ -156,7 +156,7 @@ The murals end in a layered mountain scene—where intersecting perspectives obs
 
 ### Embed Information in Its Environment
 
-Rather then seperating content from context, we wanted to see how we can best use the affordances of the web to layer information.
+Rather then seperating content from context, we tried to maximize teh affordances of web to layer information.
 
 <img src="/assets/images/Academic2.png" alt="A before and after image showing how architectures are visualized">
 
@@ -166,7 +166,7 @@ Rather then seperating content from context, we wanted to see how we can best us
 
 We recreated lighting from the murals in 3D space—transforming visual cues into ambient effects that evoke the original atmosphere. 
 
-By adding a hint of theatricality and narrative rhythm, we aimed to spark curiosity and **draw users into deeper engagement**, rather than overwhelm them at the start.
+By adding a hint of theatricality, we hoped to spark curiosity and **draw users into deeper engagement**.
 
 
 <img src="/assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
