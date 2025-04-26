@@ -18,6 +18,6 @@ layout: "base.njk"
 ## Let's talk! Reach me at [luoyanxiu@gmail.com](mailto:luoyanxiu@gmail.com)
 <br><br>
 
-## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)<br>[Resume](https://drive.google.com/file/d/1lcrBijZPh6rMl32b_a6CJc_A32W3KxJj/view?usp=sharing)
+## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)<br>[Resume](https://drive.google.com/file/d/1u6Na6qQZ7xkiXmAnQD7Aa0knj5n54hw9/view?usp=sharing)
 
 <br>
