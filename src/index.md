@@ -8,7 +8,8 @@ isHomePage: true
     <div class="div1"><h1>Case Studies</h1></div>
     <div class="div2">
         <h2><a href="./projects/weave/" style="text-decoration: none">Web3 Social E-commerce</a></h2>
-        <p>Product journey as story: layering complex data into a social UX</p>
+        <p>Designing a social-native shopping experience</p>
+        <p><a href="./projects/weave/">Read the case study↗</a></p>
     </div>
     <div class="div3">
         <a href="./projects/weave/">
@@ -19,6 +20,7 @@ isHomePage: true
         <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Online Learning Tool</a></h2>
         <p>From sacred space to speculative UX—designing a research-driven experience, made by and for Harvard University.</p>
         <p><a href="https://www.digitaltemple.art" target="_blank" rel="noopener noreferrer">See the live site↗</a></p>
+        <p><a href="./projects/digitaltemple/">Read the case study↗</a></p>
     </div>
     <div class="div5">
         <a href="./projects/digitaltemple/">
