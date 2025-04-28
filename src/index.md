@@ -43,7 +43,7 @@ isHomePage: true
     </div>
     <div class="div10"><h1>Fun</h1></div>
     <div class="div11">
-        <a href="./projects/shower" target="_blank" rel="noopener noreferrer"><img src="./assets/images/ShowerThoughts.png" alt="Image of a book called Shower Thoughts" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <a href="./projects/shower" target="_blank" rel="noopener noreferrer"><img src="./assets/images/ShowerThoughtsCover.png" alt="Image of a book called Shower Thoughts" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="./projects/shower" style="text-decoration: none">Shower Thoughts: on Water, Intimacy, and Digitality</a></h2>
         <p>A book, an installation, and a performence about the Internet</p>
     </div>
