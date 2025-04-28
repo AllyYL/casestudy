@@ -45,7 +45,7 @@ isHomePage: true
     <div class="div11">
         <a href="./projects/shower" target="_blank" rel="noopener noreferrer"><img src="./assets/images/ShowerThoughts.png" alt="Image of a book called Shower Thoughts" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="./projects/shower" style="text-decoration: none">Shower Thoughts: on Water, Intimacy, and Digitality</a></h2>
-        <p>A book, an installation, and a performence</p>
+        <p>A book, an installation, and a performence about the Internet</p>
     </div>
     <div class="div12">
         <a href="https://www.youtube.com/watch?v=7n5AXpsue5k" target="_blank" rel="noopener noreferrer"><img src="./assets/images/water.gif" alt="A tutorial on water simulation made with TouchDesigner" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
