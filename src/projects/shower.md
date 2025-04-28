@@ -9,27 +9,7 @@ layout: project.njk
 
 # Shower Thoughts
 Installation, Performence, Book | 2024
-
-<br><br><br>
-
-![Installation shot of Shower Perpetuus at theBlanc Gallery 2024](/assets/images/ShowerPerpetuus.png)
-
-Dimensions:<br>
-220 x 180 x 60 cm
-
-Medium:<br>
-Peltier thermoelectric module, wood, pump, CPU cooling block, brass, vinyl tubing
-
-Description/Statement: <br>
-"Shower Perpetuus" is an installation that repurposes liquid CPU cooling systems as guerrilla shower devices. At room temperature, condensation drips down from CPU cooling blocks onto whoever stands beneath it, thus creating a shower made out of each other's breaths. 
-
-## A Sound Archive
-
-![Posters advertsing for the Shower Hotline](/assets/images/showersound.webp)
-
-"Shower Hotline" is a mini sound archive that distributes and collects recordings of shower sounds. It invites callers to "shower" in a public space and explore the playful tension between private and public.
-
-Anyone can call the toll-free number to listen to an anonymous recording of someone else's shower. The hotline tapped into the overlap between "the extremely private and the extraordinarily public" (Bookchin, 2009) in order to generate "a hopeful revelation of an unconscious community which we can trace through the mass archive" (Chun, 2016). 
+<br>
 
 ## A book
 
@@ -60,3 +40,24 @@ Stockists: <br>
 [Metalabel](https://sequencegiftshop.metalabel.com/showerthoughts?variantId=1&retryCount=1)<br>
 Secret Riso Club<br>
 [Printed Matter](https://www.printedmatter.org/catalog/67957/)<br>
+
+## An Installation
+
+![Installation shot of Shower Perpetuus at theBlanc Gallery 2024](/assets/images/ShowerPerpetuus.png)
+
+Dimensions:<br>
+220 x 180 x 60 cm
+
+Medium:<br>
+Peltier thermoelectric module, wood, pump, CPU cooling block, brass, vinyl tubing
+
+Description/Statement: <br>
+"Shower Perpetuus" is an installation that repurposes liquid CPU cooling systems as guerrilla shower devices. At room temperature, condensation drips down from CPU cooling blocks onto whoever stands beneath it, thus creating a shower made out of each other's breaths. 
+
+## A Sound Archive
+
+![Posters advertsing for the Shower Hotline](/assets/images/showersound.webp)
+
+"Shower Hotline" is a mini sound archive that distributes and collects recordings of shower sounds. It invites callers to "shower" in a public space and explore the playful tension between private and public.
+
+Anyone can call the toll-free number to listen to an anonymous recording of someone else's shower. The hotline tapped into the overlap between "the extremely private and the extraordinarily public" (Bookchin, 2009) in order to generate "a hopeful revelation of an unconscious community which we can trace through the mass archive" (Chun, 2016). 
