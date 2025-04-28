@@ -43,9 +43,9 @@ isHomePage: true
     </div>
     <div class="div10"><h1>Fun</h1></div>
     <div class="div11">
-        <a href="https://allyyl.github.io/Keyboard/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/keyboard.gif" alt="Keyboard is the New Sexy - A series of websites about censorship and female nudity" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
-        <h2><a href="https://allyyl.github.io/Keyboard/" style="text-decoration: none">Keyboard is the New Sexy</a></h2>
-        <p>Websites about censorship and female nudity. Hand coded with JS/HTML/CSS.</p>
+        <a href="./projects/shower" target="_blank" rel="noopener noreferrer"><img src="./assets/images/ShowerThoughts.png" alt="Image of a book called Shower Thoughts" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <h2><a href="./projects/shower" style="text-decoration: none">Shower Thoughts: on Water, Intimacy, and Digitality</a></h2>
+        <p>A book, an installation, and a performence</p>
     </div>
     <div class="div12">
         <a href="https://www.youtube.com/watch?v=7n5AXpsue5k" target="_blank" rel="noopener noreferrer"><img src="./assets/images/water.gif" alt="A tutorial on water simulation made with TouchDesigner" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
