@@ -12,9 +12,11 @@ layout: project.njk
 
 [Bloom](https://bloom3d.io/) is a niche, yet very chic, AI-native design tool for pattern makers and fashion designers. It is an ambitious project, and I had (still have) big dreams for it to be as edgy as the users we target. But we ran into some issues that are unexpected in a traditional UX design project, and unique to MVP-building under tight timeline and budget. I thought I should comb through and reflect on what I've learned so far as a product designer.
 
-1. We started out with CUIs in mind, but…
-2. How to design [intent-driven shortcuts](https://www.reddit.com/r/UXDesign/comments/1ju90qt/what_ive_learned_from_18_mths_of_ai/)?
-3. A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
+<ol>
+    <li>We started out with CUIs in mind, but…
+    <li>How to design [intent-driven shortcuts](https://www.reddit.com/r/UXDesign/comments/1ju90qt/what_ive_learned_from_18_mths_of_ai/)?
+    <li>A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
+</ol>
 <br>
 
 ![Screenshot from Yves Saint Laurent (2014)](/assets/images/ysl.webp)
