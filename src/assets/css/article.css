@@ -3,37 +3,42 @@
     max-width: 70ch;
     margin: 0 auto;
     padding: 2rem 0;
+    width: 100%;
 }
 
 .article h1 {
     font-size: 2.5rem;
     font-weight: 400;
     margin-bottom: 1.5rem;
+    max-width: 70ch;
 }
-
 
 .article h2 {
     font-size: 1.8rem;
     font-weight: 400;
     margin: 2rem 0 2rem;
+    max-width: 70ch;
 }
 
 .article h3 {
     font-size: 1.4rem;
     font-weight: 400;
     margin: 0rem 0 1rem;
+    max-width: 70ch;
 }
 
 .article p {
     font-size: 1.1rem;
     line-height: 1.6;
     margin-bottom: 1rem;
+    max-width: 70ch;
 }
 
 .article h4 {
     font-size: 0.8rem;
     line-height: 1.6;
     font-weight: 300;
+    max-width: 70ch;
 }
 
 strong {
@@ -402,4 +407,9 @@ strong {
     transition: width 0.2s ease;
     will-change: transform;
     transform-style: preserve-3d;
+}
+
+.article ol, .article ul {
+    max-width: 70ch;
+    margin-left: 1rem;
 }
