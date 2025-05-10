@@ -27,13 +27,12 @@ layout: article.njk
 
 <br>
 
-
 Fashion design can be very conversational, especially between pattern makers and designers, which makes CUI-based AI incorporation very exciting.
 
-## Conversational Interface vs Graphical Interface
+## Conversational Interface vs Graphical Interface {#conversational-interface}
 
 <div class="quote">
-    “Software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” <br>
+    "Software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
     –Wendy Chun, <i>Programmed Visions: Software and Memory</i>
 </div>
 <br>
@@ -70,7 +69,7 @@ Inspired by pattern cutters' workstations, we designed the layout to follow a le
 </div>
 <br>
 
-### Design Iterations
+### Design Iterations {#design-iterations}
 
 <img src="assets/images/browswerlofi.png">
 
@@ -93,7 +92,7 @@ Additional functionalities were added, including fullscreen mode and, after cons
 
 However, we were also challenged by this question...
 
-### Challenge: Internt Clarity
+### Challenge: Intent Clarity {#challenge-intent}
 
 **How does someone with no context understand what this product does just by looking at the interface?**
-It’s a valid concern. For apps like Booking, Uber, or WhatsApp, the value is immediately legible. But many newer tools—like ChatGPT, Figma, Spline.ai, are.na, or v0—operate differently. They’re less linear, less task-specific, and more open-ended. That ambiguity can be powerful, but it also risks alienating first-time users.
+It's a valid concern. For apps like Booking, Uber, or WhatsApp, the value is immediately legible. But many newer tools—like ChatGPT, Figma, Spline.ai, are.na, or v0—operate differently. They're less linear, less task-specific, and more open-ended. That ambiguity can be powerful, but it also risks alienating first-time users.

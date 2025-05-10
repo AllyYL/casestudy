@@ -18,11 +18,16 @@ layout: base.njk
     <div class="progress-bar-container">
         <div class="progress-bar" id="progressBar"></div>
     </div>
-    <main>
-        <div class="article">
-            {{ content | safe }}
-        </div>
-    </main>
+    <div class="article-container">
+        <nav class="side-menu" id="sideMenu">
+            <ul class="menu-list"></ul>
+        </nav>
+        <main>
+            <div class="article">
+                {{ content | safe }}
+            </div>
+        </main>
+    </div>
     
     <script src="/assets/js/main.js"></script>
     <script>
@@ -40,6 +45,25 @@ layout: base.njk
         // Update progress bar on scroll
         window.addEventListener('scroll', () => {
             updateProgressBar();
+        });
+
+        // Side menu functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const article = document.querySelector('.article');
+            const menuList = document.querySelector('.menu-list');
+            const headings = article.querySelectorAll('h2, h3');
+            
+            headings.forEach(heading => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.textContent = heading.textContent;
+                a.href = '#' + heading.id;
+                li.appendChild(a);
+                if (heading.tagName === 'H3') {
+                    li.classList.add('sub-item');
+                }
+                menuList.appendChild(li);
+            });
         });
     </script>
 </body>

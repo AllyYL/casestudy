@@ -1,3 +1,49 @@
+/* Article container and side menu */
+.article-container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.side-menu {
+    position: sticky;
+    top: 2rem;
+    width: 250px;
+    padding-right: 2rem;
+    height: calc(100vh - 4rem);
+    overflow-y: auto;
+}
+
+.menu-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-list li {
+    margin-bottom: 0.5rem;
+}
+
+.menu-list a {
+    color: #333;
+    text-decoration: none;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    display: block;
+    padding: 0.25rem 0;
+    transition: color 0.2s ease;
+}
+
+.menu-list a:hover {
+    color: #666;
+}
+
+.menu-list .sub-item {
+    padding-left: 1rem;
+    font-size: 0.85rem;
+}
+
 /* Article page specific styling */
 .article {
     max-width: 70ch;
@@ -36,7 +82,7 @@
 .article p {
     font-size: 1rem;
     line-height: 1.5;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     max-width: 70ch;
     font-weight: 400;
 }
@@ -86,6 +132,14 @@ strong {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
+    .article-container {
+        padding: 0 1rem;
+    }
+
+    .side-menu {
+        display: none;
+    }
+    
     .article {
         width: 100%;
     }
