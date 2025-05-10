@@ -5,7 +5,7 @@ description: AI-native fashion design tool.
 platform: web
 image: 
 tags: [projects]
-layout: project.njk
+layout: article.njk
 ---
 
 # Building (a niche) AI-Native Design Tool

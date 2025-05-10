@@ -1,0 +1,46 @@
+---
+layout: article.njk
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/article.css">
+</head>
+<body class="project-page {% if layout_type %}layout-{{ layout_type }}{% endif %}">
+    <div class="progress-bar-container">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+    <main>
+        <div class="project-content">
+            {{ content | safe }}
+        </div>
+    </main>
+    
+    <script src="/assets/js/main.js"></script>
+    <script>
+        // Progress bar functionality
+        function updateProgressBar() {
+            const progressBar = document.getElementById('progressBar');
+            const windowHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const scrolled = (window.scrollY / windowHeight) * 100;
+            progressBar.style.width = scrolled + '%';
+        }
+        
+        // Initialize progress bar
+        updateProgressBar();
+        
+        // Update progress bar on scroll
+        window.addEventListener('scroll', () => {
+            updateProgressBar();
+        });
+    </script>
+</body>
+</html> 
