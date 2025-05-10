@@ -27,7 +27,7 @@
     max-width: 70ch;
 }
 
-.article p .article ol{
+.article p .article ol .article li{
     font-size: 1.1rem;
     line-height: 1.6;
     margin-bottom: 1rem;
