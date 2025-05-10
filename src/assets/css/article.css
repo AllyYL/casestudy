@@ -40,7 +40,8 @@
     font-size: 0.8rem;
     line-height: 1.6;
     font-weight: 300;
-    max-width: 70ch;
+    max-width: 60ch;
+    text-align: center;
 }
 
 strong {
@@ -48,8 +49,9 @@ strong {
     color: blue;
 }
 
-.article quote {
+.quote {
     font-family: 'Times New Roman', Times, serif;
+    max-width: 60%;
 }
 
 .article img {
