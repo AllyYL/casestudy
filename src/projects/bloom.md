@@ -12,6 +12,8 @@ layout: article.njk
 
 [Bloom](https://bloom3d.io/) is a niche, yet very chic, AI-native design tool for pattern makers and fashion designers. It is an ambitious project, and I had (still have) big dreams for it to be as edgy as the users we target. But we ran into some issues that are unexpected in a traditional UX design project, and unique to MVP-building under tight timeline and budget. I thought I should comb through and reflect on what I've learned so far as a product designer.
 
+<br>
+
 <ol>
     <li>We started out with CUIs in mind, but…
     <li>How to design intent-driven shortcuts?
@@ -24,12 +26,14 @@ layout: article.njk
 #### In Yves Saint Laurent (2014), you see the designer doing a lot of talking.
 #### In Devil Wears Prada (2006), you see the editor doing a lot of talking.
 
+<br>
+
 Fashion design can be very conversational, especially between pattern makers and designers, which makes CUI-based AI incorporation very exciting.
 
 ## Conversational User Interface vs Graphical User Interface
 
-“…software’s vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” 
-–Wendy Chun, Programmed Visions: Software and Memory
+“…software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” <br>
+–Wendy Chun, *Programmed Visions: Software and Memory*
 
 ~~Despite all, an interface is designed to govern and hide.~~ A friendly and well-designed interface empowers and creates productive individuals. We set out to make a chat-based interface for fashion designers to quickly make production-ready patterns out of texts or images.
 
