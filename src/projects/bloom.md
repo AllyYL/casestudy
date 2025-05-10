@@ -35,8 +35,8 @@ Fashion design can be very conversational, especially between pattern makers and
 ## Conversational Interface vs Graphical Interface
 
 <div class="quote">
-    “…software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” <br>
-–Wendy Chun, *Programmed Visions: Software and Memory*
+    “Software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” <br>
+–Wendy Chun, <i>Programmed Visions: Software and Memory</i>
 </div>
 <br>
 
@@ -56,11 +56,34 @@ The nature of pattern making—starting with broad foundations and gradually lay
 </div>
 <br>
 
+Inspired by pattern cutters’ workstations, we designed the layout to follow a left-to-right flow—starting with a conversational interface for ideation and transitioning to graphical UIs for precision editing. <br>
+
+<img src="/assets/images/lofi.png" alt="Bloom's low-fi prototype">
+
 ![A high level wireframe for bloom's interface]()
 
-<div class="quote-">
+<div class="quote">
     "Show me three variations of a 1950s michigan jacket."
 </div>
 <br>
 
 ### Design Iterations
+
+<img src="assets/images/browswerlofi.png">
+
+#### Remember to put your design in a browser window. We realized how tabs can be overwhelming, despite being a nod to the analogue world.
+<br>
+<img src="assets/images/collab.png">
+
+#### Explorations, thinking of ways to insert"fashion collabs"
+
+<br>
+
+Some of the things that got vetoed immediately: floating sidebar, tab (profile and project tab) positions and levels. There are simply more "sliders" than we had originally imagined that needs to be fit neatly into the sidebar. 
+
+![A before and after of the sidebar design](assets/images/sidebar.png)
+![A before and after of the tab system](assets/images/tabsystem.png)
+
+<br>
+
+Additional functionalities were added, including fullscreen mode and, after consulting fashion designers, size setup and pattern library were added to the ideation toolkit.
