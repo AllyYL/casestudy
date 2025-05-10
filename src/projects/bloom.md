@@ -34,7 +34,7 @@ Fashion design can be very conversational, especially between pattern makers and
 
 <div class="quote">
     “Software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” <br>
-–Wendy Chun, <i>Programmed Visions: Software and Memory</i>
+    –Wendy Chun, <i>Programmed Visions: Software and Memory</i>
 </div>
 <br>
 
@@ -63,6 +63,8 @@ Inspired by pattern cutters' workstations, we designed the layout to follow a le
 
 #### Bloom | Low-fi prototype
 
+<br>
+
 <div class="quote">
     "Show me three variations of a 1950s michigan jacket."
 </div>
@@ -89,6 +91,9 @@ Some of the things that got vetoed immediately: floating sidebar, tab (profile a
 
 Additional functionalities were added, including fullscreen mode and, after consulting fashion designers, size setup and pattern library were added to the ideation toolkit.
 
-However, we were also challenged by this question:
+However, we were also challenged by this question...
 
 ### Challenge: Internt Clarity
+
+**How does someone with no context understand what this product does just by looking at the interface?**
+It’s a valid concern. For apps like Booking, Uber, or WhatsApp, the value is immediately legible. But many newer tools—like ChatGPT, Figma, Spline.ai, are.na, or v0—operate differently. They’re less linear, less task-specific, and more open-ended. That ambiguity can be powerful, but it also risks alienating first-time users.
