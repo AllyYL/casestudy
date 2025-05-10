@@ -54,26 +54,26 @@
     line-height: 1.5;
     margin-bottom: 1.5rem;
     max-width: 70ch;
-    font-weight: 400;
+    font-weight: 350;
 }
 
 .article h1 {
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 350;
     margin-bottom: 1.5rem;
     max-width: 70ch;
 }
 
 .article h2 {
     font-size: 1.5rem;
-    font-weight: 400;
+    font-weight: 350;
     margin: 2rem 0 2rem;
     max-width: 70ch;
 }
 
 .article h3 {
     font-size: 1.4rem;
-    font-weight: 400;
+    font-weight: 350;
     margin: 0rem 0 1rem;
     max-width: 70ch;
     color: grey;
@@ -84,7 +84,7 @@
     line-height: 1.5;
     margin-bottom: 1.5rem;
     max-width: 70ch;
-    font-weight: 400;
+    font-weight: 350;
 }
 
 .article ol,
@@ -92,7 +92,7 @@
     font-size: 1rem;
     line-height: 1.5;
     max-width: 70ch;
-    font-weight: 400;
+    font-weight: 350;
 }
 
 .article h4 {
@@ -105,8 +105,12 @@
 }
 
 strong {
-    font-weight: 450;
-    color: blue;
+    font-weight: 600;
+    color: #0000ee
+}
+
+.article a{
+    font-weight: 350;
 }
 
 .quote {
