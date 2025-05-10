@@ -30,6 +30,12 @@
     margin-bottom: 1rem;
 }
 
+.project-content h4 {
+    font-size: 0.8rem;
+    line-height: 1.6;
+    font-weight: 300;
+}
+
 strong {
     font-weight: 450;
     color: blue;

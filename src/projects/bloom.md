@@ -1,0 +1,52 @@
+---
+title: Bloom.io
+category: Case Studies
+description: AI-native fashion design tool.
+platform: web
+image: 
+tags: [projects]
+layout: project.njk
+---
+
+# Building (a niche) AI-Native Design Tool
+
+[Bloom](https://bloom3d.io/) is a niche, yet very chic, AI-native design tool for pattern makers and fashion designers. It is an ambitious project, and I had (still have) big dreams for it to be as edgy as the users we target. But we ran into some issues that are unexpected in a traditional UX design project, and unique to MVP-building under tight timeline and budget. I thought I should comb through and reflect on what I've learned so far as a product designer.
+
+1. We started out with CUIs in mind, but…
+2. How to design [intent-driven shortcuts](https://www.reddit.com/r/UXDesign/comments/1ju90qt/what_ive_learned_from_18_mths_of_ai/)?
+3. A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
+
+[Screenshot from Yves Saint Laurent (2014)](/assets/images/ysl.webp)
+[Screenshot from Devil Wears Prada (2006)](/assets/images/dwp.webp)
+
+#### In Yves Saint Laurent (2014), you see the designer doing a lot of talking.
+#### In Devil Wears Prada (2006), you see the editor doing a lot of talking.
+
+Fashion design can be very conversational, especially between pattern makers and designers, which makes CUI-based AI incorporation very exciting.
+
+## Conversational User Interface vs Graphical User Interface
+
+“…software’s vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” 
+–Wendy Chun, Programmed Visions: Software and Memory
+
+~~Despite all, an interface is designed to govern and hide.~~ A friendly and well-designed interface empowers and creates productive individuals. We set out to make a chat-based interface for fashion designers to quickly make production-ready patterns out of texts or images.
+
+[Logos of AI applications]()
+
+#### Claude, CLO, and Spline.ai are applications that makes use of co-creative or real-time artifacts interface designs. 
+
+The nature of pattern making—starting with broad foundations and gradually layering in precision—calls for a blend of CUIs and GUIs, each serving distinct roles in the workflow.
+
+<div class="quote-container">
+    For detailed technical elements, I would rather hire a pattern maker, as these details are difficult to communicate through text to an AI, however, hiring a pattern maker is costly at roughly $200/hour, so any time-saving solutions are valuable.
+</div>
+<br>
+
+[A high level wireframe for bloom's interface]()
+
+<div class="quote-container">
+    Show me three variations of a 1950s michigan jacket.
+</div>
+<br>
+
+### Design Iterations
