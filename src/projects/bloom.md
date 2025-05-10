@@ -21,8 +21,9 @@ layout: article.njk
 </ol>
 <br>
 
-![Screenshot from Yves Saint Laurent (2014)](/assets/images/ysl.webp)
-![Screenshot from Devil Wears Prada (2006)](/assets/images/dwp.webp)
+<img src="/assets/images/ysl.webp" alt="Screenshot from Yves Saint Laurent (2014)">
+<img src="/assets/images/dwp.webp" alt="Screenshot from Devil Wears Prada (2006)">
+
 #### In Yves Saint Laurent (2014), you see the designer doing a lot of talking.
 #### In Devil Wears Prada (2006), you see the editor doing a lot of talking.
 
@@ -31,7 +32,7 @@ layout: article.njk
 
 Fashion design can be very conversational, especially between pattern makers and designers, which makes CUI-based AI incorporation very exciting.
 
-## Conversational User Interface vs Graphical User Interface
+## Conversational Interface vs Graphical Interface
 
 <div class="quote">
     “…software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.” <br>
@@ -51,7 +52,7 @@ Fashion design can be very conversational, especially between pattern makers and
 The nature of pattern making—starting with broad foundations and gradually layering in precision—calls for a blend of CUIs and GUIs, each serving distinct roles in the workflow.
 
 <div class="quote">
-    For detailed technical elements, I would rather hire a pattern maker, as these details are difficult to communicate through text to an AI, however, hiring a pattern maker is costly at roughly $200/hour, so any time-saving solutions are valuable.
+    For detailed technicals, I would rather hire a pattern maker, as these details are difficult to communicate through text to an AI, however, hiring a pattern maker is costly at roughly $200/hour, so any time-saving solutions are valuable.
 </div>
 <br>
 

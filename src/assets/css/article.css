@@ -59,7 +59,13 @@ strong {
 .quote {
     font-family: 'Times New Roman', Times, serif;
     max-width: 60ch;
-    text-align: center;
+    text-align: left;
+    margin: auto;
+}
+
+.interview {
+    max-width: 60ch;
+    text-align: left;
     margin: auto;
 }
 
