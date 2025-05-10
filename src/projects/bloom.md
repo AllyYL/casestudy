@@ -56,11 +56,13 @@ The nature of pattern making—starting with broad foundations and gradually lay
 </div>
 <br>
 
-Inspired by pattern cutters’ workstations, we designed the layout to follow a left-to-right flow—starting with a conversational interface for ideation and transitioning to graphical UIs for precision editing. <br>
+![A high level wireframe for bloom's interface]()
+<br>
+
+Inspired by pattern cutters' workstations, we designed the layout to follow a left-to-right flow—starting with a conversational interface for ideation and transitioning to graphical UIs for precision editing. <br>
 
 <img src="/assets/images/lofi.png" alt="Bloom's low-fi prototype">
 
-![A high level wireframe for bloom's interface]()
 
 <div class="quote">
     "Show me three variations of a 1950s michigan jacket."
@@ -87,3 +89,7 @@ Some of the things that got vetoed immediately: floating sidebar, tab (profile a
 <br>
 
 Additional functionalities were added, including fullscreen mode and, after consulting fashion designers, size setup and pattern library were added to the ideation toolkit.
+
+However, we were also challenged by this question:
+
+### Challenge: Internt Clarity

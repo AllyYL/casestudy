@@ -33,6 +33,7 @@
     line-height: 1.6;
     margin-bottom: 1rem;
     max-width: 70ch;
+    font-weight: 400;
 }
 
 .article ol,
@@ -40,6 +41,7 @@
     font-size: 1.1rem;
     line-height: 1.6;
     max-width: 70ch;
+    font-weight: 400;
 }
 
 .article h4 {
