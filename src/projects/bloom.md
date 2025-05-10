@@ -45,6 +45,7 @@ Fashion design can be very conversational, especially between pattern makers and
 ![Logos of AI applications]()
 
 #### Claude, CLO, and Spline.ai are applications that makes use of co-creative or real-time artifacts interface designs. 
+
 <br>
 
 The nature of pattern making—starting with broad foundations and gradually layering in precision—calls for a blend of CUIs and GUIs, each serving distinct roles in the workflow.
@@ -54,10 +55,10 @@ The nature of pattern making—starting with broad foundations and gradually lay
 </div>
 <br>
 
-[A high level wireframe for bloom's interface]()
+![A high level wireframe for bloom's interface]()
 
-<div class="quote-container">
-    Show me three variations of a 1950s michigan jacket.
+<div class="quote-">
+    "Show me three variations of a 1950s michigan jacket."
 </div>
 <br>
 
