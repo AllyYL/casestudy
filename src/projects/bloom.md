@@ -14,14 +14,13 @@ layout: article.njk
 
 <ol>
     <li>We started out with CUIs in mind, but…
-    <li>How to design [intent-driven shortcuts](https://www.reddit.com/r/UXDesign/comments/1ju90qt/what_ive_learned_from_18_mths_of_ai/)?
+    <li>How to design intent-driven shortcuts?
     <li>A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
 </ol>
 <br>
 
 ![Screenshot from Yves Saint Laurent (2014)](/assets/images/ysl.webp)
 ![Screenshot from Devil Wears Prada (2006)](/assets/images/dwp.webp)
-
 #### In Yves Saint Laurent (2014), you see the designer doing a lot of talking.
 #### In Devil Wears Prada (2006), you see the editor doing a lot of talking.
 
