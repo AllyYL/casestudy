@@ -10,12 +10,12 @@ layout: article.njk
 
 # Building (a niche) AI-Native Design Tool
 
-[Bloom](https://bloom3d.io/) is a niche, yet very chic, AI-native design tool for pattern makers and fashion designers. It is an ambitious project, and I had (still have) big dreams for it to be as edgy as the users we target. But we ran into some issues that are unexpected in a traditional UX design project, and unique to MVP-building under tight timeline and budget. I thought I should comb through and reflect on what I've learned so far as a product designer.
+[bloom.io](https://bloom3d.io/) is a niche, yet very chic, AI-native design tool for pattern makers and fashion designers. It is an ambitious project, and I had (still have) big dreams for it to be as edgy as the users we target. But we ran into some issues that are unexpected in a **traditional UX design project**, and unique to **MVP-building under tight timeline and budget**. I thought I should comb through and reflect on what I've learned so far as a product designer.
 
 <ol>
-    <li>We started out with CUIs in mind, but…
-    <li>How to design intent-driven shortcuts?
-    <li>A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
+    <li> We started out with CUIs in mind, but…
+    <li> How to design intent-driven shortcuts?
+    <li> A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
 </ol>
 <br>
 
