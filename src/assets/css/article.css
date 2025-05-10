@@ -28,12 +28,17 @@
     color: grey;
 }
 
-.article p,
+.article p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    max-width: 70ch;
+}
+
 .article ol,
 .article li {
     font-size: 1.1rem;
     line-height: 1.6;
-    margin-bottom: 1rem;
     max-width: 70ch;
 }
 
@@ -43,6 +48,7 @@
     font-weight: 300;
     max-width: 60ch;
     text-align: center;
+    margin: auto;
 }
 
 strong {
@@ -52,7 +58,9 @@ strong {
 
 .quote {
     font-family: 'Times New Roman', Times, serif;
-    max-width: 60%;
+    max-width: 60ch;
+    text-align: center;
+    margin: auto;
 }
 
 .article img {
