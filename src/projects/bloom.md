@@ -15,9 +15,10 @@ layout: project.njk
 1. We started out with CUIs in mind, but…
 2. How to design [intent-driven shortcuts](https://www.reddit.com/r/UXDesign/comments/1ju90qt/what_ive_learned_from_18_mths_of_ai/)?
 3. A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
+<br>
 
-[Screenshot from Yves Saint Laurent (2014)](/assets/images/ysl.webp)
-[Screenshot from Devil Wears Prada (2006)](/assets/images/dwp.webp)
+![Screenshot from Yves Saint Laurent (2014)](/assets/images/ysl.webp)
+![Screenshot from Devil Wears Prada (2006)](/assets/images/dwp.webp)
 
 #### In Yves Saint Laurent (2014), you see the designer doing a lot of talking.
 #### In Devil Wears Prada (2006), you see the editor doing a lot of talking.
@@ -31,7 +32,7 @@ Fashion design can be very conversational, especially between pattern makers and
 
 ~~Despite all, an interface is designed to govern and hide.~~ A friendly and well-designed interface empowers and creates productive individuals. We set out to make a chat-based interface for fashion designers to quickly make production-ready patterns out of texts or images.
 
-[Logos of AI applications]()
+![Logos of AI applications]()
 
 #### Claude, CLO, and Spline.ai are applications that makes use of co-creative or real-time artifacts interface designs. 
 
