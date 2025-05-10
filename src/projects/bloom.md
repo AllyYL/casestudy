@@ -12,8 +12,6 @@ layout: article.njk
 
 [Bloom](https://bloom3d.io/) is a niche, yet very chic, AI-native design tool for pattern makers and fashion designers. It is an ambitious project, and I had (still have) big dreams for it to be as edgy as the users we target. But we ran into some issues that are unexpected in a traditional UX design project, and unique to MVP-building under tight timeline and budget. I thought I should comb through and reflect on what I've learned so far as a product designer.
 
-<br>
-
 <ol>
     <li>We started out with CUIs in mind, but…
     <li>How to design intent-driven shortcuts?
@@ -63,6 +61,7 @@ Inspired by pattern cutters' workstations, we designed the layout to follow a le
 
 <img src="/assets/images/lofi.png" alt="Bloom's low-fi prototype">
 
+#### Bloom | Low-fi prototype
 
 <div class="quote">
     "Show me three variations of a 1950s michigan jacket."

@@ -59,7 +59,8 @@ strong {
 }
 
 .quote {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: monospace;
+    line-height: 1.5;
     max-width: 60ch;
     text-align: left;
     margin: auto;
