@@ -125,6 +125,7 @@ strong {
 
 .article img {
     max-width: 100%;
+    min-width: 100%;
     height: auto;
     margin: 0rem auto;
     border-radius: 4px;
