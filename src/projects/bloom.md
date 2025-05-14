@@ -9,15 +9,16 @@ layout: article.njk
 ---
 
 # Designing an AI-Native Design Tool
+
 Early reflections from building Bloom3d.io's MVP
-<br>
+<br><br>
 
 <div class="quote">
-    "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
+    "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br><br>
     – Wendy Chun, Programmed Visions: Software and Memory
 </div>
 
-<br>
+<br><br>
 
 [bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 
@@ -33,7 +34,8 @@ This case study is a reflection on designing through ambiguity, prototyping at s
 <br><br>
 
 ## Balancing CUI and GUI
-### Designing two modes of interaction that work in tandem {#cui-gui}
+
+Designing two modes of interaction that work in tandem
 
 **Situation**
 <br>
@@ -64,10 +66,10 @@ We also embedded common setup actions (e.g. avatar presets, measurement tools) u
 **Result**
 <br>
 The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
+<br><br>
 
-<br>
-
-## Intent-driven Scaffold: Designing An Input Flow that Compensates for AI Limitations {#intent-scaffold}
+## Intent-driven Scaffold
+Designing An Input Flow that Compensates for AI Limitations
 
 ####  Designers who desperately try to understand how big the AI is by swallowing it.
 
@@ -87,7 +89,7 @@ I led several iterations of the entry flow, testing how to scaffold the process 
     <li>From dropdowns → to visual selectors: We swapped text inputs for illustrated options (e.g., sleeve types, pant shapes) to speed up decision-making
     <li>From single-step → to progressive disclosure: We broke the flow into short, guided steps, each building context for the AI model
 </ul>
-
+<br>
 We also added "smart defaults" based on upload type and previous selections, helping users move faster without feeling lost.
 
 
@@ -96,9 +98,11 @@ We also added "smart defaults" based on upload type and previous selections, hel
 The final input flow reduced user drop-off, gave the AI better structured context, and created a sense of creative momentum early on. Instead of feeling like a form, it felt like the start of a co-creation process.
 
 Takeaway: Designing with AI often means designing around AI. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
+<br><br>
 
+## UX Research at an AI Startup
 
-## UX Research at an AI Startup: What happens when the product leads–and you have to find the problem? {#ux-research}
+What happens when the product leads–and you have to find the problem?
 
 **Situation**
 <br>
@@ -124,13 +128,13 @@ I also led a segmentation process to identify our Ideal Customer Profile (ICP):
     <li>Designers managing their own sampling without access to full tech packs
     <li>Solo practitioners and early-stage brands needing fast iteration without $200/hr technical specialists
 </ul>
-
+<br>
 
 **Result**
 <br>
 This shift helped us avoid building for the wrong audience and clarified our product direction. We started framing Bloom.io not just as an AI generator, but as a time-saving assistant that supports real-world constraints in early-stage production.
 
 Takeaway: In AI-native UX, research isn't about validating features—it's about reverse-engineering the problem the product might already be solving.
+<br><br>
 
-
-## Future Considerations {#future}
+## Future Considerations
