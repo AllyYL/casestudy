@@ -9,12 +9,12 @@ layout: article.njk
 ---
 
 # Designing an AI-Native Design Tool
-# Early reflections from building Bloom3d.io's MVP
+## Early reflections from building Bloom3d.io's MVP
 <br>
 
 <div class="quote">
-    "Software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
-    –Wendy Chun, <i>Programmed Visions: Software and Memory</i>
+    "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
+    – Wendy Chun, Programmed Visions: Software and Memory
 </div>
 
 <br>
@@ -30,12 +30,14 @@ Unlike traditional UX projects, AI-native tools raise unexpected design question
 <br>
 
 This case study is a reflection on designing through ambiguity, prototyping at speed, and shaping tools for workflows that are still emerging.
+<br><br>
 
-## Balancing CUI and GUI: Designing two modes of interaction that work in tandem {#cui-gui}
+## Balancing CUI and GUI
+### Designing two modes of interaction that work in tandem {#cui-gui}
 
 **Situation**
 <br>
-We knew from the start that Bloom.io needed both a conversational interface (for fast ideation) and a graphical interface (for precise control). But we weren't sure how to structure them in a way that felt intuitive and production-ready for fashion professionals.
+We knew from the start that Bloom needed both a conversational interface (for fast ideation) and a graphical interface (for precise control). But we weren't sure how to structure them in a way that felt intuitive and production-ready for fashion professionals.
 
 <br>
 
@@ -121,6 +123,7 @@ I also led a segmentation process to identify our Ideal Customer Profile (ICP):
     <li>Designers managing their own sampling without access to full tech packs
     <li>Solo practitioners and early-stage brands needing fast iteration without $200/hr technical specialists
 </ul>
+
 
 **Result**
 <br>

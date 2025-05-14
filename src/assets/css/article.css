@@ -4,6 +4,15 @@ html {
     scroll-padding-top: 2rem;
 }
 
+.article ul,
+.article ol {
+    padding-left: 2em;
+}
+
+.article li {
+    padding-left: 1em;
+}
+
 .article-container {
     display: flex;
     justify-content: center;
@@ -171,6 +180,7 @@ strong {
     
     .article p
     .article ol,
+    .article ul,
     .article li {
         font-size: 1.1rem;
     }
