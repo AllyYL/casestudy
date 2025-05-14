@@ -9,7 +9,7 @@ layout: article.njk
 ---
 
 # Designing an AI-Native Design Tool
-## Early reflections from building Bloom3d.io's MVP
+Early reflections from building Bloom3d.io's MVP
 <br>
 
 <div class="quote">
@@ -86,6 +86,7 @@ I led several iterations of the entry flow, testing how to scaffold the process 
     <li>From blank uploads → to image + checklist pairing: Users uploaded a reference image and selected key categories like garment type (e.g., "upper body," "dress") and fabric intention
     <li>From dropdowns → to visual selectors: We swapped text inputs for illustrated options (e.g., sleeve types, pant shapes) to speed up decision-making
     <li>From single-step → to progressive disclosure: We broke the flow into short, guided steps, each building context for the AI model
+</ul>
 
 We also added "smart defaults" based on upload type and previous selections, helping users move faster without feeling lost.
 
