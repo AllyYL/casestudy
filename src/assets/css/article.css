@@ -1,13 +1,16 @@
 /* Article container and side menu */
 .article-container {
     display: flex;
-    max-width: 1200px;
+    justify-content: center;
+    max-width: 100%;
     margin: 0 auto;
-    padding: 0rem;
+    padding: 0;
+    position: relative;
 }
 
 .side-menu {
-    position: sticky;
+    position: fixed;
+    left: 2rem;
     top: 2rem;
     width: 250px;
     padding-right: 1rem;
@@ -54,7 +57,6 @@
     font-size: 1rem;
     line-height: 1.5;
     margin-bottom: 1.5rem;
-    max-width: 70ch;
     font-weight: 350;
 }
 
