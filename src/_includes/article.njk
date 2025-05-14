@@ -51,7 +51,7 @@ layout: base.njk
         document.addEventListener('DOMContentLoaded', function() {
             const article = document.querySelector('.article');
             const menuList = document.querySelector('.menu-list');
-            const headings = article.querySelectorAll('h2, h3');
+            const headings = article.querySelectorAll('h2');
             
             headings.forEach(heading => {
                 const li = document.createElement('li');
@@ -59,9 +59,6 @@ layout: base.njk
                 a.textContent = heading.textContent;
                 a.href = '#' + heading.id;
                 li.appendChild(a);
-                if (heading.tagName === 'H3') {
-                    li.classList.add('sub-item');
-                }
                 menuList.appendChild(li);
             });
         });

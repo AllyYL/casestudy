@@ -8,91 +8,124 @@ tags: [projects]
 layout: article.njk
 ---
 
-# Building (a niche) AI-Native Design Tool
-
-[bloom.io](https://bloom3d.io/) is a niche, yet very chic, AI-native design tool for pattern makers and fashion designers. It is an ambitious project, and I had (still have) big dreams for it to be as edgy as the users we target. But we ran into some issues that are unexpected in a **traditional UX design project**, and unique to **MVP-building under tight timeline and budget**. I thought I should comb through and reflect on what I've learned so far as a product designer.
-
-<ol>
-    <li> We started out with CUIs in mind, but…
-    <li> How to design intent-driven shortcuts?
-    <li> A lot of AI startups have a solution first, then they go about and find the right users and problems. What does that mean for a traditional UX research process? 
-</ol>
+# Designing an AI-Native Design Tool
+Early reflections from building Bloom3d.io's MVP
 <br>
-
-<img src="/assets/images/ysl.webp" alt="Screenshot from Yves Saint Laurent (2014)">
-<img src="/assets/images/dwp.webp" alt="Screenshot from Devil Wears Prada (2006)">
-
-#### In Yves Saint Laurent (2014), you see the designer doing a lot of talking.
-#### In Devil Wears Prada (2006), you see the editor doing a lot of talking.
-
-<br>
-
-Fashion design can be very conversational, especially between pattern makers and designers, which makes CUI-based AI incorporation very exciting.
-
-## Conversational Interface vs Graphical Interface {#conversational-interface}
 
 <div class="quote">
     "Software's vapory materialization and its ghostly interfaces embody— conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
     –Wendy Chun, <i>Programmed Visions: Software and Memory</i>
 </div>
-<br>
-
-~~Despite all, an interface is designed to govern and hide.~~ A friendly and well-designed interface empowers and creates productive individuals. We set out to make a chat-based interface for fashion designers to quickly make production-ready patterns out of texts or images.
-<br>
-
-![Logos of AI applications]()
-
-#### Claude, CLO, and Spline.ai are applications that makes use of co-creative or real-time artifacts interface designs. 
 
 <br>
 
-The nature of pattern making—starting with broad foundations and gradually layering in precision—calls for a blend of CUIs and GUIs, each serving distinct roles in the workflow.
+[bloom](https://bloom3d.io/)is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I’ve partnered up with another designer to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 
-<div class="quote">
-    For detailed technicals, I would rather hire a pattern maker, as these details are difficult to communicate through text to an AI, however, hiring a pattern maker is costly at roughly $200/hour, so any time-saving solutions are valuable.
-</div>
+Unlike traditional UX projects, AI-native tools raise unexpected design questions:
+<ol>
+    <li> How do we balance conversational interfaces with the clarity of graphical UI?
+    <li> Can we design intent-driven shortcuts that guide users without limiting exploration?
+    <li> What happens to UX when the product leads with a solution, not a problem?
+</ol>
 <br>
 
-![A high level wireframe for bloom's interface]()
-<br>
+This case study is a reflection on designing through ambiguity, prototyping at speed, and shaping tools for workflows that are still emerging.
 
-Inspired by pattern cutters' workstations, we designed the layout to follow a left-to-right flow—starting with a conversational interface for ideation and transitioning to graphical UIs for precision editing. <br>
+## Balancing CUI and GUI: Designing two modes of interaction that work in tandem
 
-<img src="/assets/images/lofi.png" alt="Bloom's low-fi prototype">
+**Situation**
 
-#### Bloom | Low-fi prototype
-
-<br>
-
-<div class="quote">
-    "Show me three variations of a 1950s michigan jacket."
-</div>
-<br>
-
-### Design Iterations {#design-iterations}
-
-<img src="assets/images/browswerlofi.png">
-
-#### Remember to put your design in a browser window. We realized how tabs can be overwhelming, despite being a nod to the analogue world.
-<br>
-<img src="assets/images/collab.png">
-
-#### Explorations, thinking of ways to insert"fashion collabs"
+We knew from the start that Bloom.io needed both a conversational interface (for fast ideation) and a graphical interface (for precise control). But we weren’t sure how to structure them in a way that felt intuitive and production-ready for fashion professionals.
 
 <br>
 
-Some of the things that got vetoed immediately: floating sidebar, tab (profile and project tab) positions and levels. There are simply more "sliders" than we had originally imagined that needs to be fit neatly into the sidebar. 
+**Task**
 
-![A before and after of the sidebar design](assets/images/sidebar.png)
-![A before and after of the tab system](assets/images/tabsystem.png)
+To find out, I conducted interviews across the fashion pipeline:
+<ul>
+    <li>A Burberry designer emphasized the need for visual trust when working with AI
+    <li>A factory technician walked me through 8 rounds of revisions using text and annotated video
+    <li>An independent designer told me, “These details are hard to describe in text… but hiring a pattern maker costs $200/hr. I need something faster.”
+</ul>
+
+These conversations surfaced hidden setup rituals—like configuring avatar sizes, body measurements, and pulling from personal pattern libraries—that weren’t obvious at first glance.
+
+**Action**
+
+We tested multiple layout configurations, including:
+A single combined panel (which became visually dense)
+Modal input flows (which broke interaction flow)
+A final split-screen model: CUI on the left for intent-setting, GUI on the right for live previews, sliders, and asset libraries.
+
+We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow—accessible from both sides.
+
+**Result**
+
+The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
 
 <br>
 
-Additional functionalities were added, including fullscreen mode and, after consulting fashion designers, size setup and pattern library were added to the ideation toolkit.
+## Intent-driven Scaffold: Designing An Input Flow that Compensates for AI Limitations
 
-However, we were also challenged by this question...
+####  Designers who desperately try to understand how big the AI is by swallowing it.
 
-### Challenge: Intent Clarity {#challenge-intent}
+**Situation**
 
-**How does someone with no context understand what this product does just by looking at the interface?**
-It's a valid concern. For apps like Booking, Uber, or WhatsApp, the value is immediately legible. But many newer tools—like ChatGPT, Figma, Spline.ai, are.na, or v0—operate differently. They're less linear, less task-specific, and more open-ended. That ambiguity can be powerful, but it also risks alienating first-time users.
+At Bloom.io, users can start a design with either an image or a text prompt. But our AI model couldn’t yet detect key garment attributes from an image (e.g., upper body vs lower body, sleeve style, neckline). That meant users needed to specify these features manually before entering the main design interface.
+
+**Task**
+
+This “pre-generation” flow risked becoming tedious. Too much friction would turn people away; too little guidance would confuse the AI. The challenge was to design a lightweight, intuitive selection flow that felt like a creative assistant, not a form.
+
+**Action**
+
+I led several iterations of the entry flow, testing how to scaffold the process without overwhelming users. Some key shifts included:
+<ul>
+    <li>From blank uploads → to image + checklist pairing: Users uploaded a reference image and selected key categories like garment type (e.g., “upper body,” “dress”) and fabric intention
+    <li>From dropdowns → to visual selectors: We swapped text inputs for illustrated options (e.g., sleeve types, pant shapes) to speed up decision-making
+    <li>From single-step → to progressive disclosure: We broke the flow into short, guided steps, each building context for the AI model
+
+We also added “smart defaults” based on upload type and previous selections, helping users move faster without feeling lost.
+
+
+**Result**
+
+The final input flow reduced user drop-off, gave the AI better structured context, and created a sense of creative momentum early on. Instead of feeling like a form, it felt like the start of a co-creation process.
+
+Takeaway: Designing with AI often means designing around AI. Guardrails aren’t limits—they’re opportunities to scaffold creativity and build trust in the system.
+
+
+## UX Research at an AI Startup: What happens when the product leads–and you have to find the problem?
+
+**Situation**
+
+Bloom.io began with a clear technical capability: generate garment patterns from prompts. But we didn’t yet know who this tool was really for—or what problem it solved best.
+
+**Task**
+
+Initial interviews asked users what they wanted. The answers were vague, and often contradicted their actual workflows. We realized that in AI-first products, users often can’t articulate what they’re missing, because the capability itself is new.
+
+**Action**
+
+I shifted to a Jobs-to-be-Done framework, focusing on:
+<ul>
+    <li>What users were trying to accomplish
+    <li>What was slowing them down
+    <li>What workarounds they used to fill the gaps
+</ul>
+Instead of asking “Would you use this?”, I asked “Tell me about the last time you had to create a pattern quickly. What did you do?”
+
+I also led a segmentation process to identify our Ideal Customer Profile (ICP):
+<ul>
+    <li>Pattern makers in small-to-mid-sized studios
+    <li>Designers managing their own sampling without access to full tech packs
+    <li>Solo practitioners and early-stage brands needing fast iteration without $200/hr technical specialists
+
+**Result**
+
+This shift helped us avoid building for the wrong audience and clarified our product direction. We started framing Bloom.io not just as an AI generator, but as a time-saving assistant that supports real-world constraints in early-stage production.
+
+Takeaway: In AI-native UX, research isn’t about validating features—it’s about reverse-engineering the problem the product might already be solving.
+
+
+## Future Considerations
