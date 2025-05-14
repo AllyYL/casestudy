@@ -139,13 +139,15 @@ strong {
 }
 
 /* Responsive adjustments */
+@media (max-width: 1200px) {
+    .side-menu {
+        display: none;
+    }
+}
+
 @media (max-width: 768px) {
     .article-container {
         padding: 0 1rem;
-    }
-
-    .side-menu {
-        display: none;
     }
     
     .article {
