@@ -49,14 +49,15 @@ We knew from the start that Bloom needed both a **conversational interface** (fo
 ####  We started out by observing how a jacket is made and digitized.
 <br>
 
+<p>
 <span class="title">Discovery</span><br>
-To find out, I conducted interviews across the fashion pipeline:
+To find out, I conducted <strong>interviews across the fashion pipeline</strong>:
 <ul>
-    <li>An <strong> in-house designer at Burberry</strong> shared that their workflow is highly conversational and image-first. 
-    <li>A <strong>factory technician</strong> walked me through 8 rounds of revisions, often communicated through a mix of annotated videos and text. Iteration is high-volume and deeply contextual.
-    <li>An <strong>independent designer</strong> emphasized the need to get the big picture down first before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
+    <li>An in-house designer at Burberry shared that their workflow is highly conversational and image-first. 
+    <li>A factory technician walked me through 8 rounds of revisions, often communicated through a mix of annotated videos and text. Iteration is high-volume and deeply contextual.
+    <li>An independent designer emphasized the need to get the big picture down first before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
 </ul>
-<br>
+</p>s
 
 <div style="display: flex; gap: 10px; margin: 0;">
     <video width="48%" controls>
