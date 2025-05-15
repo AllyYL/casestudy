@@ -44,7 +44,7 @@ This case study is a reflection on designing through ambiguity, prototyping at s
 We knew from the start that Bloom needed both a conversational interface (for fast ideation) and a graphical interface (for precise control). But we weren't sure how to structure them in a way that felt intuitive and production-ready for fashion professionals.
 <br>
 
-![A series of photos capturing how a jacket is made and digitized.](/assets/images/jacketprocess.png)
+![A series of photos capturing how a jacket is made and digitized.](/assets/images/JacketProcess.png)
 ####  We started out by observing how a jacket is made and digitized.
 
 **Discovery**<br>
@@ -84,7 +84,7 @@ We tested multiple layout configurations, including:
 </ul><br>
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
-![Wireframes of 3 layout congigurations.](/assets/images/jacketprocess.png)
+![Wireframes of 3 layout congigurations.](/assets/images/JacketProcess.png)
 
 **Result**
 <br>
