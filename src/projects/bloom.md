@@ -148,7 +148,7 @@ Designing with AI often means designing around AI. Guardrails aren't limits—th
 
 Bloom began with a clear technical capability: generate garment patterns from prompts. But we didn't yet know who this tool was really for—or what problem it solved best.
 
-<img alt="Screenshot of the index we collected of the generated results" src="assets/images/indexing.png">
+<img alt="Screenshot of the index we collected of the generated results" src="/assets/images/indexing.png">
 
 #### Part of our research targets the LLM itself. Indexing the generated results helped us getting to know "the elephant" better.
 
@@ -168,7 +168,8 @@ I shifted to a Jobs-to-be-Done framework, focusing on:
 Instead of asking "How would you like to use this?" I asked "Tell me about the last time you had to create a pattern quickly. What did you do?"
 <br><br>
 
-![Screenshot of transcripts from interviews we conducted.](/assets/images/interviewtranscripts.png)
+<img alt="Screenshot of transcripts from interviews we conducted." src="/assets/images/interviewtranscripts.png">
+
 ####  Partial screenshot of transcripts from interviews we conducted.
 <br>
 
