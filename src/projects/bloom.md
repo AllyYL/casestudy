@@ -213,7 +213,7 @@ For many AI startups, research isn't about validating features—it's about reve
 
 ## Future Considerations
 
-Looking ahead, there’s potential to extend the tool’s utility with features that better support iterative and collaborative workflows, including:
+Looking ahead, there's potential to extend the tool's utility with features that better support iterative and collaborative workflows, including:
 
 <ul>
     <li>Version control for tracking design iterations and reverting changes
