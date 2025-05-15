@@ -104,7 +104,7 @@ html {
 .article h2 {
     font-size: 1.5rem;
     font-weight: 400;
-    margin: 0rem 0 1rem;
+    margin: 0rem 0 0.5rem;
     max-width: 70ch;
     scroll-margin-top: 2rem;
 }
@@ -112,7 +112,7 @@ html {
 .article h3 {
     font-size: 1.3rem;
     font-weight: 400;
-    margin: 0.5rem 0 1.5rem;
+    margin: 0rem 0 1.5rem;
     max-width: 70ch;
     color: rgb(167, 167, 167);
 }
@@ -161,6 +161,7 @@ strong {
     margin: 0;
     color: #000000;
     letter-spacing: 0.5pt;
+    margin-bottom: 1rem;
 }
 
 .interview {
@@ -198,14 +199,23 @@ strong {
     }
     
     .article h2 {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
+        margin-bottom: 0;
+    }
+
+    .article h3 {
+        margin: 0 0 1.5rem;
+        font-size: 1.1rem;
     }
     
     .article p
     .article ol,
-    .article ul,
-    .article li {
-        font-size: 1.1rem;
+    .article ul{
+        margin-left: 0;
+    }
+
+    .article li{
+        padding-left: 1em;
     }
 }
 

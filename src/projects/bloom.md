@@ -23,6 +23,8 @@ layout: article.njk
 
 [Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 
+<br>
+
 ## Problem Scope
 
 Unlike traditional UX projects, AI-native tools raise unexpected design questions:
@@ -74,10 +76,8 @@ The final layout mirrored how professionals actually work: expressing ideas in n
 ### Designing An Input Flow that Compensates for AI Limitations
 
 ![Illustration from Little Prince, a snake swallowing an elephant, forming the shape of a hat.](/assets/images/LittlePrince.jpg)
-
-<br><br>
-
 ####  Designers who desperately try to understand how big the AI is by swallowing it.
+<br>
 
 At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, sleeve style, neckline). That meant users needed to specify these features manually before entering the main design interface.
 
