@@ -78,22 +78,23 @@ html {
     font-size: 2rem;
     font-weight: 400;
     max-width: 70ch;
+    margin-bottom: 1rem;
 }
 
 .article h2 {
     font-size: 1.5rem;
     font-weight: 400;
-    margin: 2rem 0 2rem;
+    margin: 0rem 0 1rem;
     max-width: 70ch;
     scroll-margin-top: 2rem;
 }
 
 .article h3 {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-weight: 400;
-    margin: 0rem 0 1rem;
+    margin: 0.5rem 0 1.5rem;
     max-width: 70ch;
-    color: grey;
+    color: rgb(167, 167, 167);
 }
 
 .article p {
@@ -123,7 +124,8 @@ html {
 
 strong {
     font-weight: 600;
-    color: #000000
+    color: #000000;
+    font-family: monospace;
 }
 
 .article a{
