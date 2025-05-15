@@ -10,7 +10,7 @@ layout: article.njk
 
 # Designing an AI-Native Design Tool
 
-### Early reflections from building Bloom3d.io's MVP
+### Early reflections from building Bloom's MVP
 
 <br>
 
