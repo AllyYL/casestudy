@@ -56,7 +56,7 @@ html {
 }
 
 .menu-list a:hover {
-    color: #666;
+    color: rgb(174, 174, 178);
     text-decoration: none;
 }
 
