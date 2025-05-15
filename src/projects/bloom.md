@@ -95,7 +95,7 @@ As interviews progressed, We continued to iterate through different interaction 
 
 <img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." src="/assets/images/InteractionLoop.png">
 
-<br>
+<br><br>
 
 <span class="title">Result</span><br>
 The final layout mirrored how designers think: **ideation and refinement happen in parallel, but engage different modes**—natural language for intent, precision tools for control.
@@ -128,6 +128,7 @@ We began with a traditional static layout: a single page crammed with all input 
 
 <br>
 Through testing and iteration, we landed on two more dynamic models:
+
 <ul>
     <li>A pop-up multi-step flow for guided image or text-based generation
 	<li>A <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue
