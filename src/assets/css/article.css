@@ -4,10 +4,6 @@ html {
     scroll-padding-top: 2rem;
 }
 
-main {
-    z-index: -99;
-}
-
 .article ul,
 .article ol {
     padding-left: 2em;
@@ -32,10 +28,9 @@ main {
     top: 2rem;
     width: 250px;
     padding-right: 1rem;
-    padding-top: 6.5rem;
+    transform: translateY(6.5rem);
     height: calc(100vh - 4rem);
     overflow-y: auto;
-    z-index: -1;
 }
 
 .menu-list {
