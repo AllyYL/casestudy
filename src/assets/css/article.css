@@ -57,6 +57,7 @@ html {
 
 .menu-list a:hover {
     color: #666;
+    text-decoration: none;
 }
 
 .menu-list a.active {
