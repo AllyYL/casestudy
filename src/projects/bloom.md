@@ -19,7 +19,7 @@ layout: article.njk
     – Wendy Chun, Programmed Visions: Software and Memory
 </div>
 
-<br><br>
+<br>
 
 [Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 

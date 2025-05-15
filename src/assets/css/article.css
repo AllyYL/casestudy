@@ -52,6 +52,7 @@ html {
     padding: 0.25rem 0;
     transition: color 0.2s ease;
     position: relative;
+    font-weight: 400;
 }
 
 .menu-list a:hover {
@@ -61,6 +62,7 @@ html {
 .menu-list a.active {
     color: #000;
     font-weight: 500;
+    text-decoration: none;
 }
 
 .menu-list a.active::before {
