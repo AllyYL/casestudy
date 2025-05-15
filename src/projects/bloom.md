@@ -25,7 +25,7 @@ layout: article.njk
 
 <br>
 
-## Problem Scope
+## Three Problems
 
 Unlike traditional UX projects, AI-native tools raise unexpected design questions:
 <ol>
@@ -38,7 +38,7 @@ Unlike traditional UX projects, AI-native tools raise unexpected design question
 This case study is a reflection on designing through ambiguity, prototyping at speed, and shaping tools for workflows that are still emerging.
 <br><br><br>
 
-## Balancing CUI and GUI
+## - Balancing CUI and GUI
 
 ### Designing two modes of interaction that work in tandem
 
@@ -71,7 +71,7 @@ We also embedded common setup actions (e.g. avatar presets, measurement tools) u
 The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
 <br><br><br>
 
-## Intent-driven Scaffold
+## - Intent-driven Scaffold
 
 ### Designing An Input Flow that Compensates for AI Limitations
 
@@ -105,7 +105,7 @@ The final input flow reduced user drop-off, gave the AI better structured contex
 Designing with AI often means designing around AI. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
 <br><br><br>
 
-## UX Research at an AI Startup
+## - UX Research at an AI Startup
 
 ### What happens when the product leads–and you have to find the problem?
 
