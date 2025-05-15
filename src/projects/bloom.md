@@ -86,13 +86,13 @@ We tested multiple layout configurations, including:
 </ul><br>
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
-<img alt="Wireframes of 3 layout congigurations." arc="/assets/images/wireframe.png">
+<img alt="Wireframes of 3 layout congigurations." src="/assets/images/wireframe.png">
 
 #### We brainstormed several layout configurations.
 
 <br>
 
-<img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." arc="/assets/images/InteractionLoop.png">
+<img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." src="/assets/images/InteractionLoop.png">
 
 <br>
 
