@@ -21,7 +21,7 @@ layout: article.njk
 
 <br>
 
-[Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
+[Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer in a founding team of 6 to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 
 <br>
 
@@ -29,32 +29,47 @@ layout: article.njk
 
 Unlike traditional UX projects, AI-native tools raise unexpected design questions:
 <ol>
-    <li> How do we balance conversational interfaces with the clarity of graphical UI?
-    <li> Can we design intent-driven shortcuts that guide users without limiting exploration?
-    <li> What happens to UX when the product leads with a solution, not a problem?
+    <li> How do we balance conversational interfaces with the clarity of graphical UIs?
+    <li> How to <strong>design around AI<strong> by building flows that compensate the current limitations of AI?
+    <li> What happens when the product leads with a solution, not a problem?
 </ol>
 <br>
 
 This case study is a reflection on designing through ambiguity, prototyping at speed, and shaping tools for workflows that are still emerging.
 <br><br><br>
 
-## - Balancing CUI and GUI
-
-### Designing two modes of interaction that work in tandem
+## ☞ Balancing CUI and GUI
+### Let Real-world Workflows Shape the Interface
 
 We knew from the start that Bloom needed both a conversational interface (for fast ideation) and a graphical interface (for precise control). But we weren't sure how to structure them in a way that felt intuitive and production-ready for fashion professionals.
 <br>
 
+![A series of photos capturing how a jacket is made and digitized.](assets/images/jacketprocess.png)
+####  We started out by observing how a jacket is made and digitized.
+
 **Discovery**<br>
 To find out, I conducted interviews across the fashion pipeline:
 <ul>
-    <li>A Burberry designer emphasized the need for visual trust when working with AI
-    <li>A factory technician walked me through 8 rounds of revisions using text and annotated video
-    <li>An independent designer told me, "These details are hard to describe in text… but hiring a pattern maker costs $200/hr. I need something faster."
+    <li>A Burberry designer shared that their workflow is highly conversational and image-first. 
+    <li>A factory technician walked me through 8 rounds of revisions, often communicated through a mix of annotated videos and text. Iteration is high-volume and deeply contextual.
+    <li>An independent designer emphasized the need to get the big picture down first before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
 </ul>
 <br>
 
-These conversations surfaced hidden setup rituals—like configuring avatar sizes, body measurements, and pulling from personal pattern libraries—that weren't obvious at first glance.
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+    <video width="48%" controls>
+        <source src="/assets/images/PatternAdjustment1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <video width="48%" controls>
+        <source src="/assets/images/PatternAdjustment2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+These conversations revealed a common thread: users want to begin with expressive intent, and shift into control once the direction is clear. This insight directly shaped our decision to build a conversational-to-control flow—starting with prompts, then refining with sliders and editing tools.
+
+We also uncovered hidden setup rituals that professionals rarely mention explicitly, such as: selecting or customizing avatar size and body measurements and pattern libraries.
 
 **Action**
 <br>
@@ -64,14 +79,16 @@ We tested multiple layout configurations, including:
     <li>Modal input flows (which broke interaction flow)
     <li>A final split-screen model: CUI on the left for intent-setting, GUI on the right for live previews, sliders, and asset libraries.
 </ul><br>
-We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow—accessible from both sides.<br><br>
+We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
+
+![Wireframes of 3 layout congigurations.](assets/images/jacketprocess.png)
 
 **Result**
 <br>
 The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
 <br><br><br>
 
-## - Intent-driven Scaffold
+## ☞ Intent-driven Scaffold
 
 ### Designing An Input Flow that Compensates for AI Limitations
 
@@ -105,7 +122,7 @@ The final input flow reduced user drop-off, gave the AI better structured contex
 Designing with AI often means designing around AI. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
 <br><br><br>
 
-## - UX Research at an AI Startup
+## ☞ UX Research at an AI Startup
 
 ### What happens when the product leads–and you have to find the problem?
 
