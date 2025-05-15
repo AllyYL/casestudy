@@ -212,3 +212,13 @@ For many AI startups, research isn't about validating features—it's about reve
 <br><br><br>
 
 ## Future Considerations
+
+Looking ahead, there’s potential to extend the tool’s utility with features that better support iterative and collaborative workflows, including:
+
+<ul>
+    <li>Version control for tracking design iterations and reverting changes
+	<li>A collection system to organize and compare pattern variations
+	<li>Real-time collaboration to support teams working across roles (e.g., designers + pattern makers)
+</ul>
+<br>
+These additions would move Bloom closer to being a full creative workspace—not just a generation tool.
