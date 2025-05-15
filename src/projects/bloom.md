@@ -49,7 +49,6 @@ We knew from the start that Bloom needed both a **conversational interface** (fo
 ####  We started out by observing how a jacket is made and digitized.
 <br>
 
-<p>
 <span class="title">Discovery</span><br>
 To find out, I conducted <strong>interviews across the fashion pipeline</strong>:
 <ul>
@@ -57,7 +56,7 @@ To find out, I conducted <strong>interviews across the fashion pipeline</strong>
     <li>A factory technician walked me through 8 rounds of revisions, often communicated through a mix of annotated videos and text. Iteration is high-volume and deeply contextual.
     <li>An independent designer emphasized the need to get the big picture down first before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
 </ul>
-</p>s
+<br>
 
 <div style="display: flex; gap: 10px; margin: 0;">
     <video width="48%" controls>
@@ -75,15 +74,11 @@ To find out, I conducted <strong>interviews across the fashion pipeline</strong>
 
 These conversations revealed a common thread: **users start with intent, then shift into precision**. This insight directly shaped our decision to build a **conversational-to-control flow**—starting with prompts, then refining with sliders and editing tools.
 
-We also uncovered hidden setup flows that professionals rarely mention explicitly, such as: selecting or customizing avatar size and body measurements, as well as using pattern libraries.
+We also uncovered **hidden setup flows that professionals rarely mention explicitly**, such as: selecting or customizing avatar size and body measurements, as well as using pattern libraries.
 
 <span class="title">Action</span><br>
-We tested multiple layout configurations, including:
-<ul>
-    <li>A single combined panel (which became visually dense)
-    <li>Modal input flows (which broke interaction flow)
-    <li>A final split-screen model: CUI for intent-setting, GUI for live previews, sliders, and material libraries.
-</ul><br>
+We tested multiple layout configurations, including: A single combined panel (which became visually dense), modal input flows (which broke interaction flow), and a final split-screen model: CUI for intent-setting, GUI for live previews, sliders, and material libraries.
+
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
 <img alt="Wireframes of 3 layout congigurations." src="/assets/images/wireframe.png">
@@ -128,12 +123,7 @@ We began with a traditional static layout: a single page crammed with all input 
 #### The initial pre-generation screen.
 
 <br>
-Through testing and iteration, we landed on two more dynamic models:
-
-<ul>
-    <li>A pop-up multi-step flow for guided image or text-based generation
-	<li>A <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue
-</ul>
+Through testing and iteration, we landed on two more dynamic models: A <strong>pop-up multi-step flow</strong> for guided image or text-based generation, and a <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue
 <br>
 
 <img alt="Screenshot of the pop-up modal input flow." src="/assets/images/popup.png">
