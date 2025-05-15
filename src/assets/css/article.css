@@ -146,6 +146,7 @@ strong {
     font-weight: 500;
     color: #666;
     font-family: monospace;
+    padding-bottom: 0.5rem;
 }
 
 .article a{
