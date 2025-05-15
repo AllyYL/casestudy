@@ -76,8 +76,7 @@ These conversations revealed a common thread: **users start with intent, then sh
 
 We also uncovered hidden setup flows that professionals rarely mention explicitly, such as: selecting or customizing avatar size and body measurements, as well as using pattern libraries.
 
-**Action**
-<br>
+<span class="title">Action</span><br>
 We tested multiple layout configurations, including:
 <ul>
     <li>A single combined panel (which became visually dense)
@@ -98,9 +97,7 @@ As interviews progressed, We continued to iterate through different interaction 
 
 <br>
 
-**Result**
-<br>
-
+<span class="title">Result</span><br>
 The final layout mirrored how designers think: **ideation and refinement happen in parallel, but engage different modes**—natural language for intent, precision tools for control.
 <br>
 
@@ -119,13 +116,10 @@ The final layout mirrored how designers think: **ideation and refinement happen 
 
 At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, menswear vs womenswear, cut types). That meant users needed to specify these features manually before entering the main design interface.
 
-**Task**
-<br>
-
+<span class="title">Task</span><br>
 The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to **design a lightweight, flexible input scaffold without overwhelming users—adaptable as the model matured**.
 
-**Action**
-<br>
+<span class="title">Action</span><br>
 We began with a traditional static layout: a single page crammed with all input fields at once. It overwhelmed users and looked like a form.
 
 <img alt="Screenshot of the initial pre-generation UI." src="/assets/images/InitialFlow.png">
@@ -153,12 +147,10 @@ Through testing and iteration, we landed on two more dynamic models:
 These approaches scaffolded AI input without overloading the screen, and gave us flexibility to update or expand input options as the model evolved.
 <br><br>
 
-**Result**
-<br>
-
+<span class="title">Result</span><br>
 The final input flow **reduced user drop-off**, gave the AI better structured context, and created a sense of **creative momentum** early on. Instead of feeling like a form, it felt like the start of a co-creation process.
 
-**Takeaway**<br>
+<span class="title">Takeaway</span><br>
 Designing with AI often means designing around AI. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
 <br><br><br>
 
@@ -174,14 +166,10 @@ Bloom began with a clear technical capability: generate garment patterns from pr
 
 <br>
 
-**Task**
-<br>
-
+<span class="title">Task</span><br>
 Initial interviews asked users what they wanted. The answers were vague, and often contradicted their actual workflows. We realized that in AI-first products, **users often can't articulate what they're missing, because the capability itself is new**. I needed to shift from feature testing to **problem discovery**.
 
-**Action**
-<br>
-
+<span class="title">Action</span><br>
 I shifted to a **Jobs-to-be-Done framework**, focusing on:
 <ul>
     <li>What users were trying to accomplish
@@ -205,12 +193,10 @@ I also led a segmentation process to identify our **Ideal Customer Profile (ICP)
 </ul>
 <br>
 
-**Result**
-<br>
-
+<span class="title">Result</span><br>
 This reframed Bloom as a time-saving assistant for early-stage production—not just an AI generator. It **clarified our users, sharpened our priorities**, and aligned features with real pain points.
 
-**Takeaway**<br>
+<span class="title">Takeaway</span><br>
 For many AI startups, research isn't about validating features—it's about reverse-engineering the problem the product might already be solving.
 <br><br><br>
 
@@ -220,7 +206,7 @@ Looking ahead, there's potential to extend the tool's utility with features that
 
 <ul>
     <li><strong>Version control</strong> for tracking design iterations and reverting changes
-	<li>A <strong>collection system</strong> to organize and compare pattern variations
+	<li>A smart style system that applies <strong>consistent design and pattern logic across garments</strong> within the same collection
 	<li><strong>Real-time collaboration</strong> to support teams working across roles (e.g., designers + pattern makers)
 </ul>
 <br>
