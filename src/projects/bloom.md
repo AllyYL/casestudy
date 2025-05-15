@@ -152,6 +152,8 @@ Bloom began with a clear technical capability: generate garment patterns from pr
 
 #### Part of our research targets the LLM itself. Indexing the generated results helped us getting to know "the elephant" better.
 
+<br>
+
 **Task**
 <br>
 Initial interviews asked users what they wanted. The answers were vague, and often contradicted their actual workflows. We realized that in AI-first products, users often can't articulate what they're missing, because the capability itself is new.
