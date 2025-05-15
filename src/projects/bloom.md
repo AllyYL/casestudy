@@ -126,7 +126,8 @@ The pre-generation flow needed just the right amount of structure. Too much fric
 <br>
 We began with a traditional static layout: a single page crammed with all input fields at once. It overwhelmed users and looked like a long, technical form.
 
-![Screenshot of the initial pre-generation UI.](/assets/images/InitialFlow.png)
+<img alt="Screenshot of the initial pre-generation UI." src="/assets/images/InitialFlow.png">
+
 #### The initial pre-generation screen.
 
 <br>
@@ -140,7 +141,8 @@ Through testing and iteration, we landed on two more dynamic models:
 </ul>
 <br>
 
-![Screenshot of the pop-up modal input flow.](/assets/images/popup.png)
+<img alt="Screenshot of the pop-up modal input flow." src="/assets/images/popup.png">
+
 #### A pop-up modal input flow that incentivizes compeletion.
 
 <br>
