@@ -149,8 +149,14 @@ html {
 strong {
     font-weight: 500;
     color: #C1AE00;
+    padding-bottom: 0.5rem;
+}
+
+.title {
+    font-weight: 500;
     font-family: monospace;
     padding-bottom: 0.5rem;
+    color: rgb(174, 174, 178);
 }
 
 .article a{

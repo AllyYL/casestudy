@@ -49,7 +49,7 @@ We knew from the start that Bloom needed both a **conversational interface** (fo
 ####  We started out by observing how a jacket is made and digitized.
 <br>
 
-**Discovery**<br>
+<span class="title">Discovery</span><br>
 To find out, I conducted interviews across the fashion pipeline:
 <ul>
     <li>An <strong> in-house designer at Burberry</strong> shared that their workflow is highly conversational and image-first. 
