@@ -244,3 +244,16 @@ strong {
     max-width: 70ch;
     margin-left: 1rem;
 }
+
+.home-link {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+.home-link:hover {
+    color: rgb(174, 174, 178);
+}
