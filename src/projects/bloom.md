@@ -30,7 +30,7 @@ layout: article.njk
 Unlike traditional UX projects, AI-native tools raise unexpected design questions:
 <ol>
     <li> How do we balance conversational interfaces with the clarity of graphical UIs?
-    <li> How to <strong>design around AI</strong> by building flows that compensate the current limitations of AI?
+    <li> How to design around AI by building flows that compensate the current limitations of AI?
     <li> What happens when the product leads with a solution, not a problem?
 </ol>
 <br>
@@ -68,6 +68,7 @@ To find out, I conducted interviews across the fashion pipeline:
 </div>
 
 ####  A factory technician walking me through how she communicates revisions.
+<br>
 
 These conversations revealed a common thread: users want to begin with expressive intent, and shift into control once the direction is clear. This insight directly shaped our decision to build a conversational-to-control flow—starting with prompts, then refining with sliders and editing tools.
 
@@ -83,7 +84,7 @@ We tested multiple layout configurations, including:
 </ul><br>
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
-![Wireframes of 3 layout congigurations.](assets/images/jacketprocess.png)
+![Wireframes of 3 layout congigurations.](/assets/images/jacketprocess.png)
 
 **Result**
 <br>
