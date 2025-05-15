@@ -30,7 +30,7 @@ layout: article.njk
 Unlike traditional UX projects, AI-native tools raise unexpected design questions:
 <ol>
     <li> How do we balance conversational interfaces with the clarity of graphical UIs?
-    <li> How to <strong>design around AI<strong> by building flows that compensate the current limitations of AI?
+    <li> How to <strong>design around AI</strong> by building flows that compensate the current limitations of AI?
     <li> What happens when the product leads with a solution, not a problem?
 </ol>
 <br>
@@ -44,7 +44,7 @@ This case study is a reflection on designing through ambiguity, prototyping at s
 We knew from the start that Bloom needed both a conversational interface (for fast ideation) and a graphical interface (for precise control). But we weren't sure how to structure them in a way that felt intuitive and production-ready for fashion professionals.
 <br>
 
-![A series of photos capturing how a jacket is made and digitized.](assets/images/jacketprocess.png)
+![A series of photos capturing how a jacket is made and digitized.](/assets/images/jacketprocess.png)
 ####  We started out by observing how a jacket is made and digitized.
 
 **Discovery**<br>
@@ -66,6 +66,8 @@ To find out, I conducted interviews across the fashion pipeline:
         Your browser does not support the video tag.
     </video>
 </div>
+
+####  A factory technician walking me through how she communicates revisions.
 
 These conversations revealed a common thread: users want to begin with expressive intent, and shift into control once the direction is clear. This insight directly shaped our decision to build a conversational-to-control flow—starting with prompts, then refining with sliders and editing tools.
 
