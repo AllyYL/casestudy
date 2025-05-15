@@ -47,7 +47,7 @@ We knew from the start that Bloom needed both a conversational interface (for fa
 <img src="/assets/images/JacketProcess.png" alt="A series of photos capturing how a jacket is made and digitized">
 
 ####  We started out by observing how a jacket is made and digitized.
-<br><br>
+<br>
 
 **Discovery**<br>
 To find out, I conducted interviews across the fashion pipeline:
@@ -74,7 +74,7 @@ To find out, I conducted interviews across the fashion pipeline:
 
 These conversations revealed a common thread: users want to begin with expressive intent, and shift into control once the direction is clear. This insight directly shaped our decision to build a conversational-to-control flow—starting with prompts, then refining with sliders and editing tools.
 
-We also uncovered hidden setup rituals that professionals rarely mention explicitly, such as: selecting or customizing avatar size and body measurements and pattern libraries.
+We also uncovered hidden setup flows that professionals rarely mention explicitly, such as: selecting or customizing avatar size and body measurements, as well as using pattern libraries.
 
 **Action**
 <br>
@@ -86,7 +86,8 @@ We tested multiple layout configurations, including:
 </ul><br>
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
-![Wireframes of 3 layout congigurations.](/assets/images/JacketProcess.png)
+![Wireframes of 3 layout congigurations.](/assets/images/wireframe.png)
+#### We brainstormed several layout configurations.
 
 **Result**
 <br>
