@@ -21,7 +21,7 @@ layout: article.njk
 
 <br>
 
-[Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer in a founding team of 6 to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
+[Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, **I partnered up with another designer in a founding team of 6 to build the MVP**—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 
 <br>
 
@@ -35,13 +35,13 @@ Unlike traditional UX projects, AI-native tools raise unexpected design question
 </ol>
 <br>
 
-This case study is a reflection on designing through ambiguity, prototyping at speed, and shaping tools for workflows that are still emerging.
+This case study is a reflection on designing through ambiguity, prototyping at speed, and **shaping tools for workflows that are still emerging**.
 <br><br><br>
 
 ## ☞ Balancing CUI and GUI
 ### Let Real-world Workflows Shape the Interface
 
-We knew from the start that Bloom needed both a conversational interface (for fast ideation) and a graphical interface (for precise control). But we weren't sure how to structure them in a way that felt intuitive and production-ready for fashion professionals.
+We knew from the start that Bloom needed both a **conversational interface** (for fast ideation) and a **graphical interface** (for precise control). But we weren't sure how to integrate them in a way that felt intuitive and production-ready.
 <br>
 
 <img src="/assets/images/JacketProcess.png" alt="A series of photos capturing how a jacket is made and digitized">
@@ -52,9 +52,9 @@ We knew from the start that Bloom needed both a conversational interface (for fa
 **Discovery**<br>
 To find out, I conducted interviews across the fashion pipeline:
 <ul>
-    <li>A Burberry designer shared that their workflow is highly conversational and image-first. 
-    <li>A factory technician walked me through 8 rounds of revisions, often communicated through a mix of annotated videos and text. Iteration is high-volume and deeply contextual.
-    <li>An independent designer emphasized the need to get the big picture down first before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
+    <li>An <strong> in-house designer at Burberry</strong> shared that their workflow is highly conversational and image-first. 
+    <li>A <strong>factory technician</strong> walked me through 8 rounds of revisions, often communicated through a mix of annotated videos and text. Iteration is high-volume and deeply contextual.
+    <li>An <strong>independent designer</strong> emphasized the need to get the big picture down first before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
 </ul>
 <br>
 
@@ -72,7 +72,7 @@ To find out, I conducted interviews across the fashion pipeline:
 ####  A factory technician walking me through how she communicates revisions.
 <br>
 
-These conversations revealed a common thread: users want to begin with expressive intent, and shift into control once the direction is clear. This insight directly shaped our decision to build a conversational-to-control flow—starting with prompts, then refining with sliders and editing tools.
+These conversations revealed a common thread: **users start with intent, then shift into precision**. This insight directly shaped our decision to build a **conversational-to-control flow**—starting with prompts, then refining with sliders and editing tools.
 
 We also uncovered hidden setup flows that professionals rarely mention explicitly, such as: selecting or customizing avatar size and body measurements, as well as using pattern libraries.
 
@@ -100,7 +100,8 @@ As interviews progressed, We continued to iterate through different interaction 
 
 **Result**
 <br>
-The final layout mirrored how designers think: ideation and refinement happen in parallel, but engage different modes—natural language for intent, precision tools for control.
+
+The final layout mirrored how designers think: **ideation and refinement happen in parallel, but engage different modes**—natural language for intent, precision tools for control.
 <br>
 
 ![Before and after image showing UI evolution.](/assets/images/refinedui.png)
@@ -120,24 +121,22 @@ At Bloom, users can start a design with either an image or a text prompt. But ou
 
 **Task**
 <br>
-The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to design a lightweight, flexible scaffold that guided input without overwhelming—adaptable as the model matured.
+
+The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to **design a lightweight, flexible input scaffold without overwhelming users—adaptable as the model matured**.
 
 **Action**
 <br>
-We began with a traditional static layout: a single page crammed with all input fields at once. It overwhelmed users and looked like a long, technical form.
+We began with a traditional static layout: a single page crammed with all input fields at once. It overwhelmed users and looked like a form.
 
 <img alt="Screenshot of the initial pre-generation UI." src="/assets/images/InitialFlow.png">
 
 #### The initial pre-generation screen.
 
 <br>
-
-To improve clarity, we separated the steps into a multi-stage interface. But while this reduced cognitive load, it also introduced too much friction—feeling more like an endless onboarding flow than a creative entry point.
-
 Through testing and iteration, we landed on two more dynamic models:
 <ul>
-    <li>A pop-up module for guided image or text-based generation
-	<li>A conversational entry flow
+    <li>A pop-up multi-step flow for guided image or text-based generation
+	<li>A <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue
 </ul>
 <br>
 
@@ -156,7 +155,8 @@ These approaches scaffolded AI input without overloading the screen, and gave us
 
 **Result**
 <br>
-The final input flow reduced user drop-off, gave the AI better structured context, and created a sense of creative momentum early on. Instead of feeling like a form, it felt like the start of a co-creation process.
+
+The final input flow **reduced user drop-off**, gave the AI better structured context, and created a sense of **creative momentum** early on. Instead of feeling like a form, it felt like the start of a co-creation process.
 
 **Takeaway**<br>
 Designing with AI often means designing around AI. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
@@ -166,7 +166,7 @@ Designing with AI often means designing around AI. Guardrails aren't limits—th
 
 ### What happens when the product leads–and you have to find the problem?
 
-Bloom began with a clear technical capability: generate garment patterns from prompts. But we didn't yet know who this tool was really for—or what problem it solved best.
+Bloom began with a clear technical capability: generate garment patterns from prompts. **But we didn't yet know who this tool was really for—or what problem it solved best**.
 
 <img alt="Screenshot of the index we collected of the generated results" src="/assets/images/indexing.png">
 
@@ -176,18 +176,20 @@ Bloom began with a clear technical capability: generate garment patterns from pr
 
 **Task**
 <br>
-Initial interviews asked users what they wanted. The answers were vague, and often contradicted their actual workflows. We realized that in AI-first products, users often can't articulate what they're missing, because the capability itself is new.
+
+Initial interviews asked users what they wanted. The answers were vague, and often contradicted their actual workflows. We realized that in AI-first products, **users often can't articulate what they're missing, because the capability itself is new**. I needed to shift from feature testing to **problem discovery**.
 
 **Action**
 <br>
-I shifted to a Jobs-to-be-Done framework, focusing on:
+
+I shifted to a **Jobs-to-be-Done framework**, focusing on:
 <ul>
     <li>What users were trying to accomplish
     <li>What was slowing them down
     <li>What workarounds they used to fill the gaps
     <li>What costs them most money
 </ul><br>
-Instead of asking "How would you like to use this?" I asked "Tell me about the last time you had to create a pattern quickly. What did you do?"
+Instead of asking "How would you like to use this?" I asked "Walk me through the last time you had to create a pattern fast."
 <br><br>
 
 <img alt="Screenshot of transcripts from interviews we conducted." src="/assets/images/interviewtranscripts.png">
@@ -195,7 +197,7 @@ Instead of asking "How would you like to use this?" I asked "Tell me about the l
 ####  Partial screenshot of transcripts from interviews we conducted.
 <br>
 
-I also led a segmentation process to identify our Ideal Customer Profile (ICP):
+I also led a segmentation process to identify our **Ideal Customer Profile (ICP)**:
 <ul>
     <li>Freelance pattern makers in small-to-mid-sized studios
     <li>Designers managing their own sampling without access to full tech packs
@@ -205,7 +207,8 @@ I also led a segmentation process to identify our Ideal Customer Profile (ICP):
 
 **Result**
 <br>
-This shift helped us avoid building for the wrong audience and clarified our product direction, tightened up our feature prioritization. We started framing Bloom not just as an AI generator, but as a time-saving assistant that supports real-world constraints in early-stage production.
+
+This reframed Bloom as a time-saving assistant for early-stage production—not just an AI generator. It **clarified our users, sharpened our priorities**, and aligned features with real pain points.
 
 **Takeaway**<br>
 For many AI startups, research isn't about validating features—it's about reverse-engineering the problem the product might already be solving.
@@ -216,9 +219,9 @@ For many AI startups, research isn't about validating features—it's about reve
 Looking ahead, there's potential to extend the tool's utility with features that better support iterative and collaborative workflows, including:
 
 <ul>
-    <li>Version control for tracking design iterations and reverting changes
-	<li>A collection system to organize and compare pattern variations
-	<li>Real-time collaboration to support teams working across roles (e.g., designers + pattern makers)
+    <li><strong>Version control</strong> for tracking design iterations and reverting changes
+	<li>A <strong>collection system</strong> to organize and compare pattern variations
+	<li><strong>Real-time collaboration</strong> to support teams working across roles (e.g., designers + pattern makers)
 </ul>
 <br>
 These additions would move Bloom closer to being a full creative workspace—not just a generation tool.
