@@ -86,12 +86,24 @@ We tested multiple layout configurations, including:
 </ul><br>
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
-![Wireframes of 3 layout congigurations.](/assets/images/wireframe.png)
+<img alt="Wireframes of 3 layout congigurations." arc="/assets/images/wireframe.png">
+
 #### We brainstormed several layout configurations.
+
+<br>
+
+<img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." arc="/assets/images/InteractionLoop.png">
+
+<br>
 
 **Result**
 <br>
 The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
+<br>
+
+![Before and after image showing UI evolution.]()
+<br>
+
 <br><br><br>
 
 ## ☞ Intent-driven Scaffold
