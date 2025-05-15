@@ -120,18 +120,36 @@ At Bloom, users can start a design with either an image or a text prompt. But ou
 
 **Task**
 <br>
-This pre-generation flow—where users upload an image or write a prompt before entering the main design screen—posed a delicate balance. Too much friction would cause drop-off; too little structure would result in vague or unusable outputs. Our challenge was to design a lightweight, adaptable scaffold that guides users through just enough input to make AI generation meaningful—while remaining flexible as the model evolves and improves.
+The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to design a lightweight, flexible scaffold that guided input without overwhelming—adaptable as the model matured.
 
 **Action**
 <br>
-I led several iterations of the entry flow, testing how to scaffold the process without overwhelming users. A bulk of our time is also spent on edge cases. Some key shifts included:
+We began with a traditional static layout: a single page crammed with all input fields at once. It overwhelmed users and looked like a long, technical form.
+
+![Screenshot of the initial pre-generation UI.](/assets/images/InitialFlow.png)
+#### The initial pre-generation screen.
+
+<br>
+
+To improve clarity, we separated the steps into a multi-stage interface. But while this reduced cognitive load, it also introduced too much friction—feeling more like an endless onboarding flow than a creative entry point.
+
+Through testing and iteration, we landed on two more dynamic models:
 <ul>
-    <li>From blank uploads → to image + checklist pairing: Users uploaded a reference image and selected key categories like garment type (e.g., "upper body," "dress") and fabric intention
-    <li>From dropdowns → to visual selectors: We swapped text inputs for illustrated options (e.g., sleeve types, pant shapes) to speed up decision-making
-    <li>From single-step → to progressive disclosure: We broke the flow into short, guided steps, each building context for the AI model
+    <li>A pop-up module for guided image or text-based generation
+	<li>A conversational entry flow
 </ul>
 <br>
-We also added "smart defaults" based on upload type and previous selections, helping users move faster without feeling lost.
+
+![Screenshot of the pop-up modal input flow.](/assets/images/popup.png)
+#### A pop-up modal input flow that incentivizes compeletion.
+
+<br>
+
+![]()
+#### A dynamic chat pre-generation flow that echoes the conversational nature of fashion design while naturally setting up parameters for the generation. 
+<br>
+
+These approaches scaffolded AI input without overloading the screen, and gave us flexibility to update or expand input options as the model evolved.
 <br><br>
 
 **Result**
