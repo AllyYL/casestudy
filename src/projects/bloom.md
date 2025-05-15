@@ -36,7 +36,7 @@ Unlike traditional UX projects, AI-native tools raise unexpected design question
 <br>
 
 This case study is a reflection on designing through ambiguity, prototyping at speed, and shaping tools for workflows that are still emerging.
-<br><br>
+<br><br><br>
 
 ## Balancing CUI and GUI
 
@@ -69,7 +69,7 @@ We also embedded common setup actions (e.g. avatar presets, measurement tools) u
 **Result**
 <br>
 The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
-<br><br>
+<br><br><br>
 
 ## Intent-driven Scaffold
 
@@ -103,7 +103,7 @@ The final input flow reduced user drop-off, gave the AI better structured contex
 
 **Takeaway**<br>
 Designing with AI often means designing around AI. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
-<br><br>
+<br><br><br>
 
 ## UX Research at an AI Startup
 
@@ -131,7 +131,7 @@ I also led a segmentation process to identify our Ideal Customer Profile (ICP):
     <li>Designers managing their own sampling without access to full tech packs
     <li>Solo practitioners and early-stage brands needing fast iteration without $200/hr technical specialists
 </ul>
-<br><br>
+<br>
 
 **Result**
 <br>
@@ -139,6 +139,6 @@ This shift helped us avoid building for the wrong audience and clarified our pro
 
 **Takeaway**<br>
 In AI-native UX, research isn't about validating features—it's about reverse-engineering the problem the product might already be solving.
-<br><br>
+<br><br><br>
 
 ## Future Considerations
