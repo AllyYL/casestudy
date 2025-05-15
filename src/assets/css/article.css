@@ -144,14 +144,14 @@ html {
 
 strong {
     font-weight: 500;
-    color: #666;
+    color: rgb(167, 167, 167);
     font-family: monospace;
     padding-bottom: 0.5rem;
 }
 
 .article a{
     font-weight: 400;
-    color: #666;
+    color: rgb(167, 167, 167);
 }
 
 .quote {
