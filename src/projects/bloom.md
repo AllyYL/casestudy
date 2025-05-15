@@ -141,7 +141,7 @@ Through testing and iteration, we landed on two more dynamic models:
 
 <br>
 
-![]()
+![A gif showing the dynamic onboarding flow.](/assets/images/dynamicchat.gif)
 #### A dynamic chat pre-generation flow that echoes the conversational nature of fashion design while naturally setting up parameters for the generation. 
 <br>
 
@@ -212,3 +212,6 @@ Looking ahead, there's potential to extend the tool's utility with features that
 </ul>
 <br>
 These additions would move Bloom closer to being a full creative workspace—not just a generation tool.
+<br><br>
+
+!["Make your own fashion" Bloom promo page.](/assets/images/bloompromo.png)
