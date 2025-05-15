@@ -82,7 +82,7 @@ We tested multiple layout configurations, including:
 <ul>
     <li>A single combined panel (which became visually dense)
     <li>Modal input flows (which broke interaction flow)
-    <li>A final split-screen model: CUI on the left for intent-setting, GUI on the right for live previews, sliders, and asset libraries.
+    <li>A final split-screen model: CUI for intent-setting, GUI for live previews, sliders, and material libraries.
 </ul><br>
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
@@ -91,6 +91,8 @@ We also embedded common setup actions (e.g. avatar presets, measurement tools) u
 #### We brainstormed several layout configurations.
 
 <br>
+As interviews progressed, We continued to iterate through different interactions loops to better align with how a designer think.
+<br>
 
 <img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." src="/assets/images/InteractionLoop.png">
 
@@ -98,7 +100,7 @@ We also embedded common setup actions (e.g. avatar presets, measurement tools) u
 
 **Result**
 <br>
-The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
+The final layout mirrored how designers think: ideation and refinement happen in parallel, but engage different modes—natural language for intent, precision tools for control.
 <br>
 
 ![Before and after image showing UI evolution.](/assets/images/refinedui.png)
