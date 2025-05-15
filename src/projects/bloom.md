@@ -30,7 +30,7 @@ layout: article.njk
 Unlike traditional UX projects, AI-native tools raise unexpected design questions:
 <ol>
     <li> How do we balance conversational interfaces with the clarity of graphical UIs?
-    <li> How to design around AI by building flows that compensate the current limitations of AI?
+    <li> How to design AROUND AI by building flows that compensate the current limitations of AI?
     <li> What happens when the product leads with a solution, not a problem?
 </ol>
 <br>
@@ -91,8 +91,8 @@ We also embedded common setup actions (e.g. avatar presets, measurement tools) u
 #### We brainstormed several layout configurations.
 
 <br>
-As interviews progressed, We continued to iterate through different interactions loops to better align with how a designer think.
-<br>
+As interviews progressed, We continued to iterate through different interaction loops to better align with how a designer think.
+<br><br>
 
 <img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." src="/assets/images/InteractionLoop.png">
 
@@ -116,15 +116,15 @@ The final layout mirrored how designers think: ideation and refinement happen in
 ####  Designers who desperately try to understand how big the AI is by swallowing it.
 <br>
 
-At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, sleeve style, neckline). That meant users needed to specify these features manually before entering the main design interface.
+At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, menswear vs womenswear, cut types). That meant users needed to specify these features manually before entering the main design interface.
 
 **Task**
 <br>
-This "pre-generation" flow risked becoming tedious. Too much friction would turn people away; too little guidance would confuse the AI. The challenge was to design a lightweight, intuitive selection flow that felt like a creative assistant, not a form.
+This pre-generation flow—where users upload an image or write a prompt before entering the main design screen—posed a delicate balance. Too much friction would cause drop-off; too little structure would result in vague or unusable outputs. Our challenge was to design a lightweight, adaptable scaffold that guides users through just enough input to make AI generation meaningful—while remaining flexible as the model evolves and improves.
 
 **Action**
 <br>
-I led several iterations of the entry flow, testing how to scaffold the process without overwhelming users. Some key shifts included:
+I led several iterations of the entry flow, testing how to scaffold the process without overwhelming users. A bulk of our time is also spent on edge cases. Some key shifts included:
 <ul>
     <li>From blank uploads → to image + checklist pairing: Users uploaded a reference image and selected key categories like garment type (e.g., "upper body," "dress") and fabric intention
     <li>From dropdowns → to visual selectors: We swapped text inputs for illustrated options (e.g., sleeve types, pant shapes) to speed up decision-making
@@ -159,23 +159,29 @@ I shifted to a Jobs-to-be-Done framework, focusing on:
     <li>What users were trying to accomplish
     <li>What was slowing them down
     <li>What workarounds they used to fill the gaps
+    <li>What costs them most money
 </ul><br>
-Instead of asking "Would you use this?" I asked "Tell me about the last time you had to create a pattern quickly. What did you do?"
+Instead of asking "How would you like to use this?" I asked "Tell me about the last time you had to create a pattern quickly. What did you do?"
 <br><br>
+
+![Screenshot of transcripts from interviews we conducted.](/assets/images/interviewtranscripts.png)
+
+<br>
+
 I also led a segmentation process to identify our Ideal Customer Profile (ICP):
 <ul>
-    <li>Pattern makers in small-to-mid-sized studios
+    <li>Freelance pattern makers in small-to-mid-sized studios
     <li>Designers managing their own sampling without access to full tech packs
-    <li>Solo practitioners and early-stage brands needing fast iteration without $200/hr technical specialists
+    <li>Solo practitioners and early-stage brands needing fast iteration with limited budget for technical specialists
 </ul>
 <br>
 
 **Result**
 <br>
-This shift helped us avoid building for the wrong audience and clarified our product direction. We started framing Bloom.io not just as an AI generator, but as a time-saving assistant that supports real-world constraints in early-stage production.
+This shift helped us avoid building for the wrong audience and clarified our product direction, tightened up our feature prioritization. We started framing Bloom not just as an AI generator, but as a time-saving assistant that supports real-world constraints in early-stage production.
 
 **Takeaway**<br>
-In AI-native UX, research isn't about validating features—it's about reverse-engineering the problem the product might already be solving.
+For many AI startups, research isn't about validating features—it's about reverse-engineering the problem the product might already be solving.
 <br><br><br>
 
 ## Future Considerations
