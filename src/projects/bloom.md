@@ -46,7 +46,8 @@ We knew from the start that Bloom needed both a conversational interface (for fa
 
 <img src="/assets/images/JacketProcess.png" alt="A series of photos capturing how a jacket is made and digitized">
 
-####  We started out by observing how a jacket is made and digitized.<br>
+####  We started out by observing how a jacket is made and digitized.
+<br><br>
 
 **Discovery**<br>
 To find out, I conducted interviews across the fashion pipeline:
@@ -57,7 +58,7 @@ To find out, I conducted interviews across the fashion pipeline:
 </ul>
 <br>
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
+<div style="display: flex; gap: 10px; margin: 0;">
     <video width="48%" controls>
         <source src="/assets/images/PatternAdjustment1.mp4" type="video/mp4">
         Your browser does not support the video tag.
