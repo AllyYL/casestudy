@@ -101,7 +101,7 @@ We also embedded common setup actions (e.g. avatar presets, measurement tools) u
 The final layout mirrored how professionals actually work: expressing ideas in natural language, then refining with precision tools. 
 <br>
 
-![Before and after image showing UI evolution.]()
+![Before and after image showing UI evolution.](/assets/images/refinedui.png)
 <br>
 
 <br><br><br>
