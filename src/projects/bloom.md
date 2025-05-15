@@ -15,11 +15,11 @@ layout: article.njk
 <br>
 
 <div class="quote">
-    "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br><br>
+    "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
     – Wendy Chun, Programmed Visions: Software and Memory
 </div>
 
-<br>
+<br><br>
 
 [Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 
