@@ -12,16 +12,18 @@ layout: article.njk
 
 ### Early reflections from building Bloom3d.io's MVP
 
-<br><br>
+<br>
 
 <div class="quote">
     "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br><br>
     – Wendy Chun, Programmed Visions: Software and Memory
 </div>
 
-<br>
+<br><br>
 
 [Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I've partnered up with another designer to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
+
+## Problem Scope
 
 Unlike traditional UX projects, AI-native tools raise unexpected design questions:
 <ol>
@@ -60,7 +62,7 @@ We tested multiple layout configurations, including:
     <li>Modal input flows (which broke interaction flow)
     <li>A final split-screen model: CUI on the left for intent-setting, GUI on the right for live previews, sliders, and asset libraries.
 </ul><br>
-We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow—accessible from both sides.
+We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow—accessible from both sides.<br><br>
 
 **Result**
 <br>
@@ -68,11 +70,16 @@ The final layout mirrored how professionals actually work: expressing ideas in n
 <br><br>
 
 ## Intent-driven Scaffold
-Designing An Input Flow that Compensates for AI Limitations
+
+### Designing An Input Flow that Compensates for AI Limitations
+
+![Illustration from Little Prince, a snake swallowing an elephant, forming the shape of a hat.](/assets/images/LittlePrince.jpg)
+
+<br><br>
 
 ####  Designers who desperately try to understand how big the AI is by swallowing it.
 
-At Bloom.io, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, sleeve style, neckline). That meant users needed to specify these features manually before entering the main design interface.
+At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, sleeve style, neckline). That meant users needed to specify these features manually before entering the main design interface.
 
 **Task**
 <br>
@@ -100,7 +107,7 @@ Designing with AI often means designing around AI. Guardrails aren't limits—th
 
 ## UX Research at an AI Startup
 
-What happens when the product leads–and you have to find the problem?
+### What happens when the product leads–and you have to find the problem?
 
 Bloom began with a clear technical capability: generate garment patterns from prompts. But we didn't yet know who this tool was really for—or what problem it solved best.
 

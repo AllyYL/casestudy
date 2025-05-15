@@ -53,14 +53,60 @@ layout: base.njk
             const menuList = document.querySelector('.menu-list');
             const headings = article.querySelectorAll('h2');
             
-            headings.forEach(heading => {
+            // Add IDs to headings and create menu items
+            headings.forEach((heading, index) => {
+                // Create a slug from the heading text
+                const slug = heading.textContent
+                    .toLowerCase()
+                    .replace(/[^a-z0-9]+/g, '-')
+                    .replace(/(^-|-$)/g, '');
+                
+                // Set the heading ID
+                heading.id = slug;
+                
+                // Create menu item
                 const li = document.createElement('li');
                 const a = document.createElement('a');
                 a.textContent = heading.textContent;
-                a.href = '#' + heading.id;
+                a.href = '#' + slug;
+                
+                // Add click handler for smooth scrolling
+                a.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const targetElement = document.getElementById(slug);
+                    if (targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth' });
+                    }
+                });
+                
                 li.appendChild(a);
                 menuList.appendChild(li);
             });
+
+            // Update active menu item on scroll
+            const menuItems = menuList.querySelectorAll('a');
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.5
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        // Remove active class from all menu items
+                        menuItems.forEach(item => item.classList.remove('active'));
+                        // Add active class to current menu item
+                        const activeItem = menuList.querySelector(`a[href="#${entry.target.id}"]`);
+                        if (activeItem) {
+                            activeItem.classList.add('active');
+                        }
+                    }
+                });
+            }, observerOptions);
+
+            // Observe all headings
+            headings.forEach(heading => observer.observe(heading));
         });
     </script>
 </body>
