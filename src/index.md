@@ -9,6 +9,7 @@ isHomePage: true
     <div class="div2">
         <h2><a href="./projects/bloom/" style="text-decoration: none">Designing an AI-Native Design Tool</a></h2>
         <p>Reflections from building Bloom's MVP<br><br>(Password Protected)</p>
+        <p><a href="https://bloom3d.io" target="_blank" rel="noopener noreferrer">Promo site now live↗</a></p>
     </div>
     <div class="div3">
         <a href="./projects/bloom/">
