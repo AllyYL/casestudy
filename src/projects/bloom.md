@@ -77,7 +77,7 @@ These conversations revealed a common thread: **users start with intent, then sh
 We also uncovered **hidden setup flows that professionals rarely mention explicitly**, such as: selecting or customizing avatar size and body measurements, as well as using pattern libraries.
 
 <span class="title">Action</span><br>
-We tested multiple layout configurations, including: A single combined panel (which became visually dense), modal input flows (which broke interaction flow), and a final split-screen model: CUI for intent-setting, GUI for live previews, sliders, and material libraries.
+We tested multiple layout configurations, including: a **single combined panel** (which became visually dense), **modal input flows** (which broke interaction flow), and a final **split-screen model**: CUI for intent-setting, GUI for live previews, sliders, and material libraries.
 
 We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
 
@@ -110,10 +110,10 @@ The final layout mirrored how designers think: **ideation and refinement happen 
 ####  Designers who desperately try to understand how big the AI is by swallowing it.
 <br>
 
-At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, menswear vs womenswear, cut types). That meant users needed to specify these features manually before entering the main design interface.
+At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, menswear vs womenswear, cut types). That meant **users needed to specify these features manually** before entering the main design interface.
 
 <span class="title">Task</span><br>
-The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to **design a lightweight, flexible input scaffold without overwhelming users—adaptable as the model matured**.
+The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to **design a lightweight, flexible input scaffold** without overwhelming users—adaptable as the model matured.
 
 <span class="title">Action</span><br>
 We began with a traditional static layout: a single page crammed with all input fields at once. It overwhelmed users and looked like a form.
@@ -123,20 +123,19 @@ We began with a traditional static layout: a single page crammed with all input 
 #### The initial pre-generation screen.
 
 <br>
-Through testing and iteration, we landed on two more dynamic models: A <strong>pop-up multi-step flow</strong> for guided image or text-based generation, and a <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue
-<br>
+Through testing and iteration, we landed on two more dynamic models: A <strong>pop-up multi-step flow</strong> for guided image or text-based generation, and a <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue.
+<br><br>
 
 <img alt="Screenshot of the pop-up modal input flow." src="/assets/images/popup.png">
 
 #### A pop-up modal input flow that incentivizes compeletion.
 
 <br>
+These approaches scaffolded AI input without overloading the screen, and gave us flexibility to update or expand input options as the model evolved.
+<br>
 
 ![A gif showing the dynamic onboarding flow.](/assets/images/dynamicchat.gif)
 #### A dynamic chat pre-generation flow that echoes the conversational nature of fashion design while naturally setting up parameters for the generation. 
-<br>
-
-These approaches scaffolded AI input without overloading the screen, and gave us flexibility to update or expand input options as the model evolved.
 <br><br>
 
 <span class="title">Result</span><br>
