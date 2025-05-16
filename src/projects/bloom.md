@@ -41,7 +41,7 @@ This case study is a reflection on designing through ambiguity, prototyping at s
 ## ☞ Balancing CUI and GUI
 ### Let Real-world Workflows Shape the Interface
 
-We knew from the start that Bloom needed both a **conversational interface** (for fast ideation) and a **graphical interface** (for precise control). But we weren't sure how to integrate them in a way that felt intuitive and production-ready.
+We knew from the start that Bloom needed both a **conversational interface** (for fast ideation) and a **graphical interface** (for precise control). But we weren't sure how to integrate them in a way that felt intuitive.
 <br>
 
 <img src="/assets/images/JacketProcess.png" alt="A series of photos capturing how a jacket is made and digitized">
@@ -52,9 +52,9 @@ We knew from the start that Bloom needed both a **conversational interface** (fo
 <span class="title">Discovery</span><br>
 To find out, I conducted <strong>interviews across the fashion pipeline</strong>:
 <ul>
-    <li>An in-house designer at Burberry shared that their workflow is highly conversational and image-first. 
-    <li>A factory technician walked me through 8 rounds of revisions, often communicated through a mix of annotated videos and text. Iteration is high-volume and deeply contextual.
-    <li>An independent designer emphasized the need to get the big picture down first before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
+    <li>An in-house designer at Burberry shared that their workflow is highly conversational. 
+    <li>A factory technician walked me through 8 rounds of revisions for a single garment. Iteration is high-volume and deeply contextual.
+    <li>An independent designer emphasized the need to get the big picture down before bringing in a $200/hr pattern maker. Speed and rough outlines are more valuable early on than perfection.
 </ul>
 <br>
 
@@ -72,26 +72,26 @@ To find out, I conducted <strong>interviews across the fashion pipeline</strong>
 ####  A factory technician walking me through how she communicates revisions.
 <br>
 
-These conversations revealed a common thread: **users start with intent, then shift into precision**. This insight directly shaped our decision to build a **conversational-to-control flow**—starting with prompts, then refining with sliders and editing tools.
+These conversations had a common thread: **users start with intent, then shift into precision**. This insight directly shaped our decision to build a **conversational-to-control flow**.
 
-We also uncovered **hidden setup flows that professionals rarely mention explicitly**, such as: selecting or customizing avatar size and body measurements, as well as using pattern libraries.
+We also uncovered **hidden setup flows** that professionals rarely mention explicitly, such as: customizing avatar size and body measurements, as well as using pattern libraries.
 
 <span class="title">Action</span><br>
-We tested multiple layout configurations, including: a **single combined panel** (which became visually dense), **modal input flows** (which broke interaction flow), and a final **split-screen model**: CUI for intent-setting, GUI for live previews, sliders, and material libraries.
+We tested multiple layout configurations, including: a **single combined panel** (which became visually dense), **modal input flows** (which broke interaction flow), and a final **split-screen model**: CUI for intent-setting, GUI for adjustments, colors, and materials.
 
-We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow.<br><br>
+We also embedded common setup actions (e.g. avatar presets, measurement tools) upfront in the flow. Below are three configurations we iterated on:<br><br>
 
 <img alt="Wireframes of 3 layout congigurations." src="/assets/images/wireframe.png">
 
 #### We brainstormed several layout configurations.
 
 <br>
-As interviews progressed, We continued to iterate through different interaction loops to better align with how a designer think.
+As we conducted more interviews, We started refining our interaction loops to better align with how a designer think.
 <br><br>
 
 <img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." src="/assets/images/InteractionLoop.png">
 
-<br><br>
+<br>
 
 <span class="title">Result</span><br>
 The final layout mirrored how designers think: **ideation and refinement happen in parallel, but engage different modes**—natural language for intent, precision tools for control.
@@ -113,7 +113,7 @@ The final layout mirrored how designers think: **ideation and refinement happen 
 At Bloom, users can start a design with either an image or a text prompt. But our AI model couldn't yet detect key garment attributes from an image (e.g., upper body vs lower body, menswear vs womenswear, cut types). That meant **users needed to specify these features manually** before entering the main design interface.
 
 <span class="title">Task</span><br>
-The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to **design a lightweight, flexible input scaffold** without overwhelming users—adaptable as the model matured.
+The pre-generation flow needed just the right amount of structure. Too much friction, and users drop off; too little, and the AI outputs fall apart. Our goal was to design **a lightweight, flexible input scaffold** that is also adaptable as the model matured.
 
 <span class="title">Action</span><br>
 We began with a traditional static layout: a single page crammed with all input fields at once. It overwhelmed users and looked like a form.
@@ -123,33 +123,30 @@ We began with a traditional static layout: a single page crammed with all input 
 #### The initial pre-generation screen.
 
 <br>
-Through testing and iteration, we landed on two more dynamic models: A <strong>pop-up multi-step flow</strong> for guided image or text-based generation, and a <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue.
+Through testing and iteration, we landed on two more dynamic alternatives: A <strong>pop-up multi-step flow</strong>, and a <strong>chat-based entry flow</strong> that scaffolded AI inputs through natural dialogue.
 <br><br>
 
 <img alt="Screenshot of the pop-up modal input flow." src="/assets/images/popup.png">
 
 #### A pop-up modal input flow that incentivizes compeletion.
-
-<br>
-These approaches scaffolded AI input without overloading the screen, and gave us flexibility to update or expand input options as the model evolved.
-<br>
+<br><br>
 
 ![A gif showing the dynamic onboarding flow.](/assets/images/dynamicchat.gif)
 #### A dynamic chat pre-generation flow that echoes the conversational nature of fashion design while naturally setting up parameters for the generation. 
-<br><br>
+<br>
 
 <span class="title">Result</span><br>
 The final input flow **reduced user drop-off**, gave the AI better structured context, and created a sense of **creative momentum** early on. Instead of feeling like a form, it felt like the start of a co-creation process.
 
 <span class="title">Takeaway</span><br>
-Designing with AI often means designing around AI. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
+Designing with AI often means **designing around AI**. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
 <br><br><br>
 
 ## ☞ UX Research at an AI Startup
 
 ### What happens when the product leads–and you have to find the problem?
 
-Bloom began with a clear technical capability: generate garment patterns from prompts. **But we didn't yet know who this tool was really for—or what problem it solved best**.
+Bloom began with a clear technical capability: generate production-ready garment patterns from prompts. But we didn't yet know **who this tool was really for—or what problem it solved best**.
 
 <img alt="Screenshot of the index we collected of the generated results" src="/assets/images/indexing.png">
 

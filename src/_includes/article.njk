@@ -51,7 +51,7 @@ layout: base.njk
         document.addEventListener('DOMContentLoaded', function() {
             const article = document.querySelector('.article');
             const menuList = document.querySelector('.menu-list');
-            const headings = article.querySelectorAll('h2');
+            const headings = article.querySelectorAll('h1, h2');
             
             // Add IDs to headings and create menu items
             headings.forEach((heading, index) => {
