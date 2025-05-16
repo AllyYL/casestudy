@@ -112,7 +112,7 @@ footer {
 .parent {
     display: grid;
     grid-template-columns: 0.5fr repeat(3, 1fr);
-    grid-template-rows: repeat(4, auto);
+    grid-template-rows: repeat(5, auto);
     column-gap: 2rem;
     row-gap: 4rem;
     margin-top: 2rem;
@@ -124,16 +124,18 @@ footer {
 .div3 { grid-area: 1 / 3 / 2 / 5; }
 .div4 { grid-area: 2 / 2 / 3 / 3; }
 .div5 { grid-area: 2 / 3 / 3 / 5; }
-.div6 { grid-area: 3 / 1 / 4 / 2; }
-.div7 { grid-area: 3 / 2 / 4 / 3; }
-.div8 { grid-area: 3 / 3 / 4 / 4; }
-.div9 { grid-area: 3 / 4 / 4 / 5; }
-.div10 { grid-area: 4 / 1 / 5 / 2; }
-.div11 { grid-area: 4 / 2 / 5 / 3; }
-.div12 { grid-area: 4 / 3 / 5 / 4; }
-.div13 { grid-area: 4 / 4 / 5 / 5; }
+.div6 { grid-area: 3 / 2 / 4 / 3; }
+.div7 { grid-area: 3 / 3 / 4 / 5; }
+.div8 { grid-area: 4 / 1 / 5 / 2; }
+.div9 { grid-area: 4 / 2 / 5 / 3; }
+.div10 { grid-area: 4 / 3 / 5 / 4; }
+.div11 { grid-area: 4 / 4 / 5 / 5; }
+.div12 { grid-area: 5 / 1 / 6 / 2; }
+.div13 { grid-area: 5 / 2 / 6 / 3; }
+.div14 { grid-area: 5 / 3 / 6 / 4; }
+.div15 { grid-area: 5 / 4 / 6 / 5; }
 
-.div6, .div7, .div8, .div9, .div10, .div11, .div12, .div13 {
+.div8, .div9, .div10, .div11, .div12, .div13, .div14, .div15 {
     margin-top: 2rem;
 }
 
@@ -171,11 +173,11 @@ footer {
         padding-right: 0;
     }
     
-    .div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9, .div10, .div11, .div12, .div13 {
+    .div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9, .div10, .div11, .div12, .div13, .div14, .div15 {
         grid-area: auto;
     }
 
-    /* Reorder div2 and div3 in responsive mode */
+    /* Reorder divs in responsive mode */
     .div2 {
         order: 2;
     }
@@ -191,12 +193,20 @@ footer {
     .div5 {
         order: 3;
     }
-    
-    .div6, .div7, .div8, .div9, .div10, .div11, .div12, .div13 {
-        order: 5;
+
+    .div6 {
+        order: 6;
     }
 
-    .div3 img, .div5 img {
+    .div7 {
+        order: 5;
+    }
+    
+    .div8, .div9, .div10, .div11, .div12, .div13, .div14, .div15 {
+        order: 7;
+    }
+
+    .div3 img, .div5 img, .div7 img {
         margin-bottom: 0 !important;
         margin-top: 1rem !important;
     }
