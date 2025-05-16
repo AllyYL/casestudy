@@ -19,6 +19,14 @@ layout: base.njk
         <div class="progress-bar" id="progressBar"></div>
     </div>
     <div class="article-container">
+        <div id="passwordOverlay" class="password-overlay" style="display: none;">
+            <div class="password-container">
+                <h2>Protected Content</h2>
+                <input type="password" id="passwordInput" placeholder="Enter password">
+                <button id="submitPassword">Submit</button>
+                <p id="passwordError" class="error-message"></p>
+            </div>
+        </div>
         <nav class="side-menu" id="sideMenu">
             <ul class="menu-list"></ul>
         </nav>
@@ -31,24 +39,62 @@ layout: base.njk
     
     <script src="/assets/js/main.js"></script>
     <script>
-        // Progress bar functionality
-        function updateProgressBar() {
-            const progressBar = document.getElementById('progressBar');
-            const windowHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-            const scrolled = (window.scrollY / windowHeight) * 100;
-            progressBar.style.width = scrolled + '%';
-        }
-        
-        // Initialize progress bar
-        updateProgressBar();
-        
-        // Update progress bar on scroll
-        window.addEventListener('scroll', () => {
-            updateProgressBar();
-        });
-
-        // Side menu functionality
+        // Password protection
         document.addEventListener('DOMContentLoaded', function() {
+            // Only show password protection for Bloom page
+            if (window.location.pathname.includes('bloom')) {
+                const passwordOverlay = document.getElementById('passwordOverlay');
+                const passwordInput = document.getElementById('passwordInput');
+                const submitButton = document.getElementById('submitPassword');
+                const errorMessage = document.getElementById('passwordError');
+                const articleContainer = document.querySelector('.article-container');
+                
+                // Show password overlay
+                passwordOverlay.style.display = 'flex';
+                
+                // Check if password is already verified
+                const isVerified = sessionStorage.getItem('bloomVerified');
+                if (isVerified === 'true') {
+                    passwordOverlay.style.display = 'none';
+                }
+
+                // Password verification
+                submitButton.addEventListener('click', () => {
+                    const password = passwordInput.value;
+                    if (password === 'null') {
+                        sessionStorage.setItem('bloomVerified', 'true');
+                        passwordOverlay.style.display = 'none';
+                    } else {
+                        errorMessage.textContent = 'Incorrect password. Please try again.';
+                        passwordInput.value = '';
+                    }
+                });
+
+                // Allow Enter key to submit password
+                passwordInput.addEventListener('keypress', (e) => {
+                    if (e.key === 'Enter') {
+                        submitButton.click();
+                    }
+                });
+            }
+
+            // Progress bar functionality
+            function updateProgressBar() {
+                const progressBar = document.getElementById('progressBar');
+                const windowHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+                const scrolled = (window.scrollY / windowHeight) * 100;
+                progressBar.style.width = scrolled + '%';
+            }
+            
+            // Initialize progress bar
+            updateProgressBar();
+            
+            // Update progress bar on scroll
+            window.addEventListener('scroll', () => {
+                updateProgressBar();
+            });
+
+            // Side menu functionality
             const article = document.querySelector('.article');
             const menuList = document.querySelector('.menu-list');
             const headings = article.querySelectorAll('h1, h2');
