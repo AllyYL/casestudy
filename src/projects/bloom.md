@@ -97,7 +97,7 @@ As we conducted more interviews, We started refining our interaction loops to be
 <br>
 
 <span class="title">Result</span><br>
-The final layout accomodated the dialogical relationship between CUI and GUI. It also mirrored how designers think: **ideation and refinement happen in parallel, but engage different modes**—natural language for intent, precision tools for control.
+The final layout accomodated the **dialogical relationship** between CUI and GUI. It also mirrored how designers think: **ideation and refinement happen in parallel, but engage different modes**—natural language for intent, precision tools for control.
 <br>
 <br>
 
