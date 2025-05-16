@@ -12,7 +12,7 @@ isHomePage: true
     </div>
     <div class="div3">
         <a href="./projects/bloom/">
-            <img src="./assets/images/dynamicchat.gif" alt="Bloom - An AI-native fashion design tool">
+            <img src="./assets/images/dynamicchat.gif" alt="Bloom - An AI-native fashion design tool" style="clip: rect(0, calc(100% - 2px), 100%, 2px);">
         </a>
     </div>
     <div class="div4">
