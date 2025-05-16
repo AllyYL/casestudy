@@ -88,7 +88,7 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
     <br><br>
     <div class="plain">
         <h2>Problem Scope</h2><br>
-        <p>Turn complex sustainability data into a format that's <strong>easy to read, Web3-friendly, and built for sharing on social media</strong>—no dense tables, no info overload.
+        <p>Turn complex sustainability data into a format that's easy to read, Web3-friendly, and built for sharing on social media—no dense tables, no info overload.
     </div>
     <br><br>
 </div>
@@ -100,23 +100,13 @@ Most platforms focus on either provenance tracking or community—not both. Thro
 
 <br>
 
-![logos from competing companies in the crypto and e-commerce industries](/assets/images/competitive.png)
-
-<br>
-
----
+<img src="/assets/images/competitive.png" alt="logos from competing companies in the crypto and e-commerce industries" style="width: 50%; display: block; margin: 0 auto;">
 
 <br>
 
 ## User Research
 
 What does sustainable fashion mean to online shoppers — and **what would convince users to switch platforms**? 
-
-<br>
-
-![A graph showing 3 kinds of users for WEAVE](/assets/images/audience.webp)
-
-<br>
 
 <div class="highlight-text">
     What actually builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
@@ -209,28 +199,13 @@ Now, let's tackled these three objectives one by one.
 
 ## Wireframe: Tackling Phygital Integration
 
-The core flow guides new users to **register, browse, and buy physical garment AND digital NFTs** in one seamless experience.
+The core flow guides new users to register, browse, and buy physical garment AND digital NFTs in one seamless experience.
 
 ![WEAVE's primary user flow](/assets/images/WeavePrimaryFlow.webp)
 
 A secondary flow exists when a user already owns a physical garment and wants to access its NFT twin through the app.
 
 ![WEAVE's physical garment led user flow](/assets/images/weavephysicalflow.jpeg)
-
-<br>
-
----
-
-<br>
-
-## Paper Prototyping: Tackling Simplification and Participation
-
-Paper prototyping helped us translate physical gestures into digital interactions.
-Drawing from clothing tags, we mocked up cards to test how much info users could absorb at a glance—and when they'd want to flip.
-
-<br>
-
----
 
 <br>
 
@@ -248,7 +223,7 @@ With a solid foundation in place, I created a minimal prototype. The usability s
         <p>Wallet setup was mandatory before checkout, leading to drop-offs.</p>
     </div>
     <div class="column-right">
-        <h3>🙂 Solution</h3>
+        <h3>Solution</h3>
         <p>Introduced <strong>guest checkout</strong> with auto-wallet creation by email. <strong>Wallet setup is deferred to post-purchase</strong>.</p>
     </div>
 </div>
@@ -265,7 +240,7 @@ With a solid foundation in place, I created a minimal prototype. The usability s
         <p>The full supply chain breakdown was shown upfront, overwhelming users who were here to shop.</p>
     </div>
     <div class="column-right">
-        <h3>🙂 Solution</h3>
+        <h3>Solution</h3>
         <p><strong>A dynamic card stacknig visual that shows</strong>high-level summary before checkout and a full supply chain tracking experience post-purchase.</p>
     </div>
 </div>
@@ -274,11 +249,7 @@ With a solid foundation in place, I created a minimal prototype. The usability s
 
 <br>
 
----
-
-<br>
-
-## Prototype: Kicking it up to high fidelity
+## Kicking it up to high fidelity
 
 I started shaping WEAVE's visual design by gathering references, research, and inspiration to define its brand identity.
 

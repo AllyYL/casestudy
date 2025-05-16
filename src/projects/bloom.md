@@ -92,8 +92,8 @@ As we conducted more interviews, We started refining our interaction loops to be
 <img alt="An interaction loop where CUI is seperated from GUI and an interaction loop where the two are interfacing." src="/assets/images/InteractionLoop.png">
 <br>
 
-<img alt="A graph showing how CUI and GUI communicates to each other." src="/assets/images/GUICUI.png">
-<br>
+<!-- <img alt="A graph showing how CUI and GUI communicates to each other." src="/assets/images/GUICUI.png">
+<br> -->
 <br>
 
 <span class="title">Result</span><br>

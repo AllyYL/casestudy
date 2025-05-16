@@ -18,19 +18,10 @@ An interactive web archive designed for immersive learning
   <img src="/assets/images/DTCover.webp" alt="Digital Temple cover image">
 </div>
 
-## TL;DR
-
-From architectural space to speculative UX—**this project explores how cultural research can drive interface design**. I led the design for a 360° virtual experience of the Kaihua Monastery, transforming historical space into an interactive environment through an immersive web experience.
-
-<br>
-
 ## Context
 
-As lead product designer and project manager, I worked with [Harvard FAS CAMLab](https://camlab.fas.harvard.edu/) to build a website for exploring the Kaihua Monastery. This project translates scholarly research into an intuitive, web-based interface—inviting users to navigate spatial narratives, interact with 3D reconstructions, and engage with religious art in context.
-
-I led the project from concept to execution, working across user research, interaction design, and cross-functional collaboration to bring the experience to life.
-
-<br>
+From architectural space to speculative UX—**this project explores how cultural research can drive interface design**. I led the design for a 360° virtual experience of the Kaihua Monastery, transforming historical space into an interactive environment through an immersive web experience.
+<br><br>
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -39,7 +30,7 @@ I led the project from concept to execution, working across user research, inter
     </div>
     <div class="column-right">
         <h3>My Role</h3>
-        <p>Project Manager, Lead UI/UX Designer, Research</p>
+        <p>Product Designer, Project Manager, Research</p>
     </div>
 </div>
 <div class="layout-twocolumn">
@@ -57,17 +48,17 @@ I led the project from concept to execution, working across user research, inter
 
 <div class="layout-gallery">
     <div style="position: relative; padding: 56.25% 0 0 0;">
-        <iframe src="https://player.vimeo.com/video/908942230?h=3c6c0a1f63" poster="/assets/images/DTbanner.webp" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/908942230?h=3c6c0a1f63&autoplay=1&muted=1&controls=1" poster="/assets/images/DTbanner.webp" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
 
 ## Outcome
 
-<ul style="list-style-position: decimal inside; padding-left: 1em; margin-bottom: 1rem; font-size: 1.2rem; line-height: 1.6;">
-  <li style="padding-left: 0.5em;">7,400+ visitors explored the site within the first 6 months, with <strong>3.4k recurring users</strong> actively engaging with the experience.</li>
-  <li style="padding-left: 0.5em;">60% of users interacted with 3+ sections per session, suggesting <strong>strong exploratory engagement</strong> and intuitive navigation.</li>
-  <li style="padding-left: 0.5em;">Sparked <strong>collaboration with 4+ universities</strong> and cultural institutions, expanding its role in research, pedagogy, and digital preservation.</li>
+<ul style="list-style-position: decimal inside; padding-left: 1em; margin-bottom: 1rem; font-size: 1.2rem; line-height: 1.6; font-size: 1rem;">
+  <li style="padding-left: 0.5em; font-weight: 400;">7,400+ visitors explored the site within the first 6 months, with <strong>3.4k recurring users</strong> actively engaging with the experience.</li>
+  <!-- <li style="padding-left: 0.5em; font-weight: 400;">60% of users interacted with 3+ sections per session, suggesting <strong>strong exploratory engagement</strong> and intuitive navigation.</li> -->
+  <li style="padding-left: 0.5em; font-weight: 400;">Sparked <strong>collaboration with 4+ universities and cultural institutions</strong>, including Tsinghua University and Hong Kong Palace Museum.</li>
 </ul>
 
 <br>
@@ -86,69 +77,41 @@ I led the project from concept to execution, working across user research, inter
 
 ## From Academic Research to Design
 
-Working closely with scholars, our task was to translate dense academic research into visually intuitive, interactive experiences. However, it is not without losses: **academic researches are layered and labyrinthian, yet graphics are usually very upfront**.
+Working closely with scholars, our task was to translate dense academic research into visually intuitive, interactive experiences. However, it is not without losses: **academic researches are layered and labyrinthian, yet graphics are usually very upfront**. How might we preserve the depth of scholarship without overwhelming the user?
 
-<br>
-
-<img src="/assets/images/templeinsert.webp" alt="A flowchart showing research to design process">
-<br>
-
-<div class="highlight-text">
-   How might we preserve the depth of scholarship without overwhelming the user?
-</div>
+Here I've selected three design approaches that addresses the above concerns:
+<br><br>
 
 <div class="layout-gallery">
-    <div style="text-align: center; margin: auto; width: 100%">
+    <div style="text-align: center; margin: auto; width: 80%">
     <img src="/assets/images/academictimeline.webp" alt="A flowchart showing research to design process">
 </div>
 <br><br>
 
-Here I've selected three design approaches that addresses the above concerns:
-
 <br>
 
-### One Dimension Up: Turning Complexity into Spatial Clarity
-
-Murals medieval China often feature intersecting perspectives that obscure visual clarity. To make them navigable, We lifted the mural into 3D.
-
+Murals medieval China often feature intersecting perspectives that obscure visual clarity. To make them navigable, we lifted the mural into 3D:<br><br>
 <img src="/assets/images/Academic1.png" alt="A before and after image showcasing how murals are visualized in pointcloud model">
 
 <br><br>
 
-### Embed Information in Its Environment
-
-Rather then seperating content from context, we tried to maximize teh affordances of web to layer information.
-
+We maximized the affordances of web to layer information:<br><br>
 <img src="/assets/images/Academic2.png" alt="A before and after image showing how architectures are visualized">
 
 <br><br>
 
-### Theatricality
-
-We recreated lighting from the murals in 3D space—transforming visual cues into ambient effects that evoke the original atmosphere. 
-
-By adding a hint of theatricality, we hoped to spark curiosity and **draw users into deeper engagement**.
-
-
+We recreated lighting from the murals to add to the theatricality:<br><br>
 <img src="/assets/images/Academic3.png" alt="A before and after image showing how light beams drawn on the murals are brought to life by 3D">
 <br><br><br>
-
----
 
 <br>
 
 
 ## Domain Research
 
-We conducted **domain research**, **affinity mapping**, and **user interviews** to explore the intersection of digital archives and web-based interaction.
+We conducted **domain research**, **affinity mapping**, and **user interviews** to explore the intersection of digital archives and web-based interaction. We found that most archives either lack interactivity or oversimplify content—revealing a gap between engagement and depth.
 
-<br>
-
-<img style="text-align: center" src="/assets/images/domain.webp" alt="A domain research map">
-
-<br><br>
-
-We found that most archives either lack interactivity or oversimplify content—revealing a gap between engagement and depth.
+<!-- <img style="text-align: center; width: 50%;" src="/assets/images/domain.webp" alt="A domain research map"> -->
 
 <div class="quote-container">
   <p>I wanted to see where the murals are located, but that means exiting the page and opening a new one with an architecture model that has nothing in it.</p>
@@ -196,7 +159,7 @@ Here I expand on 2 most examplary ones:
         <p>The annotated murals assumed scholarly familiarity—participants didn’t know where to start or how to follow the narrative flow.</p>
     </div>
     <div class="column-right">
-        <h3>🙂 Solution</h3>
+        <h3>Solution</h3>
         <p>Introduced clear entry points, visual motifs, and sectional markers to guide reading direction and structure the experience.</p>
     </div>
 </div>
@@ -215,7 +178,7 @@ Here I expand on 2 most examplary ones:
         <p>Users couldn’t find their way between modules—navigation was buried or missing, causing confusion and dead ends.</p>
     </div>
     <div class="column-right">
-        <h3>🙂 Solution</h3>
+        <h3>Solution</h3>
         <p>Restructured the layout and added persistent navigational cues, improving wayfinding and continuity across learning units.</p>
     </div>
 </div>
@@ -226,14 +189,10 @@ Here I expand on 2 most examplary ones:
 
 <br>
 
----
 
-<br>
+## A Unified Spatial Interface
 
-
-## Highlight: A Unified Spatial Interface
-
-A key design achievement was translating Kaihua Monastery's complex visual program into an **interactive 3D web experience that doesn't fragment the user journey**. Instead of separating research, images, and data across disconnected pages (as many heritage platforms do), we **embedded historical content directly within the reconstructed space**.
+A key design achievement was translating Kaihua Monastery's complex visual program into an interactive 3D web experience that **doesn't fragment the user journey**. Instead of separating research, images, and data across disconnected pages (as many heritage platforms do), we **embedded historical content** directly within the reconstructed space.
 
 <br>
 
@@ -259,23 +218,19 @@ A key design achievement was translating Kaihua Monastery's complex visual progr
     An all-in-one interface combining 2D, 3D, and contextual narrative.
 </div>
 
-<br>
+<!-- <br>
 
-By layering research, spatial data, and multimedia content into a **single immersive interface**, users intuitively explore the site—moving fluidly between 2D murals, 3D architecture, and contextual narratives, all within their native environments.
-
-<br>
-
----
+By layering research, spatial data, and multimedia content into a **single immersive interface**, users intuitively explore the site—moving fluidly between 2D murals, 3D architecture, and contextual narratives, all within their native environments. -->
 
 <br>
 
-## Visual Identity
+<!-- ## Visual Identity
 
 <img src="/assets/images/DTVI.webp" alt="An infograph showing branding guidelines">
 
-<img src="/assets/images/gridlayout.webp" alt="An infograph showing grid layout guidelines">
+<img src="/assets/images/gridlayout.webp" alt="An infograph showing grid layout guidelines"> -->
 
-<br><br>
+<br>
 
 ---
 
@@ -283,7 +238,6 @@ By layering research, spatial data, and multimedia content into a **single immer
 
 ## Deliverables
 ### Website
-
 <a href="https://www.digitaltemple.art">www.digitaltemple.art</a>
 
 <a href="https://www.digitaltemple.art">
@@ -293,11 +247,10 @@ By layering research, spatial data, and multimedia content into a **single immer
 <br>
 
 ### Installation
-
-<div class="layout-gallery">
+<!-- <div class="layout-gallery">
     <img src="/assets/images/Installation1.webp" style="text-align: center" alt="Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024">
     <br>Installation shot of Digital Temple at the exhibition Kaimu Theater, Shanghai, China, 2023-2024.
-</div>
+</div> -->
 
 <div class="layout-gallery">
     <img src="/assets/images/Installation2.webp" style="text-align: center" alt="Installation shot of Digital Temple at the exhibition space CAMLab Cave, Cambridge, 2023">
@@ -307,14 +260,11 @@ By layering research, spatial data, and multimedia content into a **single immer
 <br>
 
 ### Virtual Reality
-
 <div class="layout-gallery">
     <div style="position: relative; padding: 56.25% 0 0 0;">
-        <iframe src="https://player.vimeo.com/video/967074183" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/967074183?autoplay=1&loop=1&muted=1&controls=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
-
-360 VR Trailer of Digital Temple, Virtual Reality Experience, 2024
 
 <br>
 

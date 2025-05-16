@@ -7,30 +7,29 @@ isHomePage: true
 <div class="parent">
     <div class="div1"><h1>Case Studies</h1></div>
     <div class="div2">
-        <h2><a href="./projects/bloom/" style="text-decoration: none">Designing an AI-Native Design Tool</a></h2>
-        <p>Reflections from building Bloom's MVP<br><br>(Password Protected)</p>
-        <p><a href="https://bloom3d.io" target="_blank" rel="noopener noreferrer">Promo site now live↗</a></p>
+        <h2><a href="./projects/bloom/" style="text-decoration: none">Building an AI-Native Design Tool</a></h2>
+        <p>Reflections from building Bloom's MVP: What happens when the product leads with a solution, not a problem?<br><span style="color: #D9D9D9;">(Password Protected)</span></p>
     </div>
     <div class="div3">
         <a href="./projects/bloom/">
-            <img src="./assets/images/dynamicchat.gif" alt="Bloom - An AI-native fashion design tool" style="clip: rect(0, calc(100% - 2px), 100%, 2px);">
+            <img src="./assets/images/bloomcover.gif" alt="Bloom - An AI-native fashion design tool" style="clip: rect(0, calc(100% - 2px), 100%, 2px);">
         </a>
     </div>
-    <div class="div4">
+    <div class="div6">
         <h2><a href="./projects/weave/" style="text-decoration: none">Web3 Social E-commerce</a></h2>
-        <p>Shop phygital fashion</p>
+        <p>Shop phygital fashion, shareable NFT and low-friction checkout.</p>
     </div>
-    <div class="div5">
+    <div class="div7">
         <a href="./projects/weave/">
             <img src="./assets/images/CardSocial.png" alt="Weave - A marketplace for NFT-paired phygital fashion">
         </a>
     </div>
-    <div class="div6">
-        <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Online Learning Tool</a></h2>
+    <div class="div4">
+        <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Immersive Classroom</a></h2>
         <p>From sacred space to speculative UX, made by and for Harvard University.</p>
         <p><a href="https://www.digitaltemple.art" target="_blank" rel="noopener noreferrer">See the live site↗</a></p>
     </div>
-    <div class="div7">
+    <div class="div5">
         <a href="./projects/digitaltemple/">
             <img src="./assets/images/digitaltemple.webp" alt="Digital Temple - An interactive archive for cultural heritage site">
         </a>
