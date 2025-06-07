@@ -62,7 +62,7 @@ isHomePage: true
         <p>An interactive water simulation created with TouchDesigner.</p>
     </div>
     <div class="div15">
-        <a href="/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/helix.webp" alt="Cover image from 3d animated short film Double Helix" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <a href="https://vimeo.com/828694743?share=copy" target="_blank" rel="noopener noreferrer"><img src="./assets/images/helix.webp" alt="Cover image from 3d animated short film Double Helix" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="https://vimeo.com/828694743?share=copy" style="text-decoration: none">Double Helix</a></h2>
         <p>3D animated film made with Cinema4D. Official Selection at Denver Digerati Experimental Media Festival.</p>
     </div>
