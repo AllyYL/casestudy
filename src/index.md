@@ -8,7 +8,7 @@ isHomePage: true
     <div class="div1"><h1>Case Studies</h1></div>
     <div class="div2">
         <h2><a href="./projects/bloom/" style="text-decoration: none">Building an AI-Native Design Tool</a></h2>
-        <p>Reflections from building Bloom's MVP: What happens when the product leads with a solution, not a problem?<br><span style="color: #D9D9D9;">(Password Protected)</span></p>
+        <p>Reflections from building Bloom's MVP: What happens when the product leads with a solution, not a problem?<br><span style="color: #D9D9D9;"></p>
     </div>
     <div class="div3">
         <a href="./projects/bloom/">
