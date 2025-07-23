@@ -25,7 +25,7 @@ isHomePage: true
         </a>
     </div>
     <div class="div4">
-        <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Immersive Classroom</a></h2>
+        <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Digital Temple | Ed Tech</a></h2>
         <p>From sacred space to speculative UX, made by and for Harvard University.</p>
         <p><a href="https://www.digitaltemple.art" target="_blank" rel="noopener noreferrer">See the live site↗</a></p>
     </div>
