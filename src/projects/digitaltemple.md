@@ -248,8 +248,8 @@ This project asked how we might turn a sacred, ambiguous architectural site into
 
 ## Information Architecture
 
-<a href="/assets/images/infoarchitecture.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/infoarchitecture.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
+<a href="/assets/images/InfoArchitecture.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
+    <img src="/assets/images/InfoArchitecture.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
 </a>
 
 
