@@ -205,7 +205,7 @@ This project asked how we might turn a sacred, ambiguous architectural site into
 <br><br><br><br>
 <div class="layout-twocolumn">
     <div class="column-left">
-        <img src="/assets/images/annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
+        <img src="/assets/images/Annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
     </div>
     <div class="column-right">
         <h3>Solution 3: Interactive Annotation</h3>
@@ -248,13 +248,8 @@ This project asked how we might turn a sacred, ambiguous architectural site into
 
 ## Information Architecture
 
-<<<<<<< HEAD
 <a href="/assets/images/InfoArchitecture.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
     <img src="/assets/images/InfoArchitecture.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
-=======
-<a href="/assets/images/info%20architecture.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/info%20architecture.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
->>>>>>> parent of 6958f03 (image link update)
 </a>
 
 
@@ -293,8 +288,8 @@ Our design team identified **UI challenges**, usability issues, and under-addres
         <p>We made major upgrades to the interactive annotation components. Improving spatial and narrative clarity.
     </div>
     <div class="column-right">
-     <a href="/assets/images/annotation.gif" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/annotation.gif" alt="Animated GIF showing annotation process" style="width: auto; display: block; margin: 0; outline: 1px solid #0ED100;">
+     <a href="/assets/images/Annotation.gif" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
+    <img src="/assets/images/Annotation.gif" alt="Animated GIF showing annotation process" style="width: auto; display: block; margin: 0; outline: 1px solid #0ED100;">
     </a></div>
 </div>
 <br><br><br>
