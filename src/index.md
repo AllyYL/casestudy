@@ -6,30 +6,31 @@ isHomePage: true
 
 <div class="parent">
     <div class="div1"><h1>Case Studies</h1></div>
-    <div class="div2">
+    <div class="div6">
         <h2><a href="./projects/bloom/" style="text-decoration: none">Building an AI-Native Design Tool</a></h2>
         <p>Reflections from building Bloom's MVP: What happens when the product leads with a solution, not a problem?<br><span style="color: #D9D9D9;"></p>
+        <p style="color: grey;">*This is stream-of-conscious writing purely just to document my thoughts.</p>
     </div>
-    <div class="div3">
+    <div class="div7">
         <a href="./projects/bloom/">
             <img src="./assets/images/bloomcover.gif" alt="Bloom - An AI-native fashion design tool" style="clip: rect(0, calc(100% - 2px), 100%, 2px);">
         </a>
     </div>
-    <div class="div6">
+    <div class="div4">
         <h2><a href="./projects/weave/" style="text-decoration: none">Web3 Social E-commerce</a></h2>
         <p>Shop phygital fashion, shareable NFT and low-friction checkout.</p>
     </div>
-    <div class="div7">
+    <div class="div5">
         <a href="./projects/weave/">
             <img src="./assets/images/CardSocial.png" alt="Weave - A marketplace for NFT-paired phygital fashion">
         </a>
     </div>
-    <div class="div4">
+    <div class="div2">
         <h2><a href="./projects/digitaltemple/" style="text-decoration: none">Digital Temple | Ed Tech</a></h2>
         <p>From sacred space to speculative UX, made by and for Harvard University.</p>
         <p><a href="https://www.digitaltemple.art" target="_blank" rel="noopener noreferrer">See the live site↗</a></p>
     </div>
-    <div class="div5">
+    <div class="div3">
         <a href="./projects/digitaltemple/">
             <img src="./assets/images/digitaltemple.webp" alt="Digital Temple - An interactive archive for cultural heritage site">
         </a>

@@ -6,7 +6,7 @@ layout: "base.njk"
 <br><br>
 <br><br>
 
-## I'm a product designer with front-end development skills and a background in immersive media, research, and storytelling. I design thoughtful interfaces and systems from 0→1 MVPs to speculative tools.
+## I'm a product designer with front-end development skills and background in immersive media, research, and storytelling. I design thoughtful interfaces and systems from 0→1 MVPs to speculative tools.
 <br><br>
 
 <!-- ## I've worked with early-stage startups, research labs, and mission-driven teams to bring digital experiences to life—often building from scratch while contributing to both UX strategy and visual design.
