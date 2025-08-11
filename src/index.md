@@ -52,9 +52,9 @@ isHomePage: true
     </div>
     <div class="div12"><h1>Creative Tech</h1></div>
     <div class="div13">
-        <a href="./projects/shower" target="_blank" rel="noopener noreferrer"><img src="./assets/images/ShowerThoughtsCover.png" alt="Image of a book called Shower Thoughts" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
-        <h2><a href="./projects/shower" style="text-decoration: none; color: black;">Shower Thoughts</a></h2>
-        <p>A book, an installation, and a performence about the Internet</p>
+        <a href="./projects/shower" target="_blank" rel="noopener noreferrer"><img src="./assets/images/mawangdui.gif" alt="Image of a book called Shower Thoughts" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <h2><a href="./projects/shower" style="text-decoration: none; color: black;">Scents of Eternity</a></h2>
+        <p>An AI film made with MidJourney, GPT4, Google Veo, and Blender.</p>
     </div>
     <div class="div14">
         <a href="https://www.youtube.com/watch?v=7n5AXpsue5k" target="_blank" rel="noopener noreferrer"><img src="./assets/images/water.gif" alt="A tutorial on water simulation made with TouchDesigner" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
