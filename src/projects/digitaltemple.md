@@ -10,7 +10,7 @@ layout: projectDT.njk
 
 # Digital Temple
 
-An interactive web archive designed for immersive learning
+An interactive classroom designed for immersive learning
 
 <br>
 
@@ -167,7 +167,7 @@ function enlargeImage(link) {
 }
 </script>
 
-By analyzing the research data above and conducting card sorting to narrow down our scope, we found four main **opportunity spaces** we'd like to address: **lack of accessibility, difficulty of comprehension, lack of interest, and limited visual clarity**. 
+By analyzing the research data above and conducting card sorting to narrow down our scope, we found four main **opportunity spaces** we'd like to address in the higher education tech space: <br><br>**1. Subject matter: lack of accessibility, difficult to comprehend. <br> 2. Design: Lack of interest from general public; limited visual clarity for academic content**. 
 <br><br><br><br>
 <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
 <br>

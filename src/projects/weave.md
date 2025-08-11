@@ -1,7 +1,7 @@
 ---
 title: Weave
 category: Case Studies
-description: Web3 marketplace for NFT-backed phygital fashion
+description: Web3 ecommerce platform for phygital fashion.
 platform: iOS
 image: /assets/images/WeaveCover.png
 tags: [projects]
@@ -10,7 +10,7 @@ layout: project.njk
 
 # Weave
 
-Web3 marketplace for NFT-backed phygital fashion
+An Ecommerce App to Shop Phygital Fashion
 
 <div class="fullwidth-image-container">
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
@@ -18,21 +18,15 @@ Web3 marketplace for NFT-backed phygital fashion
 
 <br>
 
-## TL;DR
+## Overview
 
-This case study explores how **complex product data can become a story** through social-native UX. I designed a card-based interface for WEAVE that transforms blockchain-backed supply chain data into clear, shareable experiences—bridging NFTs, e-commerce, and social apps.
-
-<br>
-
-## Context
-
-WEAVE is a Web3 social commerce app offering a **phygital shopping experience** with NFT-based sustainability verification. I was brought in to design the MVP—building a unified UI system that connects physical garments to their blockchain-backed stories, with a focus on **clarity, shareability, and low-friction checkout**.
+WEAVE is a Web3 ecommerce app offering users the ability to purchase both physical garments and their NFT counterparts at the same time. I was brought in as a product designer to **build a unified UI system, overseeing the extended product pages and checkout flow**. I developed the MVP for invester demo. With an emphasis on integrating blockchain-backed sustainable tracking into the user flow, I also focused on **data visualization** for sustainability information.
 
 <br>
 <div class="layout-twocolumn">
     <div class="column-left">
         <h3>Client</h3>
-        <p>WEAVE</p>
+        <p>WEAVE (Seed)</p>
     </div>
     <div class="column-right">
         <h3>My Role</h3>
@@ -51,35 +45,32 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
 </div>
 
 <br>
-
+<!-- 
 <div class="fullwidth-image-container">
   <img src="/assets/images/weave2.webp" alt="Weave app from physical scanning to storytelling process illustration">
-</div>
+</div> -->
 
-## Result
+<hr style="border: none; border-top: 0.7px solid #000; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
+<br>
 
+<h3>Context</h3>
 <div class="layout-threecolumn">
     <div class="column-left">
-        <h3>Conversion Rate</h3>
+        <img src="/assets/images/weave11.png" alt="Vision illustration" style=" max-width: 75%; border-radius: 6px;">
     </div>
     <div class="column-right">
-        <p>Above industry average at 12.4%, improved product discovery and checkout flow reduced hesitation and <strong>helped first-time buyers convert faster</strong>.</p>
+        <p>Every year, the fashion industry leaves behind over <strong>92 million tons</strong> of textile waste—yet most of us never see the damage in the data.</p>
     </div>
 </div>
+<br><br>
+<h3>Vision</h3>
 <div class="layout-threecolumn">
     <div class="column-left">
-        <h3>User-Generated Content</h3>
+        <img src="/assets/images/weave10.png" alt="Vision illustration" style="margin-top: 1em; max-width: 80%; border-radius: 6px;">
     </div>
     <div class="column-right">
-        <p><strong>Over one-third</strong> of testing users posted at least <strong>one product story, comment, or review</strong> (measured over a 30-day period).</p>
-    </div>
-</div>
-<div class="layout-threecolumn">
-    <div class="column-left">
-        <h3>Platform Stickiness</h3>
-    </div>
-    <div class="column-right">
-        <p>With a DAU/MAU ratio at 31% , testing users <strong>return regularly</strong> for updates, not just purchases.</p>
+        <p>WEAVE reimagines the shopping experience so every purchase tells the story behind its impact. <br><br>By pairing physical garments with their NFT twins and blockchain-backed sustainability tracking, it turns hidden supply chain data into something tangible, transparent, and impossible to ignore.
+        </p>
     </div>
 </div>
 <br>
@@ -87,8 +78,8 @@ WEAVE is a Web3 social commerce app offering a **phygital shopping experience** 
 <div class="dark-blue-section">
     <br><br>
     <div class="plain">
-        <h2>Problem Scope</h2><br>
-        <p>Turn complex sustainability data into a format that's easy to read, Web3-friendly, and built for sharing on social media—no dense tables, no info overload.
+        <h2>Design Challenge</h2><br>
+        <p>Turn complex sustainability data into a format that's easy to read and share—no dense tables, no info overload—making it a joyful encounter in the user flow.
     </div>
     <br><br>
 </div>
@@ -100,16 +91,15 @@ Most platforms focus on either provenance tracking or community—not both. Thro
 
 <br>
 
-<img src="/assets/images/competitive.png" alt="logos from competing companies in the crypto and e-commerce industries" style="width: 50%; display: block; margin: 0 auto;">
-
+<img src="/assets/images/competitive.png" alt="logos from competing companies in the crypto and e-commerce industries" style="width: 60%; display: block; margin: 0 auto;">
 <br>
 
-## User Research
+## UX Research
 
 What does sustainable fashion mean to online shoppers — and **what would convince users to switch platforms**? 
 
 <div class="highlight-text">
-    What actually builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
+    What builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
 </div>
 
 To explore this, we conducted online surveys, as well as in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
@@ -154,7 +144,7 @@ Through user interviews, we zeroed in on our Persona.
 
 <div class="dark-blue-section">
     <br><br>
-    <div class="plain">
+    <div class="layout-twocolumn">
         <h2>Design Objectives</h2>
     </div>
     <br>
@@ -164,6 +154,7 @@ Through user interviews, we zeroed in on our Persona.
             <img src="/assets/images/integration.webp">
         </div>
         <div class="column-right">
+            <br>
             <p>Connect physical products and NFTs <strong>in one flow</strong>—no tab-switching, just tap-and-shop.</p>
         </div>
     </div>
@@ -174,6 +165,7 @@ Through user interviews, we zeroed in on our Persona.
             <img src="/assets/images/simplification.webp">
         </div>
         <div class="column-right">
+        <br>
             <p>Synthesize and layer information—<strong>hide jargons, show what matters</strong>.</p>
         </div>
     </div>
@@ -184,6 +176,7 @@ Through user interviews, we zeroed in on our Persona.
             <img src="/assets/images/participation.webp">
         </div>
         <div class="column-right">
+        <br>
             <p>Let users explore the supply chain as a <strong>story</strong>—flippable, stackable, shareable.</p>
         </div>
     </div>
@@ -308,7 +301,7 @@ A concept demo to showcase the physical to digital "stacking" behind the choice 
 
 ---
 
-<br>
+<!-- <br>
 
 ## Style Guide
 
@@ -318,10 +311,34 @@ Logo, color, typography
 
 <br>
 
----
+--- -->
 
 <br>
 
-## Future Recommendations
+## Result
 
-This project taught me the importance of simplifying complex information and the value of user-centered design in building trust and engagement. It reinforced my belief in the power of design to make sustainability more accessible and understandable.
+<div class="layout-threecolumn">
+    <div class="column-left">
+        <h3>Conversion Rate</h3>
+    </div>
+    <div class="column-right">
+        <p>Above industry average at 12.4%, improved product discovery and checkout flow reduced hesitation and <strong>helped first-time buyers convert faster</strong>.</p>
+    </div>
+</div>
+<div class="layout-threecolumn">
+    <div class="column-left">
+        <h3>User-Generated Content</h3>
+    </div>
+    <div class="column-right">
+        <p><strong>Over one-third</strong> of testing users posted at least <strong>one product story, comment, or review</strong> (measured over a 30-day period).</p>
+    </div>
+</div>
+<div class="layout-threecolumn">
+    <div class="column-left">
+        <h3>Platform Stickiness</h3>
+    </div>
+    <div class="column-right">
+        <p>With a DAU/MAU ratio at 31% , testing users <strong>return regularly</strong> for updates, not just purchases.</p>
+    </div>
+</div>
+<br>
