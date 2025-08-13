@@ -11,7 +11,7 @@ layout: project.njk
 # Weave
 
 An Ecommerce App to Shop Phygital Fashion
-
+<br><br>
 <div class="fullwidth-image-container">
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
