@@ -52,7 +52,7 @@ isHomePage: true
     </div>
     <div class="div12"><h1>Creative Tech</h1></div>
     <div class="div13">
-        <a href="./projects/shower" target="_blank" rel="noopener noreferrer"><img src="./assets/images/mawangdui.gif" alt="Image of a book called Shower Thoughts" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+       <img src="./assets/images/mawangdui.gif" alt="Image of clip from AI film" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px">
         <h2>Scents of Eternity</h2>
         <p>An AI film made with MidJourney, GPT4, Google Veo, and Blender.</p>
     </div>
