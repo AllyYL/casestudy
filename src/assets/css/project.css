@@ -415,3 +415,18 @@ strong {
 b, strong {
     font-weight: 800;
 }
+
+/* Three-column layout */
+.layout-threecolumn-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+.layout-threecolumn-2 h1 {
+    font-weight: 500;
+    font-size: 3rem;
+    margin-bottom: 0.1rem
+}

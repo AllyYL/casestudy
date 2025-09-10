@@ -10,7 +10,7 @@ layout: project.njk
 
 # Weave
 
-An Ecommerce App to Shop Phygital Fashion
+A web3 e-commerce app, shop phygital fashion in one click
 <br><br>
 <div class="fullwidth-image-container">
   <img src="/assets/images/WeaveCover.png" alt="Weave app interface showing NFT fashion marketplace">
@@ -20,7 +20,7 @@ An Ecommerce App to Shop Phygital Fashion
 
 ## Overview
 
-WEAVE is a Web3 ecommerce app offering users the ability to purchase both physical garments and their NFT counterparts at the same time. I was brought in as a product designer to **build a unified UI system, overseeing the extended product pages and checkout flow**. I developed the MVP for invester demo. With an emphasis on integrating blockchain-backed sustainable tracking into the user flow, I also focused on **data visualization** for sustainability information.
+WEAVE is a Web3 ecommerce app offering users the ability to purchase both physical garments and their NFT counterparts at the same time. I was brought in as a product designer to **build a unified UI system, overseeing the extended product pages** and **social sharing flow**. I developed the MVP for invester demo. With an emphasis on integrating blockchain-backed sustainable tracking into the user flow, I also focused on **data visualization** for sustainability information.
 
 <br>
 <div class="layout-twocolumn">
@@ -59,7 +59,8 @@ WEAVE is a Web3 ecommerce app offering users the ability to purchase both physic
         <img src="/assets/images/weave11.png" alt="Vision illustration" style=" max-width: 75%; border-radius: 6px;">
     </div>
     <div class="column-right">
-        <p>Every year, the fashion industry leaves behind over <strong>92 million tons</strong> of textile waste—yet most of us never see the damage in the data.</p>
+        <p>Although 65% of consumers say they want to buy from sustainable brands, only 26% follow through, <strong>leaving a vast intention–action gap</strong>.
+        <br><br>In fashion, this gap hides a staggering 92 million tons of annual textile waste, damage most shoppers never see.</p>
     </div>
 </div>
 <br><br>
@@ -69,7 +70,7 @@ WEAVE is a Web3 ecommerce app offering users the ability to purchase both physic
         <img src="/assets/images/weave10.png" alt="Vision illustration" style="margin-top: 1em; max-width: 80%; border-radius: 6px;">
     </div>
     <div class="column-right">
-        <p>WEAVE reimagines the shopping experience so every purchase tells the story behind its impact. <br><br>By pairing physical garments with their NFT twins and blockchain-backed sustainability tracking, it turns hidden supply chain data into something tangible, transparent, and impossible to ignore.
+        <p>WEAVE reimagines the shopping experience so <strong>every purchase tells the story behind its impact</strong>. <br><br>By pairing physical garments with their NFT twins and blockchain-backed sustainability tracking, it turns hidden supply chain data into something tangible, transparent, and impossible to ignore.
         </p>
     </div>
 </div>
@@ -79,7 +80,7 @@ WEAVE is a Web3 ecommerce app offering users the ability to purchase both physic
     <br><br>
     <div class="plain">
         <h2>Design Challenge</h2><br>
-        <p>Turn complex sustainability data into a format that's easy to read and share—no dense tables, no info overload—making it a joyful encounter in the user flow.
+        <p>Design a way to weave sustainability data seamlessly into the shopping flow without slowing users down.
     </div>
     <br><br>
 </div>
@@ -87,7 +88,7 @@ WEAVE is a Web3 ecommerce app offering users the ability to purchase both physic
 
 ## Competitive Analysis
 
-Most platforms focus on either provenance tracking or community—not both. Through a quick audit of blockchain and e-commerce tools, I found space to merge the two: turning raw supply chain data into a social, story-driven experience. This became WEAVE's core differentiator.
+An audit of supply chain tracking and e-commerce apps revealed an opportunity to merge the two—transforming raw supply chain data into a social, story-driven shopping experience, WEAVE's core differentiator. In case you are interested, I've also compiled [an initial report](https://medium.com/@luoyanxiu/designing-for-impact-a-case-study-on-integrating-nfts-for-a-transparent-and-sustainable-fashion-f26fdc6e5cbf).
 
 <br>
 
@@ -96,15 +97,21 @@ Most platforms focus on either provenance tracking or community—not both. Thro
 
 ## UX Research
 
-What does sustainable fashion mean to online shoppers — and **what would convince users to switch platforms**? 
-
-<div class="highlight-text">
-    What builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
+<div class="layout-threecolumn-2">
+    <div><h1>14</div>
+    <div><h1>12</div>
+    <div><h1>100+</div>
 </div>
-
-To explore this, we conducted online surveys, as well as in-depth interviews with 14 potential users. We focused on perceptions of credibility, trust, and innovation in the context of fashion transparency.
-
+<div class="layout-threecolumn-2">
+    <div>User Interviews</div>
+    <div>Brand Engagements</div>
+    <div>Survey Forms</div>
+</div>
 <br>
+
+What does sustainable fashion mean to online shoppers — and **what would convince users to switch platforms**? What builds credibility, curiosity, and conversion in a crowded, trend-sensitive market? 
+
+After conducting **in-person user interviews** with online shoppers, designers, and NFT collectors, hosting brand engagement sessions, collecting **Google form survey data**, and creating **user journey mapping**, we identified and understood current users' needs. 
 
 <div class="quote-container">
   <p>Numbers won't win me over. Zara has done that too many times with their carbon-offset. Give me something I should care about.</p>
@@ -117,7 +124,7 @@ To explore this, we conducted online surveys, as well as in-depth interviews wit
 </div>
 
 <div class="quote-container">
-  <p>It's one thing to own. To participate, be on-chain, and be part of it--that's a whole lot more attractive.</p>
+  <p>It's one thing to own. To participate and be part of it--that's a whole lot more attractive.</p>
   <cite>— NFT Collector</cite>
 </div>
 
@@ -127,8 +134,7 @@ Our research surfaced a few consistent themes:
 
 <ol style="list-style-position: decimal inside; padding-left: 1em; margin-bottom: 1rem; font-size: 1.1rem; line-height: 1.6;">
     <li style="padding-left: 1em;">Users are skeptical of vague sustainability claims
-	<li style="padding-left: 1em;">Users were drawn to an integrated platform with physical and digital capacities
-	<li style="padding-left: 1em;">Social sharing and brand signaling played a bigger role than expected in conversion
+	<li style="padding-left: 1em;">Social media and brand signaling played a bigger role than expected in conversion
 </ol>
 
 Through user interviews, we zeroed in on our Persona.
@@ -201,14 +207,30 @@ A secondary flow exists when a user already owns a physical garment and wants to
 ![WEAVE's physical garment led user flow](/assets/images/weavephysicalflow.jpeg)
 
 <br>
+<hr style="border: none; border-top: 0.7px solid #000; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
 
-## User Testing
+## User Testing: Information for Depth, Not Overload
 
-With a solid foundation in place, I created a minimal prototype. The usability study surfaced key friction points, leading to two major design changes:
+With a solid foundation in place, I created a minimal prototype. The usability study surfaced key friction points, leading to several major design changes. The most significant on is applying more dynamic, physical interactions to card UI.
 
 <br>
 
-### ① Perfecting Integrated Checkout
+<div class="layout-twocolumn">
+    <div class="column-left">
+        <h3>Problem</h3>
+        <p>The full supply chain breakdown was shown upfront, overwhelming users who were here to shop.</p>
+    </div>
+    <div class="column-right">
+        <h3>Solution</h3>
+        <p><strong>A dynamic card stacknig visual that shows</strong> high-level summary before checkout and a full supply chain tracking experience post-purchase.</p>
+    </div>
+</div>
+
+![Before and after userflow for guest checkout](/assets/images/usertest2.png)
+
+<br>
+
+<!-- ### ① Perfecting Integrated Checkout
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -223,24 +245,7 @@ With a solid foundation in place, I created a minimal prototype. The usability s
 
 <div class="fullwidth-image-container">
   <img src="/assets/images/usertest1.png" alt="Before and after userflow for guest checkout">
-</div>
-
-### ② Information for Depth, Not Overload
-
-<div class="layout-twocolumn">
-    <div class="column-left">
-        <h3>Problem</h3>
-        <p>The full supply chain breakdown was shown upfront, overwhelming users who were here to shop.</p>
-    </div>
-    <div class="column-right">
-        <h3>Solution</h3>
-        <p><strong>A dynamic card stacknig visual that shows</strong>high-level summary before checkout and a full supply chain tracking experience post-purchase.</p>
-    </div>
-</div>
-
-![Before and after userflow for guest checkout](/assets/images/usertest2.png)
-
-<br>
+</div> -->
 
 ## Kicking it up to high fidelity
 
@@ -250,9 +255,9 @@ I started shaping WEAVE's visual design by gathering references, research, and i
   <img src="/assets/images/hifidelity.png" alt="Weave app interface showing NFT fashion marketplace">
 </div>
 
-<div class="highlight-text">
+<!-- <div class="highlight-text">
     The magic of strong visuals and digestable narratives for socials.
-</div>
+</div> -->
 
 Each step in the garment history and each stakeholder in the supplychain is brokendown into digestable, sharable pieces. Meeting the needs of social-native users.
 
@@ -317,28 +322,18 @@ Logo, color, typography
 
 ## Result
 
-<div class="layout-threecolumn">
-    <div class="column-left">
-        <h3>Conversion Rate</h3>
-    </div>
-    <div class="column-right">
-        <p>Above industry average at 12.4%, improved product discovery and checkout flow reduced hesitation and <strong>helped first-time buyers convert faster</strong>.</p>
-    </div>
+<div class="layout-threecolumn-2">
+    <div><h1>5.8%</div>
+    <div><h1>20%+</div>
+    <div><h1>27%</div>
 </div>
-<div class="layout-threecolumn">
-    <div class="column-left">
-        <h3>User-Generated Content</h3>
-    </div>
-    <div class="column-right">
-        <p><strong>Over one-third</strong> of testing users posted at least <strong>one product story, comment, or review</strong> (measured over a 30-day period).</p>
-    </div>
-</div>
-<div class="layout-threecolumn">
-    <div class="column-left">
-        <h3>Platform Stickiness</h3>
-    </div>
-    <div class="column-right">
-        <p>With a DAU/MAU ratio at 31% , testing users <strong>return regularly</strong> for updates, not just purchases.</p>
-    </div>
+<div class="layout-threecolumn-2">
+    <div>Conversion Rate</div>
+    <div>User-Generated Content</div>
+    <div>DAU/MAU</div>
 </div>
 <br>
+
+WEAVE launched a private TestFlight beta (invite-only) to ~150 targeted users. The combination of interactive product storytelling and simplified checkout encouraged faster decisions from first-time buyers; 22% of users posted at least one product story, comment, or review within 30 days, signaling strong early engagement.
+
+The closed beta achieved above-average engagement and conversion, but the company paused public launch due to funding constraints. The product's design insights continue to inform related projects and future opportunities.

@@ -7,31 +7,43 @@ isHomePage: true
 <div class="parent">
     <div class="div1"><h1>Case Studies</h1></div>
     <div class="div6">
-        <h2><a href="./projects/bloom/" style="text-decoration: none; color: black;">Bloom | AI-Native Design Tool</a></h2>
-        <p>Building Bloom's MVP: What happens when the product leads with a solution, not a problem?<br><span style="color: #D9D9D9;"></p>
+        <h2><a href="./projects/bloom/" style="text-decoration: none; color: black;"><span style="font-weight:400">Bloom</span> | AI-Native Design Tool</a></h2>
+        <p>Building MVP: What happens when the product leads with a solution, not a problem?<br><span style="color: #D9D9D9;"></p>
     </div>
     <div class="div7">
         <a href="./projects/bloom/">
-            <img src="./assets/images/bloomcover.gif" alt="Bloom - An AI-native fashion design tool" style="clip: rect(0, calc(100% - 2px), 100%, 2px);">
+            <img src="./assets/images/bloom_cover.png" alt="Bloom - An AI-native fashion design tool" style="clip: rect(0, calc(100% - 2px), 100%, 2px);">
         </a>
     </div>
     <div class="div4">
-        <h2><a href="./projects/weave/" style="text-decoration: none; color: black;">WEAVE | E-commerce</a></h2>
-        <p>Shop phygital fashion with low-friction checkout.</p>
+        <h2><a href="./projects/weave/" style="text-decoration: none; color: black;"><span style="font-weight:400">WEAVE</span> | E-commerce</a></h2>
+        <p>Shop phygital fashion in one click, with sustainability data woven into every purchase.</p>
     </div>
     <div class="div5">
         <a href="./projects/weave/">
-            <img src="./assets/images/CardSocial.png" alt="Weave - A marketplace for NFT-paired phygital fashion">
+            <video src="./assets/images/weave_cover.mp4" alt="Weave - A marketplace for NFT-paired phygital fashion" autoplay loop muted playsinline style="width:100%; height:auto; display:block;"></video>
         </a>
     </div>
     <div class="div2">
-        <h2><a href="./projects/digitaltemple/" style="text-decoration: none; color: black;">Digital Temple | Ed Tech</a></h2>
-        <p>An online classroom made by and for Harvard University.</p>
-        <p><a href="https://www.digitaltemple.art" target="_blank" rel="noopener noreferrer">See the live site↗</a></p>
+        <h2><a href="./projects/digitaltemple/" style="text-decoration: none; color: black;"><span style="font-weight:400"> Digital Temple</span> | Ed Tech</a></h2>
+        <p>An online classroom designed with Harvard, making complex simple.</p>
+            <a href="https://www.digitaltemple.art" 
+               class="hide-mobile"
+               style="display: inline-block; margin-top: 2em; padding: 0.2em 0.8em; font-size: 0.9em; background: #000; color: #fff; border-radius: 3px; text-decoration: none; font-weight: 500; border: none; transition: background 0.2s, opacity 0.2s;"
+               onmouseover="this.style.background='rgba(128,128,128,0.4)';"
+               onmouseout="this.style.background='#000';"
+               target="_blank" rel="noopener">Visit Site ↗</a>
+            <style>
+                @media (max-width: 700px) {
+                    .hide-mobile {
+                        display: none !important;
+                    }
+                }
+            </style>
     </div>
     <div class="div3">
         <a href="./projects/digitaltemple/">
-            <img src="./assets/images/DTCover.webp" alt="Digital Temple - An interactive classroom for cultural heritage site">
+            <img src="./assets/images/DT_Cover.png" alt="Digital Temple - An interactive classroom for cultural heritage site">
         </a>
     </div>
     <div class="div8"><h1>Client Work</h1></div>
@@ -49,22 +61,6 @@ isHomePage: true
         <a href="https://retireinequality.com/soccer/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/tiaa.png" alt="Soccer ball design for TIAA's retire inequality campaign" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
         <h2><a href="https://retireinequality.com/soccer/" style="text-decoration: none; color: black;">TIAA: Retire Inequality</a></h2>
         <p>Designed a soccer ball for TIAA.</p>
-    </div>
-    <div class="div12"><h1>Creative Tech</h1></div>
-    <div class="div13">
-       <img src="./assets/images/mawangdui.gif" alt="Image of clip from AI film" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px">
-        <h2>Scents of Eternity</h2>
-        <p>An AI film made with MidJourney, GPT4, Google Veo, and Blender.</p>
-    </div>
-    <div class="div14">
-        <a href="https://www.youtube.com/watch?v=7n5AXpsue5k" target="_blank" rel="noopener noreferrer"><img src="./assets/images/water.gif" alt="A tutorial on water simulation made with TouchDesigner" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
-        <h2><a href="https://www.youtube.com/watch?v=7n5AXpsue5k/" style="text-decoration: none; color: black;">Water Simulation</a></h2>
-        <p>An interactive water simulation created with TouchDesigner.</p>
-    </div>
-    <div class="div15">
-        <a href="https://vimeo.com/828694743?share=copy" target="_blank" rel="noopener noreferrer"><img src="./assets/images/helix.webp" alt="Cover image from 3d animated short film Double Helix" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
-        <h2><a href="https://vimeo.com/828694743?share=copy" style="text-decoration: none; color: black;">Double Helix</a></h2>
-        <p>3D animated film made with Cinema4D. Official Selection at Denver Digerati Experimental Media Festival.</p>
     </div>
 </div>
 <br><br>

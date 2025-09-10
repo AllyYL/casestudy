@@ -20,7 +20,7 @@ An interactive classroom designed for immersive learning
 
 ## Overview
 
-From architectural space to speculative UX—**<b>this project explores how design can best faciliate the learning of foreign & esoteric subjects</b>**. I was the **project manager** and **product designer** for a series of educational websites focused on Kaihua Monastery. The site itself features **annotated images, virtual gallery, interactive 3D models, and learning games** to explore Buddhist art history.
+From architectural space to speculative UX—**<b>this project explores how design can best faciliate the learning of foreign & esoteric subjects</b>**. I was the **product designer** and **project manager** leading the multi-disciplinary project focused on Kaihua Monastery. The site itself features **annotated images, virtual gallery, 3D models,** and **learning games** to explore Buddhist art history.
 <br><br>
 
 <div class="layout-twocolumn">
@@ -68,19 +68,18 @@ From architectural space to speculative UX—**<b>this project explores how desi
     </div>
 </div>
 
-<h3>Vision</h3>
+<!-- <h3>Vision</h3>
 <div class="layout-threecolumn">
     <div class="column-left">
         <img src="/assets/images/vision.png" alt="Vision illustration" style="margin-top: 1em; max-width: 80%; border-radius: 6px;">
     </div>
     <div class="column-right">
-        <p>Our goal was to <strong>innovate</strong> traditional ways of <strong>online learning</strong>, and make it easier for a global audience to understand the storylines and appreciate artworks in the digital world.
+        <p>Our goal was to <strong>innovate</strong> traditional ways of <strong>online learning</strong> for a global audience, creating polished storylines and artistic visual language in the digital world.
 
         We are devoted to <strong>preserving</strong> and revitalizing the digital assets of the fragile Buddhist art heritage. 
         </p>
     </div>
-</div>
-<br>
+</div> -->
 
 <div class="dark-blue-section">
     <br><br>
@@ -252,10 +251,10 @@ This project asked how we might turn a sacred, ambiguous architectural site into
     <img src="/assets/images/InfoArchitecture.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
 </a>
 
-
+<!-- 
 ## Wireframes
 
-![](/assets/images/gridlayout.jpg)
+![](/assets/images/gridlayout.jpg) -->
 
 ## Design System
 

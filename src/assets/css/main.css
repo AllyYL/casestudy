@@ -11,6 +11,10 @@ html, body {
     height: 100%;
 }
 
+html {
+    font-size: 15px;
+}
+
 h1 {
     font-size: 1.5rem;
     font-weight: 400;
@@ -37,7 +41,7 @@ body {
 }
 
 header {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     padding: 1rem 0;
     display: flex;
     justify-content: space-between;
@@ -97,7 +101,7 @@ main {
 }
 
 .info-content {
-    width: 70%;
+    width: 60%;
 }
 
 footer {
@@ -112,9 +116,9 @@ footer {
 .parent {
     display: grid;
     grid-template-columns: 0.5fr repeat(3, 1fr);
-    grid-template-rows: repeat(5, auto);
+    grid-template-rows: repeat(6, auto);
     column-gap: 2rem;
-    row-gap: 4rem;
+    row-gap: 2.5rem;
     margin-top: 2rem;
     padding-right: 2rem;
 }
@@ -134,8 +138,9 @@ footer {
 .div13 { grid-area: 5 / 2 / 6 / 3; }
 .div14 { grid-area: 5 / 3 / 6 / 4; }
 .div15 { grid-area: 5 / 4 / 6 / 5; }
+.div16 { grid-area: 6 / 2 / 7 / 2; }
 
-.div8, .div9, .div10, .div11, .div12, .div13, .div14, .div15 {
+.div8, .div9, .div10, .div11, .div12, .div13, .div14, .div15, .div16 {
     margin-top: 2rem;
 }
 
@@ -159,6 +164,10 @@ footer {
     margin-bottom: 1rem;
 }
 
+.parent p {
+    margin-top: 1.6rem;
+}
+
 .water-gif {
     aspect-ratio: 308/209;
     object-fit: contain;
@@ -171,6 +180,17 @@ footer {
         grid-template-rows: auto;
         gap: 1rem 1.5rem;
         padding-right: 0;
+    }
+
+    .parent h2  {
+        margin-bottom: 0.7rem;
+    }
+
+    .parent p {
+        margin-bottom: 1rem;
+        line-height: 140%;
+        font-size: 1rem;
+        margin-top: 0rem;
     }
     
     .div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9, .div10, .div11, .div12, .div13, .div14, .div15 {

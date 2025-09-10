@@ -14,10 +14,10 @@ layout: article.njk
 
 <br>
 
-<div class="quote">
+<!-- <div class="quote">
     "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
     – Wendy Chun, Programmed Visions: Software and Memory
-</div>
+</div> -->
 
 <br>
 

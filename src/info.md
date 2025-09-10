@@ -6,16 +6,17 @@ layout: "base.njk"
 <br><br>
 <br>
 
-## I'm a product designer with front-end development skills and background in creative tech, research, and storytelling. I design thoughtful interfaces and systems from 0→1 MVPs to speculative tools.
-<br><br>
+## I'm a product designer with front-end development skills and background in creative tech. Currently at Harvard FAS CAMLab, previously at bloom3d, Parsons, and the Martin Agency.
+<br>
 
-## I've worked with early-stage startups, research labs, and mission-driven teams to bring digital experiences to life—often building from scratch while contributing to both UX strategy and visual design.
-<br><br>
+## A favortite theorist of mine Wendy Chun once said, "*Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.*" And I hope my design can address it through their thinkings and details.
+
+ <br>
 
 ## Outside of client work, [my personal practice](http://www.luoyanxiu.com/) explores the overlap between technology, the body, and sensory experiences—bringing a critical and artistic lens to my design work.
-<br><br>
+<br>
 
-## Let's talk! Reach me at [luoyanxiu@gmail.com](mailto:luoyanxiu@gmail.com)
+## Always down for a chat. Let's talk! Reach me at [luoyanxiu@gmail.com](mailto:luoyanxiu@gmail.com)
 <br><br>
 
 ## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)<br>[Resume](https://drive.google.com/file/d/1y2EvAGU0jLVAy36uBMRdLgi_xYdyMlJA/view?usp=sharing)
