@@ -113,7 +113,7 @@ From this, two main user groups emerged: scholars and general audiences. **The c
 
 ## Problem & Opportunity
 
-Narrowing our scope, we identified four key opportunity spaces. The subject matter itself is hard to access and understand. At the same time, academic design often struggles to engage the public and present research with visual clarity.
+Narrowing our scope, we identified four key opportunity spaces that addresses the painpoints from both user groups.
 <br><br>
 <a href="/assets/images/problems.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
   <img src="/assets/images/problems.png" alt="Problems and opportunities diagram" style="display: block; margin: 0 auto; max-width: 100%; cursor: zoom-in;">
@@ -168,71 +168,17 @@ function enlargeImage(link) {
 <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
 <br>
 
-## Design Solutions
 
-<br>
+## Setting Up the System
 
-**I. Spatial and Informational All-in-One Interface**
-<br>
-
-Researchers no longer need to jump between platforms to access different data. We consolidated research, spatial information, and multimedia into one interface.
-
-<br>
-<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block; border-radius: 10px; outline: 1px solid #818181;"><source src="/assets/images/landscape.mp4" type="video/mp4"></video>
-<br><br>
-<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block; border-radius: 10px; outline: 1px solid #818181;"><source src="/assets/images/temporalstructure.mp4" type="video/mp4"></video>
-<!-- 
-<div class="layout-twocolumn">
-    <div class="column-left">
-        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;"><source src="/assets/images/landscape.mp4" type="video/mp4"></video>
-    </div>
-    <div class="column-right">
-        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;"><source src="/assets/images/temporalstructure.mp4" type="video/mp4"></video>
-    </div>
-</div> -->
-<br><br><br>
-
-**II. The Best Way to Learn**
-<br>
-
-We broke down complex mural narratives into **smaller modules** and learning games. Testing showed students gained better understanding of the storyline and **performed better on image–text matching tests**.
-<br><br>
-
-<img src="/assets/images/Annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
-<br><br>
-<img src="/assets/images/game.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
-
-<!-- <div class="layout-twocolumn">
-    <div class="column-left">
-        <img src="/assets/images/Annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
-    </div>
-    <div class="column-right">
-        <img src="/assets/images/game.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
-    </div>
-</div> -->
-
-<br><br>
-
-**III. Designed for Scholarship and Beyond**
-<br>
-
-We created a consolidated archive of high-resolution mural snippets, categorized and labeled so scholars and students can **easily cite specific scenes** and reference them in their research.
-
-<br>
-
-<img src="/assets/images/archive.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
-<br><br><br>
-
-<hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
-<br>
-
-## Informatioin Architecture 
+**Information Architecture**: we crafted two flows for the two types of uers we have.
 
 <a href="/assets/images/InfoArchitecture.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
     <img src="/assets/images/InfoArchitecture.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
 </a>
+<br>
 
-## Design System
+**Design System**: typography, colors, and components
 
 <a href="/assets/images/design system.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
     <img src="/assets/images/design system.png" alt="An infograph showing branding guidelines">
@@ -316,6 +262,64 @@ To test the early models, we ran **5 rounds of interviews with 40 participants**
 
 <br> -->
 
+## Design Solutions
+
+<br>
+
+**I. Spatial and Informational All-in-One Interface**
+<br>
+
+Researchers no longer need to jump between platforms to access different data. We consolidated research, spatial information, and multimedia into one interface.
+
+<br>
+<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block; border-radius: 10px; outline: 1px solid #818181;"><source src="/assets/images/landscape.mp4" type="video/mp4"></video>
+<br><br>
+<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block; border-radius: 10px; outline: 1px solid #818181;"><source src="/assets/images/temporalstructure.mp4" type="video/mp4"></video>
+<!-- 
+<div class="layout-twocolumn">
+    <div class="column-left">
+        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;"><source src="/assets/images/landscape.mp4" type="video/mp4"></video>
+    </div>
+    <div class="column-right">
+        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;"><source src="/assets/images/temporalstructure.mp4" type="video/mp4"></video>
+    </div>
+</div> -->
+<br><br><br>
+
+**II. The Best Way to Learn**
+<br>
+
+We broke down complex mural narratives into **smaller modules** and learning games. Testing showed students gained better understanding of the storyline and **performed better on image–text matching tests**.
+<br><br>
+
+<img src="/assets/images/Annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
+<br><br>
+<img src="/assets/images/game.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
+
+<!-- <div class="layout-twocolumn">
+    <div class="column-left">
+        <img src="/assets/images/Annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
+    </div>
+    <div class="column-right">
+        <img src="/assets/images/game.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
+    </div>
+</div> -->
+
+<br><br>
+
+**III. Designed for Scholarship and Beyond**
+<br>
+
+We created a consolidated archive of high-resolution mural snippets, categorized and labeled so scholars and students can **easily cite specific scenes** and reference them in their research.
+
+<br>
+
+<img src="/assets/images/archive.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
+<br><br><br>
+
+<hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
+<br>
+
 ## Museum Exhibitions & VR
 
 Alongside the digital platform, we curated physical exhibitions at Harvard and museums across Asia, featuring art installations, immersive theater, and academic events. 
@@ -350,7 +354,7 @@ We also created a complementary VR experience, allowing users to explore the tem
     <!-- <div><h1>+90%</h1></div> -->
     <div><h1>1.1 M</h1></div>
     <div><h1>1535</h1></div>
-    <div><h1>+4</h1></div>
+    <div><h1>4+</h1></div>
 </div>
 <div class="layout-threecolumn-2">
     <!-- <div>Satisfaction</div> -->
