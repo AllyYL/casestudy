@@ -34,7 +34,6 @@ An interactive classroom designed for immersive learning
         <p>Product Designer, Project Manager</p>
     </div>
 </div>
-<br>
 <div class="layout-twocolumn">
     <div class="column-left">
         <h3>Project Site</h3>

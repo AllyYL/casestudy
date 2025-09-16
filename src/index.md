@@ -48,17 +48,62 @@ isHomePage: true
     </div>
     <div class="div8"><h1>Client Work</h1></div>
     <div class="div9">
-        <a href="https://www.kintsu.world/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/kintsu.png" alt="Cover image for Kintsu App" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));" height="220"></a>
+        <a href="https://www.kintsu.world/" target="_blank" rel="noopener noreferrer">
+            <img 
+                src="./assets/images/kintsu.png" 
+                alt="Cover image for Kintsu App" 
+                style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height:220px;"
+                class="kintsu-img"
+            >
+        </a>
+        <style>
+            @media (max-width: 700px) {
+                .kintsu-img {
+                    height: auto !important;
+                    max-width: 100%;
+                }
+            }
+        </style>
         <h2><a href="https://www.kintsu.world/" style="text-decoration: none; color: black;"height: 200px">Kintsu.World</a></h2>
         <p>UI/UX design for web and mobile app to shop local merchants.</p>
     </div>
     <div class="div10">
-        <a href="https://www.stevefagin.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/SteveFagin.png" alt="Cover image for Steve Fagin's personal website" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));height: 220px "></a>
+        <a href="https://www.stevefagin.com/" target="_blank" rel="noopener noreferrer">
+            <img 
+                src="./assets/images/SteveFagin.png" 
+                alt="Cover image for Steve Fagin's personal website" 
+                style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px;"
+                class="stevefagin-img"
+            >
+        </a>
+        <style>
+            @media (max-width: 700px) {
+                .stevefagin-img {
+                    height: auto !important;
+                    max-width: 100%;
+                }
+            }
+        </style>
         <h2><a href="https://www.stevefagin.com/" style="text-decoration: none; color: black;">Artist Website</a></h2>
         <p>Design and development for Steve Fagin's personal website.</p>
     </div>
     <div class="div11">
-        <a href="https://retireinequality.com/soccer/" target="_blank" rel="noopener noreferrer"><img src="./assets/images/tiaa.png" alt="Soccer ball design for TIAA's retire inequality campaign" style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px"></a>
+        <a href="https://retireinequality.com/soccer/" target="_blank" rel="noopener noreferrer">
+            <img 
+                src="./assets/images/tiaa.png" 
+                alt="Soccer ball design for TIAA's retire inequality campaign" 
+                style="filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2)); height: 220px;"
+                class="tiaa-img"
+            >
+        </a>
+        <style>
+            @media (max-width: 700px) {
+                .tiaa-img {
+                    height: auto !important;
+                    max-width: 100%;
+                }
+            }
+        </style>
         <h2><a href="https://retireinequality.com/soccer/" style="text-decoration: none; color: black;">TIAA: Retire Inequality</a></h2>
         <p>Designed a soccer ball for TIAA.</p>
     </div>
