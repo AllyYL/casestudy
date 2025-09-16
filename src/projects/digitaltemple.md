@@ -20,8 +20,9 @@ An interactive classroom designed for immersive learning
 
 ## Overview
 
-From architectural space to speculative UX—**<b>this project explores how design can best faciliate the learning of foreign & esoteric subjects</b>**. I was the **product designer** and **project manager** leading the multi-disciplinary project focused on Kaihua Monastery. The site itself features **annotated images, virtual gallery, 3D models,** and **learning games** to explore Buddhist art history.
-<br><br>
+**Digital Temple makes a difficult subject easier to learn.** We turned Buddhist art and history from Kaihua Monastery into an interactive site with annotated images, a virtual gallery, 3D models, and simple games—showing how design can turn complex research into clear, enjoyable learning.
+
+<br>
 
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -33,6 +34,7 @@ From architectural space to speculative UX—**<b>this project explores how desi
         <p>Product Designer, Project Manager</p>
     </div>
 </div>
+<br>
 <div class="layout-twocolumn">
     <div class="column-left">
         <h3>Project Site</h3>
@@ -54,34 +56,22 @@ From architectural space to speculative UX—**<b>this project explores how desi
 <br>
 
 <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
-<br>
 
-<h3>Context</h3>
-<div class="layout-threecolumn">
+<div class="layout-threecolumn" style="display: flex; align-items: center;">
     <div class="column-left">
-        <img src="/assets/images/context.png" alt="Vision illustration" style=" max-width: 75%; border-radius: 6px;">
+        <img src="/assets/images/context.png" alt="Vision illustration" style="max-width: 75%; border-radius: 6px;">
     </div>
     <div class="column-right">
         <p>Do you know <strong>85%</strong> of Buddhist temples worldwide are unprotected and not open to the public? 
         
-        There is <strong>little to no digital data</strong> on Kaihua Monastery, and we can only learn about this hidden heritage site from the research of few scholars.</p>
+        There is <strong>little to no digital data</strong> on Kaihua Monastery, and we can only learn about this remote heritage site from the research of few scholars.</p>
     </div>
 </div>
 
-<!-- <h3>Vision</h3>
-<div class="layout-threecolumn">
-    <div class="column-left">
-        <img src="/assets/images/vision.png" alt="Vision illustration" style="margin-top: 1em; max-width: 80%; border-radius: 6px;">
-    </div>
-    <div class="column-right">
-        <p>Our goal was to <strong>innovate</strong> traditional ways of <strong>online learning</strong> for a global audience, creating polished storylines and artistic visual language in the digital world.
+<hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
+<br>
 
-        We are devoted to <strong>preserving</strong> and revitalizing the digital assets of the fragile Buddhist art heritage. 
-        </p>
-    </div>
-</div> -->
-
-<div class="dark-blue-section">
+<!-- <div class="dark-blue-section">
     <br><br>
     <div class="plain">
         <h2>Design Challenge</h2><br>
@@ -89,9 +79,10 @@ From architectural space to speculative UX—**<b>this project explores how desi
     </div>
     <br><br>
 </div>
-<br>
+<br> -->
 
-## UX Research
+## User Research 
+
 
 <div class="layout-threecolumn-2">
     <div><h1>10+</div>
@@ -99,23 +90,30 @@ From architectural space to speculative UX—**<b>this project explores how desi
     <div><h1>140+</div>
 </div>
 <div class="layout-threecolumn-2">
-    <div>Deep User Interviews</div>
-    <div>Zoom Workshops</div>
-    <div>Survey Forms</div>
+    <div>Interviews</div>
+    <div>Workshops</div>
+    <div>Surveys</div>
 </div>
-<br>
+<br><br>
 
-After conducting **in-person user interviews** with students, scholars, and public audiences, hosting Zoom meetings with the Harvard Art History research team, collecting **Google form survey data**, and creating **user journey mapping**, we identified and understood current users' needs and learning goals. 
+We began with a simple goal: make knowledge more accessible. But soon we had to ask—**who are our users, and what do they want to know?** Through interviews, workshops with the Harvard Art History team, surveys, and journey mapping, we clarified user needs and learning goals.
 
+<br><br>
 <a href="/assets/images/UXresearch.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/UXresearch.png" alt="UX research diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
+    <img src="/assets/images/UXresearch.png" alt="UX research diagram" style="width:100%; max-width:900px; display:block; margin:auto; border-radius: 0">
 </a>
+<br><br>
 
+From this, two main user groups emerged: scholars and general audiences. **The challenge became: how might we preserve rigor for scholars without overwhelming broader audiences?**
+
+<img src="/assets/images/convo.png" alt="A drawing of two users having dialog on their needs.">
+
+<hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
 <br>
 
-## Problems & Opportunities
+## Problem & Opportunity
 
-Working closely with scholars, we realized that **academic researches are layered and labyrinthian, yet graphics are usually very upfront**. How might we preserve the depth of scholarship without overwhelming the user?
+Narrowing our scope, we identified four key opportunity spaces. The subject matter itself is hard to access and understand. At the same time, academic design often struggles to engage the public and present research with visual clarity.
 <br><br>
 <a href="/assets/images/problems.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
   <img src="/assets/images/problems.png" alt="Problems and opportunities diagram" style="display: block; margin: 0 auto; max-width: 100%; cursor: zoom-in;">
@@ -166,101 +164,79 @@ function enlargeImage(link) {
 }
 </script>
 
-By analyzing the research data above and conducting card sorting to narrow down our scope, we found four main **opportunity spaces** we'd like to address in the higher education tech space: <br><br>**1. Subject matter: lack of accessibility, difficult to comprehend. <br> 2. Design: Lack of interest from general public; limited visual clarity for academic content**. 
-<br><br><br><br>
+<br><br>
 <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
 <br>
 
 ## Design Solutions
-This project asked how we might turn a sacred, ambiguous architectural site into a speculative, interactive experience—without flattening its meaning or imposing a fixed narrative.
 
+<br>
+
+**I. Spatial and Informational All-in-One Interface**
+<br>
+
+Researchers no longer need to jump between platforms to access different data. We consolidated research, spatial information, and multimedia into one interface.
+
+<br>
+<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block; border-radius: 10px; outline: 1px solid #818181;"><source src="/assets/images/landscape.mp4" type="video/mp4"></video>
+<br><br>
+<video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block; border-radius: 10px; outline: 1px solid #818181;"><source src="/assets/images/temporalstructure.mp4" type="video/mp4"></video>
+<!-- 
+<div class="layout-twocolumn">
+    <div class="column-left">
+        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;"><source src="/assets/images/landscape.mp4" type="video/mp4"></video>
+    </div>
+    <div class="column-right">
+        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;"><source src="/assets/images/temporalstructure.mp4" type="video/mp4"></video>
+    </div>
+</div> -->
+<br><br><br>
+
+**II. The Best Way to Learn**
+<br>
+
+We broke down complex mural narratives into **smaller modules** and learning games. Testing showed students gained better understanding of the storyline and **performed better on image–text matching tests**.
 <br><br>
 
-<div class="layout-twocolumn">
-    <div class="column-left">
-        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block; padding-right: 1em">
-        <source src="/assets/images/landscape.mp4" type="video/mp4"></video>
-    </div>
-    <div class="column-right">
-        <h3>Solution 1: Spatial Experience--Make 2D into 3D</h3>
-        <p>
-        Collaborating with CG artists, historians, and architects, we brought the monastic space and the murals online with <strong>fast-loading, interactive 3D</strong>.
-        </p>
-    </div>
-</div>
-<br><br><br><br>
-<div class="layout-twocolumn">
-    <div class="column-left">
-        <h3>Solution 2: Layering Information</h3>
-        <p>
-        Addressing user <strong>painpoints</strong> from researchers who had to <strong>jump between platforms</strong> to access different types of data, we layered research, spatial data, and multimedia content into <strong>one single interface</strong>, all accesible in their native environment.
-        </p>
-    </div>
-    <div class="column-right">
-        <video autoplay loop muted playsinline style="margin: auto; width: 100%; height: auto; display: block;">
-        <source src="/assets/images/temporalstructure.mp4" type="video/mp4"></video>
-    </div>
-</div>
-<br><br><br><br>
-<div class="layout-twocolumn">
+<img src="/assets/images/Annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
+<br><br>
+<img src="/assets/images/game.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
+
+<!-- <div class="layout-twocolumn">
     <div class="column-left">
         <img src="/assets/images/Annotation.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
     </div>
     <div class="column-right">
-        <h3>Solution 3: Interactive Annotation</h3>
-        <p>
-        We combed through the complex mural images and divided the narrative into small modules. Through user testing, we found out that this is a much more engaging way to learn. Students showed <strong>better understanding</strong> of the storyline and <strong>did better in image-text matching tests<strong>.
-        </p>
-    </div>
-</div>
-<br><br><br><br>
-<div class="layout-twocolumn">
-    <div class="column-left">
-        <h3>Solution 4: Gamify Learning</h3>
-        <p>
-        We designed learning games into the experience. Users can complete a 16-scene graphic and text matching quiz based on what they've learned and share the results on <strong>social media</strong>.
-        </p>
-    </div>
-    <div class="column-right">
-        <div class="column-left">
         <img src="/assets/images/game.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
     </div>
-    </div>
-</div>
-<br><br><br><br>
-<div class="layout-twocolumn">
-    <div class="column-left">
-        <img src="/assets/images/archive.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px;">
-    </div>
-    <div class="column-right">
-        <h3>Solution 5: Archive Everything</h3>
-        <p>
-        A consolidated archive of high-resolution images categorized and labeled:  This feature speaks directly to the <strong>use case</strong> where scholars navigate the site for research and bibliography-writing purposes.
-        </p>
-    </div>
-</div>
+</div> -->
+
+<br><br>
+
+**III. Designed for Scholarship and Beyond**
+<br>
+
+We created a consolidated archive of high-resolution mural snippets, categorized and labeled so scholars and students can **easily cite specific scenes** and reference them in their research.
 
 <br>
+
+<img src="/assets/images/archive.gif" alt="Animated demonstration of interactive annotation feature." style="width: 100%; border-radius: 4px; border-radius: 10px; outline: 1px solid #818181;">
+<br><br><br>
 
 <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
 <br>
 
-## Information Architecture
+## Informatioin Architecture 
 
 <a href="/assets/images/InfoArchitecture.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
     <img src="/assets/images/InfoArchitecture.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
 </a>
 
-<!-- 
-## Wireframes
-
-![](/assets/images/gridlayout.jpg) -->
-
 ## Design System
 
-<img src="/assets/images/design system.png" alt="An infograph showing branding guidelines">
-
-<!-- <img src="/assets/images/gridlayout.jpg" alt="An infograph showing grid layout guidelines"> -->
+<a href="/assets/images/design system.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
+    <img src="/assets/images/design system.png" alt="An infograph showing branding guidelines">
+</a>
 
 <br>
 
@@ -270,47 +246,47 @@ This project asked how we might turn a sacred, ambiguous architectural site into
 
 ## Usability Testing
 
-Moving through **rapid animated prototyping**, we conducted **5 rounds of interviews with 40 participants** after establishing our usability testing metrics. We identified 35 issues and devised 18 actionable items. 
-
-Our design team identified **UI challenges**, usability issues, and under-addressed **painpoints**, leading to targeted improvements in subsequent iterations.
+To test the early models, we ran **5 rounds of interviews with 40 participants**. It led to some key design changes.
 <br><br><br>
 
-
-### 1. Improving Spatial & Narrative Clarity
+**I. Spatial & Narrative Clarity**
 <br>
-<a href="/assets/images/DTtest2.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/DTtest2.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
+<a href="/assets/images/DTtest1.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
+    <img src="/assets/images/DTtest1.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
 </a>
 <br>
 <div class="layout-threecolumn">
     <div class="column-left">
-        <p>We made major upgrades to the interactive annotation components. Improving spatial and narrative clarity.
+        <p>We added UI guidance and guardrails to the annotation process—clarifying where flows begin, how they move, and how narrative threads connect.</p>
     </div>
     <div class="column-right">
      <a href="/assets/images/Annotation.gif" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/Annotation.gif" alt="Animated GIF showing annotation process" style="width: auto; display: block; margin: 0; outline: 1px solid #0ED100;">
-    </a></div>
+    <img src="/assets/images/Annotation.gif" alt="Animated GIF showing annotation process" style="width: auto; display: block; margin: 0; border-radius: 10px; outline: 1px solid #818181;"></a>
+    </div>
 </div>
 <br><br><br>
 
-### 2. Fast-load, intuitive, lean
+**II. Wayfinding in 3D**
 <br>
-<a href="/assets/images/DTtest3.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/DTtest3.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
+<a href="/assets/images/DTtest4.png" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
+    <img src="/assets/images/DTtest4.png" alt="Information Architecture diagram" style="width:100%; max-width:900px; display:block; margin:auto;">
 </a>
 <br>
 <div class="layout-threecolumn">
     <div class="column-left">
-        <p>We made major upgrades to the interactive annotation components. Improving spatial and narrative clarity.
+        <p>We improved accessibility by addressing slow-network issues (when 3D models fail to load), added wayfinding tools to help users orient themselves, and introduced more intuitive interactions.</p>
     </div>
     <div class="column-right">
      <a href="/assets/images/optical.gif" target="_blank" onclick="event.preventDefault(); enlargeImage(this);">
-    <img src="/assets/images/optical.gif" alt="Animated GIF showing annotation process" style="width: auto; display: block; margin: 0; outline: 1px solid #0ED100;">
-    </a></div>
+    <img src="/assets/images/optical.gif" alt="Animated GIF showing annotation process" style="width: auto; display: block; margin: 0; border-radius: 10px; outline: 1px solid #818181;">
+    </a>
+    </div>
 </div>
 <br><br><br><br>
 
 <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
+
+<br>
 
 <!-- ## Design Principles
 
@@ -342,7 +318,7 @@ Our design team identified **UI challenges**, usability issues, and under-addres
 
 ## Museum Exhibitions & VR
 
-Alongside the digital application, we also curated physical exhibitions at Harvard University and in various museum spaces in Asia, featuring art installations, immersive theater, and academic events. 
+Alongside the digital platform, we curated physical exhibitions at Harvard and museums across Asia, featuring art installations, immersive theater, and academic events. 
 <br><br>
 <div class="layout-twocolumn">
     <div class="column-left">
@@ -354,7 +330,7 @@ Alongside the digital application, we also curated physical exhibitions at Harva
 </div>
 <br><br>
 
-We also crated complimentary <strong>VR experience</strong>, where users can view the temple in 360 degree mode through either their tablets or VR goggles.
+We also created a complementary VR experience, allowing users to explore the temple in 360° on tablets or through VR headsets.
 
 <div class="layout-gallery">
     <div style="position: relative; padding: 56.25% 0 0 0;">
@@ -366,16 +342,18 @@ We also crated complimentary <strong>VR experience</strong>, where users can vie
 
 <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
 
+<br>
+
 ## Impact
 
-<div class="layout-fourcolumn">
-    <div><h1>+90%</h1></div>
+<div class="layout-threecolumn-2">
+    <!-- <div><h1>+90%</h1></div> -->
     <div><h1>1.1 M</h1></div>
     <div><h1>1535</h1></div>
     <div><h1>+4</h1></div>
 </div>
-<div class="layout-fourcolumn">
-    <div>Satisfaction</div>
+<div class="layout-threecolumn-2">
+    <!-- <div>Satisfaction</div> -->
     <div>Views</div>
     <div>Likes on Instagram</div>
     <div>New Collaborations</div>
@@ -386,17 +364,17 @@ We also crated complimentary <strong>VR experience</strong>, where users can vie
         <img src="/assets/images/impact.png" alt="Vision illustration" style=" max-width: 90%; border-radius: 2px;">
     </div>
     <div class="column-right">
-        <p>After the project launched, user interviews revealed that <strong>90%</strong> of participants gained new knowledge about Buddhist art through the Digital Temple experience. 
+        <p>After launch, user interviews showed that <strong>90% of participants gained new knowledge</strong> about Buddhist art through Digital Temple.
         
-        On Instagram, the project reached over <strong>1 million views</strong>, received <strong>1,535 comments</strong>, and sparked collaboration inquiries from <strong>4 research institutions and art organizations</strong>. 
+        On Instagram, the project reached <strong>1M+ views</strong>, earned 1,500+ comments, and led to <strong>collaboration inquiries</strong> from 4+ research institutions and art organizations.
         
         Engagement continues to grow steadily.</p>
     </div>
 </div>
 <br>
-<hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;">
+<!-- <hr style="border: none; border-top: 0.7px solid #fff; width: 100vw; margin-left: calc(-50vw + 50%); margin-top: 2rem; margin-bottom: 2rem;"> -->
 
-## Reflections
+<!-- ## Reflections
 
 Aside from much rumination over content, I was also interested in exploring those 4 topics through this project:
 
@@ -410,4 +388,4 @@ Academic researches are layered and labyrinthian, yet we realize graphics are us
 How do you talk to, make request from, and send assets to developers, architects, scholars, visual artists, writers, and those who come in to play test?
 
 **Managing is a maker's skill** <br>
-Alongside of designing, I also acted as the project manger. It felt very different to be in a managing role.
+Alongside of designing, I also acted as the project manger. It felt very different to be in a managing role. -->
