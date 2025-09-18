@@ -127,7 +127,7 @@ WEAVE is a Web3 e-commerce app where users can purchase physical garments and th
 Blockchain & E-commerce
 <br>
 
-<img src="/assets/images/competitive_screens.png" alt="logos from competing companies in the crypto and e-commerce industries">
+<img src="/assets/images/Competitivescreens.png" alt="screenshots from competing companies in the crypto and e-commerce industries">
 <br><br>
 An audit of supply chain tracking, web3, and e-commerce apps revealed an opportunity to transform raw supply chain data into a social-driven shopping experience, WEAVE's core differentiator.
 <br><br>
