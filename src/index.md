@@ -16,8 +16,8 @@ isHomePage: true
         </a>
     </div>
     <div class="div4">
-        <h2><a href="./projects/weave/" style="text-decoration: none; color: black;"><span style="font-weight:400">WEAVE</span> | E-commerce</a></h2>
-        <p>Shop phygital fashion in one click, with sustainability data woven into every purchase.</p>
+        <h2><a href="./projects/weave/" style="text-decoration: none; color: black;"><span style="font-weight:400">WEAVE</span> | Web3 E-commerce</a></h2>
+        <p>Shop NFT-backed phygital fashion in one click.</p>
     </div>
     <div class="div5">
         <a href="./projects/weave/">
