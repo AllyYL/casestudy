@@ -14,20 +14,15 @@ layout: article.njk
 
 <br>
 
-<!-- <div class="quote">
-    "Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world." <br>
-    – Wendy Chun, Programmed Visions: Software and Memory
-</div> -->
+[Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. 
+
+Over the past two months, I partnered up with another designer in a founding team of 6 to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
 
 <br>
 
-[Bloom](https://bloom3d.io/) is a browser-based, AI-native design tool that enables fashion designers and pattern makers to generate garment patterns from text or image prompts–while retaining full editing control. Over the past two months, I partnered up with another designer in a founding team of 6 to build the MVP—navigating challenges unique to AI-first tools, rapid iteration cycles, and constrained resources.
+<!-- ## Three Problems -->
 
-<br>
-
-## Three Problems
-
-Unlike traditional UX projects, AI-native tools raise unexpected design questions:
+Unlike traditional UX projects, AI-native tools raise unexpected design **questions**:
 <ol>
     <li> How do we balance conversational interfaces with the clarity of graphical UIs?
     <li> How to design AROUND AI by building flows that compensate the current limitations of AI?
@@ -35,18 +30,19 @@ Unlike traditional UX projects, AI-native tools raise unexpected design question
 </ol>
 <br>
 
-This case study is a reflection on designing through ambiguity, prototyping at speed, and **shaping tools for workflows that are still emerging**.
+This case study is a reflection on **designing through ambiguity**, prototyping at speed, and shaping tools for **workflows that are still emerging**.
 <br><br><br>
 
-## ☞ Balancing CUI and GUI
+## 1. Balancing CUI and GUI
 ### Let Real-world Workflows Shape the Interface
-
-We knew from the start that Bloom needed both a **conversational interface** (for fast ideation) and a **graphical interface** (for precise control). But we weren't sure how to integrate them in a way that felt intuitive.
-<br>
 
 <img src="/assets/images/JacketProcess.png" alt="A series of photos capturing how a jacket is made and digitized">
 
 ####  We started out by observing how a jacket is made and digitized.
+
+<br>
+
+We knew from the start that Bloom needed both a **conversational interface** (for fast ideation) and a **graphical interface** (for precise control). But we weren't sure how to integrate them in a way that felt intuitive.
 <br>
 
 <span class="title">Discovery</span><br>
@@ -106,7 +102,7 @@ The final layout accomodated the **dialogical relationship** between CUI and GUI
 
 <br><br><br>
 
-## ☞ Intent-driven Scaffold
+## 2. Scaffold
 
 ### Designing An Input Flow that Compensates for AI Limitations
 
@@ -146,7 +142,7 @@ The final input flow **reduced user drop-off**, gave the AI better structured co
 Designing with AI often means **designing around AI**. Guardrails aren't limits—they're opportunities to scaffold creativity and build trust in the system.
 <br><br><br>
 
-## ☞ UX Research at an AI Startup
+## 3. UX Research at an AI Startup
 
 ### What happens when the product leads–and you have to find the problem?
 
@@ -204,5 +200,5 @@ Looking ahead, there's potential to extend the tool's utility with features that
 <br>
 These additions would move Bloom closer to being a full creative workspace—not just a generation tool.
 <br><br>
-
-!["Make your own fashion" Bloom promo page.](/assets/images/bloompromo.png)
+<!-- 
+!["Make your own fashion" Bloom promo page.](/assets/images/bloompromo.png) -->

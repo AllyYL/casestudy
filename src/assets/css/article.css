@@ -99,7 +99,7 @@ html {
     font-size: 2rem;
     font-weight: 400;
     max-width: 70ch;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .article h2 {
@@ -111,11 +111,11 @@ html {
 }
 
 .article h3 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-weight: 400;
     margin: 0rem 0 1.5rem;
     max-width: 70ch;
-    color: rgb(174, 174, 178);
+    color: rgb(0, 0, 0);
 }
 
 .article p {
@@ -157,10 +157,11 @@ strong {
     font-family: monospace;
     padding-bottom: 0.5rem;
     color: rgb(174, 174, 178);
+    margin-bottom: 0.5rem;
 }
 
 .article a{
-    font-weight: 400;
+    font-weight: 500;
     color: #988900;
 }
 
