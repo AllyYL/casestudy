@@ -18,7 +18,7 @@ layout: "base.njk"
 ## Always down for a chat. Let's talk! Reach me at [luoyanxiu@gmail.com](mailto:luoyanxiu@gmail.com)
 <br><br>
 
-## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)<br>[Resume](https://drive.google.com/file/d/1y2EvAGU0jLVAy36uBMRdLgi_xYdyMlJA/view?usp=sharing)
+## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)<br>[Resume](https://drive.google.com/file/d/1E2zJNQdWTJiwKzB_nIACVV_vcJ9c21ya/view?usp=sharing)
 
 
 <br>
