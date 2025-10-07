@@ -6,20 +6,20 @@ isHomePage: true
 
 <div class="parent">
     <div class="div1"><h1>Case Studies</h1></div>
-    <div class="div6">
+    <div class="div4">
         <h2><a href="./projects/bloom/" style="text-decoration: none; color: black;"><span style="font-weight:400">Bloom</span> | AI-Native Design Tool</a></h2>
         <p>Building MVP: What happens when the product leads with a solution, not a problem?<br><span style="color:#F87171;"><br>*A fresh 2025 take. Text-heavy, narrative style.</p>
     </div>
-    <div class="div7">
+    <div class="div5">
         <a href="./projects/bloom/">
             <img src="./assets/images/bloom_cover.png" alt="Bloom - An AI-native fashion design tool" style="clip: rect(0, calc(100% - 2px), 100%, 2px);">
         </a>
     </div>
-    <div class="div4">
+    <div class="div6">
         <h2><a href="./projects/weave/" style="text-decoration: none; color: black;"><span style="font-weight:400">WEAVE</span> | Web3 E-commerce</a></h2>
         <p>Shop NFT-backed phygital fashion in one click.</p>
     </div>
-    <div class="div5">
+    <div class="div7">
         <a href="./projects/weave/">
             <video src="./assets/images/weave_cover.mp4" alt="Weave - A marketplace for NFT-paired phygital fashion" autoplay loop muted playsinline style="width:100%; height:auto; display:block;"></video>
         </a>
