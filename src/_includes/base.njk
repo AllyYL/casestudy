@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
-    <meta name="description" content="Ally Yanxiu Luo is a product designer working with new technology.">
+    <meta name="description" content="Ally Yanxiu Luo is a product designer working with new technologies.">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
@@ -40,7 +40,7 @@
     <header>
         <div class="logo">
             {% if isHomePage %}
-                <p class="home-description">Ally Yanxiu Luo is a New York-based product designer working with new technology.</p>
+                <p class="home-description">Ally Yanxiu Luo is a New York-based product designer working with new technologies.</p>
                 <p class="home-description-phone"><a href="/">Ally Yanxiu Luo</a></p>
             {% else %}
                 <a href="/">Ally Yanxiu Luo</a>
@@ -48,6 +48,7 @@
         </div>
         <nav>
             <a href="/" class="{% if isHomePage %}active{% endif %}">Work</a>
+            <a href="/editorial" class="{% if title == 'Editorial' %}active{% endif %}">Editorial</a>
             <a href="/info" class="{% if title == 'Info' %}active{% endif %}">Info</a>
         </nav>
     </header>

@@ -8,7 +8,7 @@ isHomePage: true
     <div class="div1"><h1>Case Studies</h1></div>
     <div class="div4">
         <h2><a href="./projects/bloom/" style="text-decoration: none; color: black;"><span style="font-weight:400">Bloom</span> | AI-Native Design Tool</a></h2>
-        <p>Building MVP: What happens when the product leads with a solution, not a problem?<br><span style="color:#F87171;"><br>*A fresh 2025 take. Text-heavy, narrative style.</p>
+        <p>Building MVP: What happens when the product leads with a solution, not a problem?</p>
     </div>
     <div class="div5">
         <a href="./projects/bloom/">
@@ -26,7 +26,7 @@ isHomePage: true
     </div>
     <div class="div2">
         <h2><a href="./projects/digitaltemple/" style="text-decoration: none; color: black;"><span style="font-weight:400"> Digital Temple</span> | Ed Tech</a></h2>
-        <p>An online classroom designed with Harvard, making complex simple.</p>
+        <p>Immersive education, made by and for Harvard, making complex simple.</p>
             <a href="https://www.digitaltemple.art" 
                class="hide-mobile"
                style="display: inline-block; margin-top: 2em; padding: 0.2em 0.8em; font-size: 0.9em; background: #000; color: #fff; border-radius: 3px; text-decoration: none; font-weight: 500; border: none; transition: background 0.2s, opacity 0.2s;"

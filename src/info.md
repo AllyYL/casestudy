@@ -6,13 +6,13 @@ layout: "base.njk"
 <br><br>
 <br>
 
-## I'm a product designer working with code and graphics to approach new technology.
+## I'm a product designer approaching new technologies through code and research. I am fascinated by good use of AI in consumer products, great FinTech or DeFi brandings, and in-depth UX research in EdTech.
 <br>
 
-## Outside of client work, [my personal practice](http://www.luoyanxiu.com/) explores the overlap between technology, the body, and sensory experiences—bringing a critical and artistic lens to my design work.
+## Outside of client work, [my personal practice](http://www.luoyanxiu.com/) explores the overlap between technology and sensory experiences through writing and installations.
 <br>
 
-## A favortite theorist of mine Wendy Chun once said, "*Software's vapory materialization and its ghostly interfaces embody—conceptually, metaphorically, virtually—a way to navigate our increasingly complex world.*" And I hope my design can address it through their thinkings and details.
+## A favortite theorist of mine Wendy Chun once said, "Software's vapory materialization and its ghostly interfaces embody a way to navigate our increasingly complex world." And I hope to keep thinking through design on what interface means for us today.
  <br>
 
 ## Always down for a chat. Let's talk! Reach me at [luoyanxiu@gmail.com](mailto:luoyanxiu@gmail.com)
