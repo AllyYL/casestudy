@@ -2,8 +2,19 @@
 title: Info
 layout: "base.njk"
 ---
-<br><br>
-<br><br>
+<div class="desktop-only">
+  <br><br>
+  <br>
+</div>
+<style>
+@media (max-width: 600px) {
+  .desktop-only {
+    display: none !important;
+  }
+}
+</style>
+
+<br>
 <br>
 
 ## I'm a product designer approaching new technologies through code and research. I am fascinated by good use of AI in consumer products, great FinTech or DeFi brandings, and in-depth UX research in EdTech.

@@ -201,6 +201,13 @@ footer {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
+    .editorial {
+        grid-template-columns: 1fr;
+        column-gap: 0;
+        row-gap: 2rem;
+        margin-top: 2rem;
+    }
+
     .parent {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
@@ -296,6 +303,7 @@ footer {
         font-size: 1.3rem;
         max-width: 60%;
         font-weight: 400;
+        font-size: 1rem;
     }
     
     .logo a {
@@ -321,6 +329,7 @@ footer {
         gap: 2rem;
         font-size: 1.3rem;
         padding-right: 0rem;
+        font-size: 1rem;
     }
     
     nav a {
@@ -328,6 +337,7 @@ footer {
         color: #333;
         font-size: 1.3rem;
         position: relative;
+        font-size: 1rem;
     }
     
     nav a:hover, nav a.active {
