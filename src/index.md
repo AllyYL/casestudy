@@ -3,6 +3,7 @@ title: Ally Yanxiu Luo
 layout: "base.njk"
 isHomePage: false
 ---
+<div style="max-width: 680px; width: 100%;">
 <div class="desktop-only">
   <br><br>
   <br>
@@ -17,7 +18,7 @@ isHomePage: false
 
 <br>
 
-## I'm a product designer working and thinking with new technologies. Currently @ [Lekondo](https://lekondo.com).
+## I'm a product designer working and thinking with new technologies. Currently, I'm designing and building @ [Lekondo](https://lekondo.com).
 <br>
 
 ## Outside of work, [my personal practice](http://www.luoyanxiu.com/) explores the overlap between technology and sensory experiences through writing and installations.
@@ -29,7 +30,5 @@ isHomePage: false
 ## Always down for a chat. Let's talk! Reach me at [luoyanxiu@gmail.com](mailto:luoyanxiu@gmail.com)
 <br><br>
 
-## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)
-
-
 <br>
+</div>
