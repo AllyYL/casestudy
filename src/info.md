@@ -17,7 +17,7 @@ layout: "base.njk"
 <br>
 <br>
 
-## I'm a product designer approaching new technologies through code and research. I am fascinated by good use of AI in consumer products, great FinTech or DeFi brandings, and in-depth UX research in EdTech.
+## I'm a product designer working and thinking with new technologies. Some things on my mind recently: good use of AI in consumer products, FinTech or DeFi brandings, and in-depth UX research in EdTech.
 <br>
 
 ## Outside of client work, [my personal practice](http://www.luoyanxiu.com/) explores the overlap between technology and sensory experiences through writing and installations.
@@ -29,7 +29,7 @@ layout: "base.njk"
 ## Always down for a chat. Let's talk! Reach me at [luoyanxiu@gmail.com](mailto:luoyanxiu@gmail.com)
 <br><br>
 
-## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)<br>[Resume](https://drive.google.com/file/d/1E2zJNQdWTJiwKzB_nIACVV_vcJ9c21ya/view?usp=sharing)
+## [LinkedIn](https://www.linkedin.com/in/yanxiu-ally-luo/)
 
 
 <br>
