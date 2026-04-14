@@ -46,7 +46,7 @@ strong {
     max-width: 100%;
     height: auto;
     margin: 0rem auto;
-    border-radius: 4px;
+    border-radius: 0;
 }
 
 /* Highlighted text block */
@@ -274,7 +274,7 @@ strong {
     width: 100%;
     height: auto;
     object-fit: cover;
-    border-radius: 4px;
+    border-radius: 0;
     transition: transform 0.3s ease;
 }
 
