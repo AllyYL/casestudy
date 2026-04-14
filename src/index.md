@@ -1,7 +1,7 @@
 ---
 title: Ally Yanxiu Luo
 layout: "base.njk"
-isHomePage: true
+isHomePage: false
 ---
 <div class="desktop-only">
   <br><br>
