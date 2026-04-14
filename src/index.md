@@ -16,12 +16,11 @@ isHomePage: true
 </style>
 
 <br>
+
+## I'm a product designer working and thinking with new technologies. Currently @ [Lekondo](https://lekondo.com).
 <br>
 
-## I'm a product designer working and thinking with new technologies. Some things on my mind recently: good use of AI in consumer products, FinTech or DeFi brandings, and in-depth UX research in EdTech.
-<br>
-
-## Outside of client work, [my personal practice](http://www.luoyanxiu.com/) explores the overlap between technology and sensory experiences through writing and installations.
+## Outside of work, [my personal practice](http://www.luoyanxiu.com/) explores the overlap between technology and sensory experiences through writing and installations.
 <br>
 
 ## A favortite theorist of mine Wendy Chun once said, "Software's vapory materialization and its ghostly interfaces embody a way to navigate our increasingly complex world." And I hope to keep thinking through design on what interface means for us today.

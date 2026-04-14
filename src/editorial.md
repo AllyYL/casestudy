@@ -10,7 +10,7 @@ layout: "base.njk"
     </a>
     <p>
       An artist book that traces connections between hydraulic networks and information networks.
-      <a href="https://www.printedmatter.org/catalog/67957/" style="text-decoration: underline;" target="_blank" rel="noopener">BUY</a>
+      <a href="https://www.printedmatter.org/catalog/67957/" style="text-decoration: underline;" target="_blank" rel="noopener">More Info</a>
     </p>
   </div>
   <div class="editorial-item">

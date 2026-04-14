@@ -36,7 +36,7 @@
     <meta name="twitter:image" content="/assets/images/og-thumbnail.jpg">
 
 </head>
-<body class="{% if title == 'Info' %}info-page{% endif %}">
+<body>
     <header>
         <div class="logo">
             {% if isHomePage %}
@@ -47,16 +47,15 @@
             {% endif %}
         </div>
         <nav>
-            <a href="/" class="{% if isHomePage %}active{% endif %}">Work</a>
+            <a href="/" class="{% if isHomePage %}active{% endif %}">About</a>
             <a href="/editorial" class="{% if title == 'Editorial' %}active{% endif %}">Editorial</a>
-            <a href="/info" class="{% if title == 'Info' %}active{% endif %}">Info</a>
         </nav>
     </header>
-    <main class="{% if title == 'Info' %}info-content{% endif %}">
+    <main>
         {{ content | safe }}
     </main>
     <footer>
-       © Hand coded by Yanxiu Luo {{ '' | getYear }}
+       © Yanxiu Luo {{ '' | getYear }}
     </footer>
     <div class="back-to-top" id="backToTop"></div>
     <script src="/assets/js/main.js"></script>
